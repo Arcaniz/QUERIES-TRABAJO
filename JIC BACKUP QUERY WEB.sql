@@ -1,14 +1,14 @@
 select
 CONCAT(FAM3.FAMDESCR,'-',FAM5.FAMDESCR,'-',MID(ICOD,1,9),'-',IF (CATDESCR='NEGRO SNOW','GRIS',IF(CATDESCR='CARBON','GRIS',IF(CATDESCR='JASPE','GRIS',IF(CATDESCR='OXFORD','GRIS',IF(CATDESCR='REY','AZUL',IF(CATDESCR='MARINO','AZUL',IF(CATDESCR='JADE','VERDE',IF(CATDESCR='MENTA','MULTICOLOR',IF(CATDESCR='VARIOS','MULTI COLOR',CATDESCR)))))))))) as Handle,
 IDESCR AS Title,
-IF(FAM3.FAMDESCR='PLAYERA',CONCAT('<p>',IDESCR,' ','<br><br>Material 100% AlgodÃ³n peinado</p><p>HECHO EN MÃ‰XICO</p>'),
-IF(FAM3.FAMDESCR='BLUSA',CONCAT('<p>',IDESCR,' ','<br><br>Material 100% AlgodÃ³n peinado</p><p>HECHO EN MÃ‰XICO</p>'),
-IF(FAM4.FAMDESCR='CARTERA',CONCAT('<p>',IDESCR,' ','<br><br>Material Papel laminado resistente al agua</p><p>HECHO EN MÃ‰XICO</p>'),
-IF(FAM4.FAMDESCR='COLLAR',CONCAT('<p>',IDESCR,' ','<br><br>Material Acero inoxidable</p><p>HECHO EN MÃ‰XICO</p>'),
-IF(FAM3.FAMDESCR='SUDADERA',CONCAT('<p>',IDESCR,' ','<br><br>Material Felpa 50% y 50 % poliÃ©ster</p><p>HECHO EN MÃ‰XICO</p>'),
-IF(FAM4.FAMDESCR='PULSERA',CONCAT('<p>',IDESCR,' ','<br><br>Material piel recuperada</p><p>HECHO EN MÃ‰XICO</p>'),
-IF(FAM4.FAMDESCR='PATINETA',CONCAT('<p>',IDESCR,' ','<br><br>7 Capas de maple canadiense</p><p>HECHO EN MÃ‰XICO</p>'),
-CONCAT('<p>',IDESCR,' ','<br><br>Material 100% AlgodÃ³n peinado</p><p>HECHO EN MÃ‰XICO</p>')))))))) as 'Body (HTML)',
+IF(FAM3.FAMDESCR='PLAYERA',CONCAT('<p>',IDESCR,' ','<br><br>Material 100% Algodón peinado</p><p>HECHO EN MÉXICO</p>'),
+IF(FAM3.FAMDESCR='BLUSA',CONCAT('<p>',IDESCR,' ','<br><br>Material 100% Algodón peinado</p><p>HECHO EN MÉXICO</p>'),
+IF(FAM4.FAMDESCR='CARTERA',CONCAT('<p>',IDESCR,' ','<br><br>Material Papel laminado resistente al agua</p><p>HECHO EN MÉXICO</p>'),
+IF(FAM4.FAMDESCR='COLLAR',CONCAT('<p>',IDESCR,' ','<br><br>Material Acero inoxidable</p><p>HECHO EN MÉXICO</p>'),
+IF(FAM3.FAMDESCR='SUDADERA',CONCAT('<p>',IDESCR,' ','<br><br>Material Felpa 50% y 50 % poliéster</p><p>HECHO EN MÉXICO</p>'),
+IF(FAM4.FAMDESCR='PULSERA',CONCAT('<p>',IDESCR,' ','<br><br>Material piel recuperada</p><p>HECHO EN MÉXICO</p>'),
+IF(FAM4.FAMDESCR='PATINETA',CONCAT('<p>',IDESCR,' ','<br><br>7 Capas de maple canadiense</p><p>HECHO EN MÉXICO</p>'),
+CONCAT('<p>',IDESCR,' ','<br><br>Material 100% Algodón peinado</p><p>HECHO EN MÉXICO</p>')))))))) as 'Body (HTML)',
 IF(FAM2.FAMDESCR ='CABALLERO','CHAVOS',IF(FAM2.FAMDESCR ='DAMA','CHAVAS',FAM2.FAMDESCR)) AS Vendor,
 FAM3.FAMDESCR AS 'Type',
 CONCAT(MID(ICOD,1,9),',','playeras99,_cf-talla-s,_cf-talla-m, _cf-talla-l, _cf-talla-xl,_sku_config_',',',MID(ICOD,1,9),
@@ -83,5 +83,4 @@ WHERE ITIPO = 1 AND (CATTIPO ='POL' OR CATTIPO ='TAL') AND (MID(ICOD,1,11)='PLCR
 
 GROUP BY IEAN
 ORDER BY  CONCAT(MID(ICOD,1,9),IF(MID(ICOD,12,13)= 'CH','1', IF(MID(ICOD,12,13)='MD','2',IF(MID(ICOD,12,13)='GD','3',IF(MID(ICOD,12,13)='EG','4',IF(MID(ICOD,12,13)='XX','5', MID(ICOD,12,13)))))))
-
 
