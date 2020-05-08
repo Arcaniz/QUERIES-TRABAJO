@@ -1,0 +1,24 @@
+/*
+Este query excluye todos los documentos sin tipos de movimiento, es decir todo lo que se cargó con layout
+*/
+
+SELECT 
+DFECHA AS FECHA,
+CLICOD AS 'CODIGO CLIENTE',
+CLINOM AS 'NOMBRE PROVEEDOR',
+DCANT AS MONTO,
+DNUM AS DOCUMENTO,
+DREFER AS REFERENCIA,
+DMULTICIA AS COMPAÑIA
+
+
+FROM FDOC
+LEFT JOIN FCLI ON FCLI.CLISEQ = FDOC.CLISEQ
+
+WHERE DITIPMV ='' AND  CLICOD <> ''
+
+
+
+
+
+

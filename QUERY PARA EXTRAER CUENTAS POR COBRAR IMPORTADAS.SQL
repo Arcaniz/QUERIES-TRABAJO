@@ -1,0 +1,24 @@
+/*
+Este query excluye todos los documentos sin tipos de movimiento, es decir todo lo que se cargó con layout
+*/
+SELECT 
+DFECHA AS FECHA,
+PRVCOD AS 'CODIGO PROVEEDOR',
+PRVNOM AS 'NOMBRE PROVEEDOR',
+DCANT AS MONTO,
+DNUM AS DOCUMENTO,
+DREFER AS REFERENCIA,
+DMULTICIA AS COMPAÑIA
+
+
+FROM FDOC
+LEFT JOIN FPRV ON FPRV.PRVSEQ = FDOC.PRVSEQ
+
+WHERE DITIPMV ='' AND  PRVCOD <> ''
+
+
+
+
+
+
+
