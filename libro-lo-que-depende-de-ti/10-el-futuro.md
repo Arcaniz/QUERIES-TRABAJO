@@ -50,7 +50,29 @@ Un criterio práctico: si al pensar en el futuro puedes escribir una acción con
 
 **En una frase:** planear es pensar el futuro para actuar hoy; preocuparse es vivir el futuro sin actuar nunca.
 
-## Cuatro escenas de la vida adulta
+## Lo que dijeron los otros estoicos
+
+### Séneca: la esperanza y el miedo van encadenados
+
+En una de sus cartas, Séneca cita al estoico Hecatón: dejarás de temer si dejas de esperar. Y explica la imagen: la esperanza y el miedo marchan juntos, como el prisionero y el guardia atados por la misma cadena. Ambos miran hacia el futuro. El que espera ansiosamente algo también teme no conseguirlo; el que teme algo también espera que no ocurra. La causa de los dos, dice Séneca, es que no nos adaptamos al presente y mandamos nuestros pensamientos muy lejos.
+
+Esto no significa vivir sin metas. Significa no colgar tu paz de un futuro que no controlas. Puedes trabajar por algo con todas tus fuerzas sin que tu tranquilidad de hoy dependa de conseguirlo.
+
+En otra carta, Séneca escribe la frase que ya mencionamos al inicio del capítulo: hay más cosas que nos asustan que cosas que nos aplastan, y sufrimos más a menudo en la imaginación que en la realidad. Y aconseja no adelantarse a los problemas: muchas de las cosas que tememos quizá nunca lleguen, y las que lleguen no tienen por qué doler antes de tiempo.
+
+### Epicteto: el músico que tiembla
+
+Epicteto observa que cuando ve a alguien angustiado, se pregunta qué es lo que esa persona quiere. Si no quisiera algo que no está en su poder, no estaría angustiada. Pone el ejemplo del músico: cuando toca solo, canta tranquilo; cuando sube al escenario, tiembla. ¿Por qué? Porque no solo quiere cantar bien, que depende de él, sino también ser aplaudido, que no depende de él.
+
+La ansiedad, según esta lectura, es casi siempre el síntoma de un deseo puesto en el lugar equivocado.
+
+### Lo que dice la ciencia hoy
+
+Un estudio de 2019, de los investigadores Lucas LaFreniere y Michelle Newman, pidió a personas con ansiedad generalizada que anotaran sus preocupaciones durante varios días y luego revisaran cuáles se habían cumplido. La gran mayoría, alrededor del 90 %, no ocurrió. Y en muchos de los casos en que sí ocurrió algo, el resultado fue mejor de lo que habían temido. Es un estudio pequeño, pero ilustra muy bien la frase de Séneca.
+
+Además, una técnica que se usa en algunos tratamientos para la preocupación excesiva, desarrollada a partir de los trabajos del psicólogo Thomas Borkovec, consiste en reservar un tiempo fijo del día para preocuparse y posponer las preocupaciones que aparecen fuera de ese horario. Es la idea del "horario de planeación" que propusimos en el ejercicio de este capítulo.
+
+## Seis escenas de la vida adulta
 
 ### En la pareja: el miedo a que se acabe
 
@@ -82,6 +104,20 @@ Su contador le enseña una herramienta que habría encantado a Marco: los tres e
 
 **Si acompañas a tus hijos:** Claudia se angustia por el futuro de Sofía: ¿tendrá buenas calificaciones para la secundaria? ¿Encontrará trabajo cuando crezca? ¿Qué mundo le va a tocar? Se da cuenta de que esa angustia la vuelve controladora: revisa la tarea con lupa, compara a su hija con otras niñas. Decide algo más útil: ocuparse de lo que Sofía necesita hoy, que es una mamá tranquila, una cena juntas y alguien que la escuche. El futuro de Sofía no se construye con la ansiedad de su madre; se construye con lo que viven cada día.
 
+### En la familia: los papás que envejecen
+
+Laura no puede dejar de pensar en lo que pasará cuando sus papás ya no puedan valerse por sí mismos. ¿Quién los cuidará? ¿Tendrán dinero suficiente? ¿Tendrá ella que dejar de trabajar? Cada visita a sus padres está teñida de esa angustia, y en lugar de disfrutarlos, los observa buscando señales de deterioro.
+
+Aplica la diferencia entre planear y preocuparse. **Planear:** una conversación con sus hermanos y con sus papás sobre lo que ellos quieren, revisar si tienen seguro médico y testamento, averiguar qué opciones de cuidado hay cerca. Lo hacen en dos reuniones. **Preocuparse:** todo lo demás.
+
+Con el plan hecho, Laura vuelve a visitar a sus papás para lo que importa: comer con ellos, oír las historias de su papá por enésima vez, aprender la receta del mole de su mamá. El futuro llegará. Hoy, ellos están aquí.
+
+### En el dinero y la salud: el retiro
+
+Andrés tiene 41 años y no ha pensado en su retiro. Cuando lo hace, siente pánico: no ha ahorrado lo suficiente, las pensiones son inciertas, ha oído historias de personas mayores sin dinero. La angustia es tan grande que prefiere no pensar en eso. Y como no piensa, no actúa.
+
+Es el ejemplo perfecto de cómo la preocupación paraliza. Andrés decide transformar el miedo en plan: revisa su estado de cuenta de ahorro para el retiro, hace una cita con un asesor financiero y decide aportar una cantidad pequeña, pero fija, cada mes. No resuelve el futuro de un golpe. Pero por primera vez lo enfrenta con las armas que tiene hoy.
+
 ## Lo que este capítulo no dice
 
 **"No pienses en el futuro."** No. Piensa en él para prepararte. Lo que no sirve es vivirlo antes de tiempo.
@@ -100,6 +136,12 @@ Ten una libreta y una pluma junto a la cama. Cuando la preocupación te despiert
 4. Pregúntate: **¿qué hay de insoportable en este momento?** Respira tres veces y vuelve a acostarte.
 
 Durante el día, dedica quince minutos fijos a "planear el futuro": finanzas, salud, trabajo. Fuera de esos quince minutos, cuando aparezca la preocupación, dile: "Te atiendo en el horario de planeación".
+
+### El ejercicio en tres niveles
+
+- **Principiante:** ten una libreta junto a la cama y usa la hoja de las 3 de la mañana cuando la necesites.
+- **Intermedio:** durante dos semanas, anota tus preocupaciones principales con fecha. Al final, revisa cuáles ocurrieron y cuáles no, como en el estudio de LaFreniere y Newman.
+- **Avanzado:** aplica la pregunta de Epicteto a tu ansiedad más grande: ¿qué quiero aquí que no está en mi poder? Escribe cómo sería perseguir la parte que sí depende de ti sin que tu paz dependa de la que no.
 
 ## Pregunta para el diario
 

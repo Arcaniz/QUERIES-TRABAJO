@@ -46,7 +46,27 @@ La posición honesta probablemente está en medio: el primer movimiento de enojo
 
 **En una frase:** que el enojo te avise; que la razón decida.
 
-## Cuatro escenas de la vida adulta
+## Lo que dijeron los otros estoicos
+
+### Séneca: el mejor remedio es esperar
+
+Séneca dedicó tres libros enteros a la ira, y en ellos insiste en una idea: el mejor remedio contra la ira es la demora. La primera ola es la más fuerte; si la dejas pasar, la ira pierde fuerza por sí sola.
+
+Cuenta una anécdota de Platón. Un día, enojado con un esclavo, Platón levantó la mano para golpearlo. Pero se dio cuenta de que estaba furioso y se quedó inmóvil, con la mano en el aire. Un amigo llegó y le preguntó qué hacía. Platón respondió: "Estoy castigando a un hombre enojado". Se castigaba a sí mismo por haber estado a punto de actuar con ira. Séneca añade que, en ese momento, Platón decidió no castigar al esclavo él mismo, porque no confiaba en su propio juicio mientras estuviera enojado.
+
+### Epicteto: gana tiempo
+
+Epicteto da un consejo parecido en el *Manual*: cuando alguien te ofenda, recuerda que no es el que te insulta o te golpea quien te ofende, sino tu opinión de que eso es una ofensa. Y añade una instrucción muy concreta: no te dejes arrastrar por la primera impresión. Gana tiempo, date un respiro, y te será más fácil dominarte.
+
+"Gana tiempo" quizá sea el consejo más útil contra la ira jamás escrito. Contar hasta diez, salir a caminar, esperar al día siguiente para responder el correo: todas son formas de ganar tiempo.
+
+### Lo que dice la ciencia hoy
+
+Durante mucho tiempo se creyó que "desahogarse" golpeando algo o gritando ayudaba a liberar la ira. En 2002, el psicólogo Brad Bushman publicó un experimento muy citado: las personas que golpeaban un saco de boxeo mientras pensaban en quien las había hecho enojar terminaban, en promedio, más agresivas que las que no hacían nada. Desahogarse de esa manera parecía alimentar la ira, no apagarla, tal como habría predicho Epicteto con su idea de los hábitos.
+
+Lo que sí parece ayudar, según distintas líneas de investigación, es tomar distancia: calmar el cuerpo, esperar y luego reinterpretar la situación. Es decir, exactamente lo que proponían Séneca y Epicteto hace dos mil años.
+
+## Seis escenas de la vida adulta
 
 ### En la pareja: la discusión que escala
 
@@ -78,6 +98,20 @@ Tres semanas después, un cliente nuevo le dice: "Te contraté por cómo respond
 
 **Si acompañas a tus hijos:** un niño empuja a Sofía en la fila. Ella llega a casa furiosa: "Mañana yo lo voy a empujar". Claudia no le dice "no te enojes". Le dice: "Tienes razón en estar enojada. ¿Y quieres ser alguien que empuja?". Juntas piensan qué hacer: decírselo al niño con firmeza, avisar a la maestra si se repite. Sofía aprende que se puede defender sin parecerse al que la ofendió.
 
+### En la familia: el hijo adolescente
+
+El hijo mayor de Jorge tiene quince años y le contesta mal casi todos los días. Jorge, que llega cansado del trabajo, siente que la sangre le hierve. Varias veces terminaron gritándose y azotando puertas.
+
+Jorge prueba la regla de Séneca: cuando su hijo le contesta mal, no responde en el momento. Le dice: "Ahorita no voy a hablar contigo así; platicamos en la cena". En la cena, ya calmado, le dice qué le molestó y escucha lo que le pasa a su hijo. Resulta que el chico tiene problemas con un grupo de compañeros y llega a casa cargando eso.
+
+No se acabaron las contestaciones. Pero se acabaron los portazos. Y Jorge descubrió que detrás de muchas groserías de su hijo había algo que no le estaba contando.
+
+### En el dinero y la salud: el tráfico y la presión arterial
+
+Ricardo descubre en un chequeo que tiene la presión alta. El médico le pregunta por su estrés. Ricardo se da cuenta de que se enoja en el tráfico todos los días, dos veces al día, durante más de una hora.
+
+No puede cambiar el tráfico. Pero puede cambiar lo que hace en él. Empieza a salir diez minutos antes para no ir con prisa, escucha audiolibros y, cada vez que siente que se le sube el enojo, repite en voz baja: "Gana tiempo". Le parece ridículo al principio. Tres meses después, su presión ha bajado. El médico le atribuye una parte a la dieta y al ejercicio. Ricardo sabe que otra parte vino de dejar de pelearse con el periférico.
+
 ## Lo que este capítulo no dice
 
 **"Sé amable con todos aunque te maltraten."** No. La amabilidad estoica incluye corregir, poner límites y alejarse. No es tolerar el abuso.
@@ -103,6 +137,12 @@ Escribe en una tarjeta una versión corta de los recordatorios de Marco para cua
 Cada vez que sientas ira esta semana, antes de responder, lee la tarjeta completa. Te tomará treinta segundos. En esos treinta segundos pasa la ola.
 
 Además, practica la regla de las 24 horas: ningún correo, mensaje o decisión importante en caliente. Escríbelo si quieres, pero no lo envíes hasta el día siguiente.
+
+### El ejercicio en tres niveles
+
+- **Principiante:** aplica la regla de las 24 horas a todos los mensajes y correos que escribas enojado esta semana.
+- **Intermedio:** lleva la cuenta de Epicteto: marca en un calendario cada día que pases sin explotar. Intenta llegar a siete seguidos.
+- **Avanzado:** cuando alguien te ofenda, antes de responder, escribe la mejor versión posible de sus motivos, la más generosa que se te ocurra. No tienes que creerla. Solo tienes que considerarla antes de actuar.
 
 ## Pregunta para el diario
 

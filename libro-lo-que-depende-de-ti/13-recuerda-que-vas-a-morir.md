@@ -44,7 +44,29 @@ Dicho esto, hay que ser cuidadosos. Si estás pasando por un duelo reciente, por
 
 **En una frase:** recordar la muerte no es amar la muerte, sino aprender a amar la vida antes de que termine.
 
-## Cuatro escenas de la vida adulta
+## Lo que dijeron los otros estoicos
+
+### Séneca: "he vivido"
+
+Séneca escribió mucho sobre la muerte, y casi siempre para hablar de la vida. En una carta propone un ejercicio para cada noche: irse a dormir alegre y decir "he vivido; he recorrido el camino que la fortuna me dio". Si mañana nos es dado, añade, recibámoslo como una ganancia. Quien puede decir "he vivido" cada noche se levanta cada mañana con un día de regalo.
+
+En otra carta afirma que morimos cada día: cada día perdemos una parte de la vida, y la muerte no es un acontecimiento lejano, sino algo que ya está ocurriendo. No lo dice para deprimirse, sino para valorar las horas que sí tenemos.
+
+Séneca mismo tuvo que enfrentar la muerte de forma brutal: Nerón le ordenó quitarse la vida. Según el historiador Tácito, la enfrentó con serenidad, consolando a sus amigos y recordándoles lo que había intentado enseñarles.
+
+### Epicteto: no digas "lo perdí"
+
+Epicteto da un consejo que puede parecer duro, pero que muchas personas en duelo han encontrado consolador con el tiempo. Nunca digas de algo "lo perdí", sino "lo devolví". ¿Murió tu hijo? Fue devuelto. ¿Murió tu esposa? Fue devuelta. Mientras te lo dejen, dice, cuídalo como algo que no es tuyo, como los viajeros cuidan la posada en la que se hospedan.
+
+Hay que leer esto con delicadeza. Epicteto no pide no llorar. Pide recordar que las personas que amamos nunca fueron nuestras: fueron un regalo. Y que el dolor de perderlas es, de algún modo, la medida de lo que nos dieron.
+
+### Lo que dice la ciencia hoy
+
+Los psicólogos Thomas Gilovich y Victoria Medvec estudiaron en los años noventa de qué se arrepienten las personas. Encontraron que, a corto plazo, solemos lamentar más lo que hicimos mal, pero a largo plazo, al mirar la vida en perspectiva, lamentamos más lo que no hicimos: las oportunidades no tomadas, las palabras no dichas, los caminos no explorados.
+
+Es una confirmación moderna de la pregunta de este capítulo: ¿qué estoy posponiendo como si tuviera diez mil años? Las cosas que no hacemos por creer que habrá tiempo son las que más pesan cuando el tiempo se acaba.
+
+## Seis escenas de la vida adulta
 
 ### En la pareja: lo que no se dice
 
@@ -78,6 +100,20 @@ Un historiador romano tardío, Amiano Marcelino, cuenta una anécdota sobre Sóc
 
 **Si acompañas a tus hijos:** muere la abuela de Sofía. Es la primera muerte cercana para la niña. Claudia no le dice que la abuela "se fue de viaje" ni que "está dormida". Le explica, con palabras sencillas, que la abuela murió, que es natural y triste, y que pueden recordarla. Juntas hacen una lista de las cosas que aprendieron de ella: como un pequeño Libro I. Sofía aprende que la muerte se puede nombrar, llorar y convertir en gratitud.
 
+### En la familia: la conversación pendiente
+
+Ricardo y su hermano, el que vive cerca de su mamá y casi nunca la visita, terminaron peleados hace un año. La última discusión fue a gritos, en la cocina de su mamá, y desde entonces solo se hablan lo indispensable. Los dos creen tener razón.
+
+Cuando a un tío, el hermano de su papá, le diagnostican una enfermedad grave, Ricardo se descubre pensando en algo que no quería pensar: algún día, uno de los dos hermanos va a enterrar al otro, y la pelea seguiría ahí, sin resolver.
+
+Le escribe un mensaje corto: "No sé si tengo razón o no. Pero no quiero que esto sea lo último entre nosotros". Su hermano tarda dos días en responder. Se ven en una cantina cerca de la casa de su mamá. No resuelven todo. Pero el domingo siguiente, por primera vez en un año, comen juntos con ella.
+
+### En el dinero y la salud: el chequeo pospuesto
+
+Andrés lleva cuatro años sin hacerse un chequeo médico. Siempre hay algo más urgente: el trabajo, los pendientes, la flojera de ir a la clínica. Después del infarto de su papá, contado al inicio de este capítulo, recuerda la frase de Marco: no actúes como si fueras a vivir diez mil años.
+
+Esa misma semana saca cita. Los estudios salen casi bien: un poco de colesterol, nada grave. El médico le dice que está a tiempo. Andrés sale de la clínica pensando que cuidar su salud no es solo un asunto personal: es una forma de cuidar a Laura y a su hijo, que dependen de que él esté ahí.
+
 ## Nota del autor
 
 Cuando murió mi papá, los problemas del trabajo cambiaron de tamaño de un día para otro. El reporte urgente, la junta tensa, el correo que antes me habría quitado el sueño, todo se volvió pequeño. No escribo esto para decir que el duelo tenga un lado bueno; no lo tiene. Lo escribo porque me dejó una pregunta que sigo usando: ¿esto va a importar dentro de un año? Casi siempre la respuesta es no. Y cuando la respuesta es sí, casi siempre se trata de una persona, no de una tarea.
@@ -97,6 +133,12 @@ Cuando murió mi papá, los problemas del trabajo cambiaron de tamaño de un dí
 3. Hazla esta semana con esa conciencia: sin celular, mirando, escuchando.
 4. Escribe una carta a alguien importante diciéndole lo que te gustaría que supiera si mañana ya no estuvieras. No tienes que entregarla. Pero si decides hacerlo, mejor.
 5. Revisa tu agenda y pregúntate: **¿qué de esto haría si supiera que mi tiempo es limitado?** Porque lo es.
+
+### El ejercicio en tres niveles
+
+- **Principiante:** esta noche, antes de dormir, di como Séneca: "He vivido". Piensa en una sola cosa del día que valió la pena.
+- **Intermedio:** escribe la lista de las tres conversaciones, visitas o acciones que llevas tiempo posponiendo y que lamentarías no haber hecho. Elige una y hazla este mes.
+- **Avanzado:** escribe tu propio obituario, no el que tendrías si murieras hoy, sino el que te gustaría que escribieran dentro de muchos años. Luego compáralo con tu agenda de esta semana. La distancia entre los dos es tu trabajo pendiente.
 
 ## Pregunta para el diario
 

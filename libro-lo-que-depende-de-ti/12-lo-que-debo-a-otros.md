@@ -45,7 +45,27 @@ Además, el Libro I no está escrito solo a la familia. Hay maestros, amigos, un
 
 **En una frase:** también se aprende de quien te enseñó lo que no quieres ser.
 
-## Cuatro escenas de la vida adulta
+## Lo que dijeron los otros estoicos
+
+### Séneca: el arte de recibir
+
+Séneca escribió siete libros *Sobre los beneficios*, un tratado entero sobre cómo dar, recibir y agradecer. Una de sus ideas más finas es que agradecer también es un arte, y que muchas personas no saben hacerlo: reciben con indiferencia, olvidan pronto o se sienten humilladas por deber algo. Para Séneca, quien recibe un favor con verdadera gratitud ya pagó la primera parte de la deuda.
+
+Séneca también advierte contra la ingratitud más común: no la de quien niega haber recibido algo, sino la de quien simplemente lo olvida. Por eso la gratitud, para los estoicos, no es solo un sentimiento, sino un ejercicio de memoria.
+
+### Epicteto: agradecer lo que tenemos para enfrentar la vida
+
+Epicteto dedica una de sus lecciones a agradecer algo que casi nunca agradecemos: nuestras propias capacidades. Dice que si fuéramos sensatos, no haríamos otra cosa que alabar y dar gracias, porque recibimos las facultades necesarias para soportar todo lo que nos pasa: la paciencia, la valentía, la razón. Se queja de que la mayoría de las personas, en lugar de agradecer esas capacidades, se lamentan de lo que les ocurre.
+
+Es una gratitud distinta a la de Marco: no hacia otras personas, sino hacia lo que uno lleva dentro para enfrentar la vida. Las dos se complementan.
+
+### Lo que dice la ciencia hoy
+
+En un estudio de 2003 que se volvió muy influyente, los psicólogos Robert Emmons y Michael McCullough pidieron a un grupo de participantes que anotaran cada semana cosas por las que se sentían agradecidos, a otro que anotaran molestias y a un tercero que anotaran simplemente acontecimientos. Los del grupo de gratitud reportaron, en promedio, sentirse mejor con su vida y más optimistas. Investigaciones posteriores han encontrado resultados en la misma dirección, aunque con efectos moderados, y no como una cura milagrosa.
+
+Lo interesante es que varios estudios coinciden con el método de Marco: la gratitud parece funcionar mejor cuando es específica y cuando se expresa a la persona, no solo cuando se siente en privado.
+
+## Seis escenas de la vida adulta
 
 ### En la pareja: lo que aprendí de ti
 
@@ -77,6 +97,18 @@ Decide hacer algo con esa lista: en diciembre, en lugar de mandar regalos corpor
 
 **Si acompañas a tus hijos:** al final del ciclo escolar, Claudia le propone a Sofía escribirle una carta a su maestra. No "gracias por todo", sino tres cosas concretas que aprendió con ella. Sofía escribe: "Me enseñó a no tenerle miedo a equivocarme cuando paso al pizarrón". La maestra guarda la carta. Claudia, sin decirlo, le enseñó a su hija el ejercicio que abre las *Meditaciones*.
 
+### En la familia: los abuelos
+
+Claudia nunca tuvo una buena relación con su papá. Era distante, a veces duro. Cuando él enferma, Claudia lo visita por obligación. Un día, su terapeuta le propone escribir su Libro I sobre él, incluyendo lo bueno y lo que no quiere repetir.
+
+Claudia escribe: "De mi papá aprendí a trabajar duro y a cumplir mi palabra. También aprendí cómo no quiero hablarle a mi hija". Al leerlo, se da cuenta de que las dos cosas son verdad y de que puede agradecer la primera sin justificar la segunda. En la siguiente visita le dice a su papá solo la primera parte. Él no responde gran cosa, pero esa tarde le pide que le traiga a la nieta.
+
+### En el dinero y la salud: el médico de cabecera
+
+Jorge tiene un médico familiar que lo atiende desde niño. Cuando le detectaron colesterol alto hace años, el doctor no solo le dio una receta: le explicó con paciencia qué estaba pasando y le habló claro sobre sus hábitos. Jorge nunca le dio las gracias más allá del "gracias, doctor" de cada consulta.
+
+En su Libro I, Jorge escribe: "Del doctor Méndez aprendí que cuidarse es una responsabilidad con la familia, no una vanidad". Le lleva la hoja en la siguiente consulta. El doctor, que ya está por jubilarse, la guarda en el cajón de su escritorio. Jorge se da cuenta de que hay personas que sostienen nuestra vida durante décadas sin que nunca se lo digamos.
+
 ## Lo que este capítulo no dice
 
 **"Debes agradecer a quien te hizo daño."** No. Puedes reconocer lo que aprendiste de una mala experiencia sin agradecerle a quien te la causó.
@@ -92,6 +124,12 @@ Decide hacer algo con esa lista: en diciembre, en lugar de mandar regalos corpor
 3. Incluye al menos una persona de la que aprendiste lo que **no** quieres ser.
 4. Elige a una persona viva de la lista y hazle saber, por mensaje, carta o en persona, lo que escribiste sobre ella.
 5. Guarda la lista. Vuelve a leerla cuando te sientas solo o cuando sientas que lo lograste todo tú.
+
+### El ejercicio en tres niveles
+
+- **Principiante:** cada noche, escribe una gratitud específica: no "mi familia", sino "que mi hermano me llamó para preguntar cómo estaba".
+- **Intermedio:** escribe tu Libro I completo, con al menos diez personas, incluida una de la que aprendiste lo que no quieres ser.
+- **Avanzado:** haz lo que se conoce como *visita de gratitud*: escribe una carta de una página a alguien que influyó en tu vida y léesela en persona o por videollamada.
 
 ## Pregunta para el diario
 

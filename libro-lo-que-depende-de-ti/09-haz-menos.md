@@ -43,7 +43,27 @@ El criterio no es la comodidad. Es la función. Y hay que tener el valor de dist
 
 **En una frase:** lo necesario no es lo que te gusta, sino lo que sirve; y a veces lo que sirve no te gusta.
 
-## Cuatro escenas de la vida adulta
+## Lo que dijeron los otros estoicos
+
+### Séneca: no es que la vida sea corta
+
+En *Sobre la brevedad de la vida*, Séneca escribe una frase que parece escrita para nuestra época: no es que tengamos poco tiempo, sino que perdemos mucho. La vida es suficientemente larga, dice, si se usa bien. Pero cuando se gasta en lujos, en descuidos, en ocupaciones que no sirven para nada, nos damos cuenta de que se fue sin que la viviéramos.
+
+Séneca describe a los que llama *ocupados*: personas que corren de un compromiso a otro, que atienden a todos menos a sí mismas, que esperan "la jubilación" para empezar a vivir. Y se pregunta con ironía quién les garantiza que vivirán hasta entonces.
+
+### Epicteto: conformarse con parecer tonto
+
+Epicteto da un consejo que viene muy bien a quienes no saben decir que no: si quieres progresar, conténtate con parecer necio e ignorante en las cosas externas. No pretendas saber de todo ni estar en todo. Si algunos te consideran importante, desconfía de ti mismo.
+
+Decir que no a lo innecesario tiene un costo: a veces vas a parecer descortés, poco comprometido o fuera de onda. Epicteto te pide aceptar ese costo. Quien quiere quedar bien con todos termina sin tiempo para lo que importa.
+
+### Lo que dice la ciencia hoy
+
+La investigadora Gloria Mark ha estudiado durante años cómo trabajamos frente a las pantallas. Uno de sus hallazgos más citados es que, después de una interrupción, a muchas personas les toma bastante tiempo, en algunos estudios alrededor de veinte minutos o más, volver de lleno a la tarea original. Además, sus investigaciones han observado que la atención en pantalla cambia de foco cada vez más rápido.
+
+Otras investigaciones sobre la multitarea sugieren que, en la mayoría de los casos, no hacemos dos cosas a la vez, sino que saltamos rápidamente de una a otra, y cada salto tiene un costo. Dicho en términos de Marco: cada pensamiento y cada acción innecesarios no solo ocupan su propio tiempo, sino que contaminan el de lo necesario.
+
+## Seis escenas de la vida adulta
 
 ### En la pareja: la agenda llena
 
@@ -81,6 +101,18 @@ Aplica la pregunta: ¿qué es necesario para aprender esto bien? Identifica los 
 
 **Si acompañas a tus hijos:** Sofía está inscrita en inglés, natación, piano y robótica. Está cansada y de mal humor. Claudia y Sofía revisan juntas las actividades y le preguntan a la niña cuáles disfruta de verdad. Se quedan con dos. Sofía vuelve a tener tardes para jugar, que es, a los diez años, algo necesario.
 
+### En la familia: el favor de siempre
+
+La familia de Ricardo tiene la costumbre de pedirle a él todo lo que tiene que ver con trámites: el pago del predial de su tía, la declaración de impuestos de su primo, la renovación de la licencia de su hermano. "Como tú sabes de eso". Ricardo nunca dice que no, y pasa los fines de semana haciendo trámites ajenos.
+
+Se pregunta: ¿esto es necesario? Algunas cosas lo son: su mamá de verdad necesita ayuda con sus papeles. Otras no: su primo y su hermano pueden hacerlo solos. Les ofrece algo distinto: en lugar de hacerles el trámite, les enseña a hacerlo una vez. Al principio se quejan. Al año, ya no lo necesitan, y Ricardo recupera sus sábados.
+
+### En el dinero y la salud: las suscripciones
+
+Mariana revisa su estado de cuenta y encuentra once suscripciones: tres plataformas de video, dos de música, una aplicación de meditación que no abre desde marzo, un programa de diseño que ya no usa, una revista digital, un gimnasio en línea y dos servicios que ni siquiera recuerda haber contratado.
+
+Aplica la pregunta de Marco a cada una: ¿esto es necesario? Cancela siete. Ahorra casi mil pesos al mes. Pero descubre algo más: con menos plataformas, pasa menos tiempo eligiendo qué ver y más tiempo haciendo otras cosas. La poda del dinero fue también una poda del tiempo.
+
 ## Lo que este capítulo no dice
 
 **"Haz lo mínimo."** No. Lo necesario a veces es mucho. Marco trabajaba intensamente. Se trata de quitar lo superfluo, no de hacer poco.
@@ -95,6 +127,12 @@ Aplica la pregunta: ¿qué es necesario para aprender esto bien? Identifica los 
 2. **Lista de pendientes:** borra todas las tareas que llevan más de un mes ahí y que no han tenido consecuencias por no hacerse. Si eran importantes, volverán.
 3. **Pensamientos:** cuando te descubras rumiando algo (una conversación, un miedo, una ofensa), pregúntate en voz baja: "¿este pensamiento es necesario?". Si no lo es, vuelve a lo que estabas haciendo.
 4. **Lo necesario que falta:** escribe una sola cosa necesaria que llevas tiempo posponiendo. Ponla en tu agenda con hora y fecha.
+
+### El ejercicio en tres niveles
+
+- **Principiante:** cada mañana, elige las tres cosas necesarias del día y escríbelas antes de abrir el correo.
+- **Intermedio:** practica un "no" amable a la semana: rechaza un compromiso, una junta o un favor que no sea necesario, sin dar explicaciones largas.
+- **Avanzado:** haz una auditoría de tu tiempo durante tres días: anota en bloques de media hora qué hiciste. Al final, marca qué fue necesario y qué no. Calcula cuántas horas a la semana se te van en lo innecesario y decide qué harías con la mitad de ellas.
 
 ## Pregunta para el diario
 

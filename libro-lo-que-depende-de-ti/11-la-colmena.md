@@ -44,7 +44,27 @@ Además, una colmena que maltrata a sus abejas no sobrevive. El bien del grupo i
 
 **En una frase:** servir a la colmena no es obedecer al grupo; es cuidar lo que lo hace bueno.
 
-## Cuatro escenas de la vida adulta
+## Lo que dijeron los otros estoicos
+
+### Séneca: somos miembros de un gran cuerpo
+
+En una de sus cartas más largas, Séneca resume la ética estoica de la convivencia en una imagen: somos miembros de un gran cuerpo. La naturaleza nos hizo parientes, al formarnos de la misma materia y para los mismos fines. Y cita un verso del comediógrafo latino Terencio que se volvió famoso: "Soy humano; nada de lo humano me es ajeno".
+
+Séneca compara la sociedad con una bóveda de piedras: se caería si las piedras no se sostuvieran unas a otras, y precisamente por eso se mantiene en pie.
+
+### Musonio Rufo: el matrimonio como comunidad de vida
+
+Musonio Rufo, maestro de Epicteto, fue uno de los pocos filósofos antiguos que escribió con detalle sobre el matrimonio, y lo hizo de una forma sorprendentemente moderna para su tiempo. Para él, el matrimonio no era solo una forma de tener hijos, sino una comunidad de vida en la que los dos se cuidan mutuamente, en la salud y en la enfermedad, y en la que cada uno busca superar al otro en atención y cuidado. Musonio también defendió, algo raro en su época, que las mujeres debían estudiar filosofía igual que los hombres.
+
+Si la pareja es una colmena de dos, Musonio sería su mejor apicultor: no se trata de quién gana, sino de quién cuida mejor lo que tienen en común.
+
+### Lo que dice la ciencia hoy
+
+El psicólogo John Gottman ha estudiado durante décadas a parejas en su laboratorio. Una de sus observaciones más conocidas es que ciertas conductas en las discusiones, como la crítica a la persona en lugar de la conducta, el desprecio, la actitud defensiva y la evasión, son señales de alerta para la relación. Lo que suele distinguir a las parejas estables no es que no discutan, sino cómo lo hacen y cómo reparan después.
+
+En el mundo del trabajo, un proyecto de investigación interno de Google, conocido como Proyecto Aristóteles, buscó qué distinguía a sus equipos más eficaces. Una de sus conclusiones más difundidas fue la importancia de la *seguridad psicológica*: que los miembros del equipo sientan que pueden hablar, preguntar o equivocarse sin ser humillados. Un concepto que la investigadora Amy Edmondson había estudiado antes. Es, en términos de Marco, una colmena sana.
+
+## Seis escenas de la vida adulta
 
 ### En la pareja: ganar la discusión
 
@@ -78,6 +98,18 @@ Unos meses después, una competidora le pide ayuda con un proyecto que no puede 
 
 **Si acompañas a tus hijos:** en el salón de Sofía hay una niña nueva que nadie invita a jugar. Sofía tampoco, porque teme que sus amigas la dejen de lado. Claudia le cuenta la idea de los círculos de Hierocles: "Ahora esa niña está en tu círculo de afuera. ¿Qué pasaría si la acercas un poco?". Al día siguiente, Sofía la invita a comer con ellas. No pasa nada malo. La colmena se hace un poco más grande.
 
+### En la familia: la herencia
+
+Cuando muere la abuela de Andrés, sus tíos empiezan a pelear por la casa. Cada uno tiene argumentos: quién la cuidó más, quién puso dinero para la remodelación, quién vive más cerca. En dos meses, hermanos que se querían dejan de hablarse.
+
+Andrés, que es el nieto mayor, les propone hacer la pregunta de la colmena: ¿qué le conviene a la familia? Les recuerda que la abuela pasó la vida reuniéndolos en esa casa. Venderla y repartir puede ser justo, pero perder a la familia por ella sería traicionar lo que la casa significaba. Proponen un mediador. Tardan casi un año, pero llegan a un acuerdo. No todos quedan contentos. Pero vuelven a sentarse juntos en Navidad.
+
+### En el dinero y la salud: las cuentas en pareja
+
+Laura y Andrés siempre manejaron su dinero por separado: cada quien pagaba sus cosas y dividían los gastos de la casa a la mitad. Funcionaba, hasta que Laura empezó a ganar menos por un cambio de trabajo y la mitad de los gastos se volvió una carga para ella.
+
+Se sientan a pensar como colmena. Deciden aportar a una cuenta común en proporción a lo que gana cada uno, mantener una parte separada para los gastos personales de cada quien y tomar juntos las decisiones grandes. No es el único modelo posible, y cada pareja tiene que encontrar el suyo. Pero el cambio de pregunta, de "¿qué es justo para mí?" a "¿qué nos conviene a los dos?", les quitó una fuente de resentimiento que llevaban años cargando.
+
 ## Lo que este capítulo no dice
 
 **"Sacrifícate siempre por el grupo."** No. Un grupo sano necesita miembros sanos. Cuidarte también es cuidar a la colmena.
@@ -92,6 +124,12 @@ Unos meses después, una competidora le pide ayuda con un proyecto que no puede 
 2. Escribe en cada círculo una persona concreta.
 3. Durante la semana, haz una acción pequeña para acercar a alguien de un círculo externo: saluda por su nombre al vigilante, ayuda a un compañero que no es tu amigo, paga a tiempo a tu proveedor más pequeño, escribe a un familiar con quien hablas poco.
 4. Antes de cada decisión importante de la semana, pregúntate: **¿esto le conviene a la colmena?**
+
+### El ejercicio en tres niveles
+
+- **Principiante:** antes de cada decisión importante de la semana, pregúntate en voz alta: "¿esto le conviene a la colmena?".
+- **Intermedio:** en tu próxima discusión con tu pareja o un colega, siéntense del mismo lado de la mesa y escriban el problema en una hoja frente a ustedes.
+- **Avanzado:** identifica una situación en la que estés "ganando" a costa de alguien de tu colmena: un colega, un proveedor, un familiar. Busca una forma de que ambos ganen, aunque tú ganes un poco menos.
 
 ## Pregunta para el diario
 

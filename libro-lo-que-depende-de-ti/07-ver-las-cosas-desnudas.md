@@ -45,7 +45,29 @@ La regla podría ser esta: desnuda lo que te esclaviza; deja vestido lo que te h
 
 **En una frase:** desnudar las cosas no es despreciarlas, sino liberarte de su hechizo.
 
-## Cuatro escenas de la vida adulta
+## Lo que dijeron los otros estoicos
+
+### Epicteto: recuerda qué es lo que amas
+
+Epicteto propone un ejercicio parecido al de Marco, pero aplicado a lo que queremos. Con cada cosa que te agrada o te es útil, dice, recuerda qué es, empezando por lo más pequeño. Si te gusta una jarra, di: "Me gusta una jarra". Así, si se rompe, no te perturbarás.
+
+El ejemplo parece trivial, pero el método es poderoso. Cuando describes algo tal como es, le quitas el poder de desbordarte. Un coche nuevo es un coche; un teléfono es un teléfono. Puedes disfrutarlos, pero no te van a destruir si se rayan o se pierden.
+
+### Séneca: no es pobre el que tiene poco
+
+Séneca escribió una frase que se ha citado durante siglos: no es pobre el que tiene poco, sino el que desea más. La riqueza, para él, no se mide por lo que uno posee, sino por la distancia entre lo que tiene y lo que desea. Quien desea sin límite siempre será pobre, aunque tenga millones.
+
+Séneca, por cierto, era uno de los hombres más ricos de Roma, y sus críticos le reprochaban esa contradicción. Él respondía que el sabio puede tener riquezas siempre que no las tenga en el corazón. Es una respuesta discutible, y conviene leerlo con esa tensión: un filósofo rico que predica la sencillez nos recuerda que la idea es más fácil de escribir que de vivir.
+
+### Lo que dice la ciencia hoy
+
+Los psicólogos llaman *adaptación hedónica* a la tendencia a acostumbrarnos a las cosas buenas: el coche nuevo, el aumento de sueldo o la casa más grande nos dan una alegría que, con el tiempo, vuelve a un nivel parecido al de antes. Un estudio clásico de 1978, de Philip Brickman y sus colegas, comparó a ganadores de la lotería con otras personas y no encontró que los ganadores fueran mucho más felices de forma duradera. Es un estudio pequeño y antiguo, pero la idea general ha sido explorada por muchas investigaciones posteriores.
+
+Otras líneas de estudio, como las del psicólogo Tim Kasser, han asociado una fuerte orientación a valores materialistas (riqueza, imagen, estatus) con menor bienestar en promedio. Y trabajos de Leaf Van Boven y Thomas Gilovich sugirieron que, en muchos casos, gastar en experiencias deja más satisfacción que gastar en cosas.
+
+Nada de esto significa que el dinero no importe. Significa que, una vez cubierto lo necesario, lo que compramos para la historia rara vez nos da lo que la historia promete.
+
+## Seis escenas de la vida adulta
 
 ### En la pareja: la boda y las redes
 
@@ -81,6 +103,22 @@ Desnuda, una maestría es un conjunto de clases, lecturas, compañeros y un pape
 
 **Si acompañas a tus hijos:** Sofía quiere unos tenis de marca porque "todos en el salón los tienen". Claudia no le da un sermón. Hace el ejercicio con ella: "¿Qué hacen esos tenis que no hagan estos?". Sofía piensa. "Nada, pero son los que todos traen". Claudia le explica, a su nivel, que eso es pagar por la historia. Al final llegan a un acuerdo: si los quiere, puede juntar la mitad con sus ahorros. Sofía decide que no vale la pena. Aprendió algo que muchos adultos no saben.
 
+### En la familia: la fiesta de quince años
+
+La sobrina de Laura va a cumplir quince años, y su hermana quiere hacer una fiesta enorme: salón, vestido importado, banquete para trescientas personas. Le pide a Laura que le preste dinero.
+
+Laura quiere ayudar, pero hace el ejercicio. Una fiesta de quince años, desnuda, es una noche para celebrar a una persona querida. La historia que se compra con el salón y el banquete es otra: no quedar mal con la familia, demostrar que se puede. Laura le dice a su hermana que le puede regalar el pastel y ayudarle a organizar, pero que no le prestará para el salón. Su hermana se molesta un tiempo.
+
+Al final hacen una fiesta más pequeña en el jardín de la abuela. La sobrina baila toda la noche. Nadie, años después, recordará si el salón era de lujo. Todos recordarán que estuvieron ahí.
+
+### En el dinero y la salud: el coche nuevo
+
+Andrés quiere cambiar su coche, que tiene ocho años y funciona bien. Ve uno nuevo que le encanta. Le costaría un crédito a cinco años.
+
+Antes de firmar, hace la definición desnuda: "Una máquina de metal que me llevaría al mismo trabajo, con pantalla más grande y olor a nuevo". Luego escribe qué historia está comprando: sentir que le va bien, que ya llegó a algo. Y se pregunta si hay otra forma de obtener eso. Decide darle mantenimiento a su coche, ahorrar el equivalente a la mensualidad durante un año y, si al final todavía lo quiere, comprarlo con un enganche mayor.
+
+Al año tiene un buen ahorro, y el deseo del coche nuevo se le ha bajado mucho. Con una parte del dinero hace un viaje con Laura. La otra parte la deja como fondo de emergencia, por si acaso.
+
 ## Lo que este capítulo no dice
 
 **"Nada vale la pena."** No. El ejercicio desinfla lo que se infla, no lo que tiene valor real.
@@ -97,6 +135,12 @@ Desnuda, una maestría es un conjunto de clases, lecturas, compañeros y un pape
 4. Pregúntate si hay otra forma, más barata o más sana, de obtener lo que buscas en realidad.
 
 Bonus: la próxima vez que te enojes con alguien, describe lo que hizo en una frase desnuda, sin interpretaciones. Verás que muchas ofensas pierden la mitad de su peso.
+
+### El ejercicio en tres niveles
+
+- **Principiante:** antes de cualquier compra mayor a lo que gastas en un día normal, escribe su definición desnuda en una sola frase.
+- **Intermedio:** aplica la regla de las 72 horas: si algo te deslumbra, espera tres días antes de comprarlo. Si después de desnudarlo y esperar todavía lo quieres, cómpralo sin culpa.
+- **Avanzado:** desnuda algo tuyo de lo que te sientes orgulloso: tu puesto, tu casa, tu título. Pregúntate qué quedaría de tu valor como persona si lo perdieras mañana. Esa respuesta es lo que realmente te pertenece.
 
 ## Pregunta para el diario
 

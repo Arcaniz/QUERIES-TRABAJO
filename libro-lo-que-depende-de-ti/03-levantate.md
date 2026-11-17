@@ -41,7 +41,29 @@ Hay una diferencia entre la flojera y el agotamiento. La flojera se cura empezan
 
 **En una frase:** levántate a cumplir tu función, y entiende que descansar también es parte de ella.
 
-## Cuatro escenas de la vida adulta
+## Lo que dijeron los otros estoicos
+
+### Séneca: reclama tu tiempo
+
+La primera carta que Séneca escribe a su amigo Lucilio empieza con una orden: reclámate a ti mismo. Recupera el tiempo que hasta ahora te arrebataban, te robaban o se te escapaba. Séneca dice que una parte del tiempo nos la quitan, otra nos la roban y otra simplemente se nos escurre, y que la pérdida más vergonzosa es la que ocurre por descuido.
+
+Para Séneca, levantarse a hacer lo que uno debe no es solo cumplir con otros: es recuperar la propia vida. Cada mañana que pospones lo importante, alguien o algo decide por ti en qué se va tu día.
+
+### Epicteto: nada grande nace de repente
+
+A un alumno impaciente que quería cambiar su carácter de golpe, Epicteto le respondió con una imagen del campo: nada grande se produce de repente, ni siquiera un racimo de uvas o un higo. Si le dices que quieres un higo ahora, te dirá que esperes: que primero florezca, luego dé fruto y luego madure.
+
+La disciplina de levantarse funciona igual. Nadie se vuelve constante en una semana. Se vuelve constante el que se levanta hoy, y mañana, y pasado, aunque algunos días falle.
+
+### Lo que dice la ciencia hoy
+
+Un estudio muy citado de la investigadora Phillippa Lally, publicado en 2009, siguió a personas que intentaban adoptar un hábito nuevo. En promedio, tardaron unos 66 días en hacerlo automático, aunque el rango fue enorme: desde 18 hasta más de 250 días. Saltarse un día de vez en cuando no arruinaba el proceso. La conclusión práctica es muy estoica: la constancia importa más que la perfección.
+
+El psicólogo Peter Gollwitzer ha estudiado lo que llama *intenciones de implementación*: planes del tipo "cuando pase X, haré Y" ("cuando suene la alarma, pondré los pies en el piso antes de tomar el celular"). En muchos estudios, este tipo de plan concreto aumenta la probabilidad de cumplir una meta frente a la simple intención.
+
+Y una advertencia: desde 2019, la Organización Mundial de la Salud incluye el *burnout* o síndrome de desgaste profesional en su clasificación internacional como un fenómeno ligado al trabajo, no como una falta de voluntad. Si llevas meses agotado, no necesitas más disciplina: necesitas revisar tus condiciones y, quizá, pedir ayuda.
+
+## Seis escenas de la vida adulta
 
 ### En la pareja: el trabajo invisible
 
@@ -75,6 +97,20 @@ La meditación le ofrece una respuesta que no depende de las ganas: aprender es 
 
 **Si acompañas a tus hijos:** Sofía no quiere levantarse para ir a la escuela. Claudia podría gritar, rogar o sobornar. Prueba otra cosa: en la noche, le pregunta a su hija qué le toca hacer mañana que solo ella puede hacer (ayudar a su amiga con la exposición, cuidar la planta del salón). Le está enseñando, sin nombrarlo, que levantarse tiene un para qué.
 
+### En la familia: cuidar a los padres
+
+Los sábados, Ricardo lleva a su mamá al mercado y luego a comer. Hay sábados en que no tiene ganas: está cansado, quiere dormir, quiere ver el futbol. Una mañana, mientras pospone la alarma, recuerda la pregunta de Marco: ¿naciste para estar a gusto o para actuar?
+
+No lo vive como castigo. Su función de hijo, en esta etapa, incluye esto. Y cuando lo hace desde ahí y no desde la culpa, descubre algo: esas mañanas con su mamá son de las pocas en la semana en que nadie le pide un reporte. Lo que parecía una carga se vuelve, poco a poco, un refugio.
+
+### En el dinero y la salud: el gimnasio pagado
+
+Jorge pagó la anualidad del gimnasio en enero. En febrero fue tres veces. En marzo, ninguna. Cada mes que pasa siente que tira el dinero, y la culpa lo hace ir todavía menos.
+
+Aplica la frase de la cobija a la salud: escribe para qué quiere hacer ejercicio. No "para bajar de peso", sino "para aguantar jugar futbol con mis hijos sin ahogarme". Cambia el plan: en lugar de ir una hora cinco días, va veinte minutos tres días, siempre a la misma hora, justo después de dejar a los niños. Prepara la mochila la noche anterior.
+
+No se volvió atleta. Pero en junio llevaba doce semanas sin faltar, y eso, para Jorge, fue más importante que cualquier número en la báscula.
+
 ## Nota del autor
 
 Durante una temporada estudié y trabajé al mismo tiempo. Había noches en que llegaba a casa tan agotado que no distinguía si lo que sentía era flojera o cansancio de verdad. Con el tiempo aprendí a hacerme la pregunta de este capítulo: ¿esto se cura empezando o se cura parando? Algunas noches la respuesta era abrir el cuaderno veinte minutos aunque no tuviera ganas. Otras era cerrar todo, cenar y dormir. Las dos cosas eran parte de mi función. Lo que no me sirvió nunca fue quedarme a medias: ni estudiar ni descansar, solo sentirme culpable frente a la pantalla.
@@ -95,6 +131,12 @@ Durante una temporada estudié y trabajé al mismo tiempo. Había noches en que 
 4. Por la noche, anota si cumpliste tu función principal del día, aunque haya sido pequeña.
 
 Si después de una semana descubres que no encuentras ninguna frase que te mueva, eso también es información valiosa. Tal vez no necesitas más disciplina, sino un cambio de rumbo.
+
+### El ejercicio en tres niveles
+
+- **Principiante:** escribe tu frase de la cobija y léela al despertar durante una semana.
+- **Intermedio:** crea una intención de implementación: "Cuando suene la alarma, pongo los pies en el piso y tomo un vaso de agua antes de ver el celular".
+- **Avanzado:** revisa tus últimos siete días y pregúntate, con honestidad, si tu cansancio se cura empezando o se cura parando. Si es lo segundo, escribe qué vas a dejar de hacer para descansar de verdad.
 
 ## Pregunta para el diario
 

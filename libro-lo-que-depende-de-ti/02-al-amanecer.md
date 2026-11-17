@@ -43,7 +43,27 @@ La meditación es una regla para no envenenarte de rencor, no un contrato para d
 
 **En una frase:** comprender al difícil no te obliga a quedarte cerca de él.
 
-## Cuatro escenas de la vida adulta
+## Lo que dijeron los otros estoicos
+
+### Epicteto: "le pareció que así debía hacerlo"
+
+Epicteto da un consejo casi idéntico al de Marco para cuando alguien nos trata mal o habla mal de nosotros: recordar que lo hace porque cree que así le corresponde. No puede seguir lo que a ti te parece correcto, sino lo que a él le parece. Si se equivoca, el perjudicado es él, que está engañado. Y concluye: si partes de aquí, serás benévolo con quien te insulte, y cada vez que ocurra dirás: "Así le pareció".
+
+Esas tres palabras, "así le pareció", son una herramienta portátil. No dicen que el otro tenga razón. Dicen que actuó según lo que entendía, y que tu tarea no es corregir su mente desde la indignación, sino decidir qué haces tú.
+
+### Séneca: no te enojes con quien tropieza en la oscuridad
+
+En su tratado *Sobre la ira*, Séneca propone una imagen útil: el sabio no se enoja con los que se equivocan, del mismo modo que no se enojaría con alguien que tropieza en la oscuridad o con un enfermo que se queja. Los errores humanos son tantos y tan comunes que enojarse con cada uno sería vivir enojado.
+
+Séneca añade algo realista: no hay que esperar que la gente sea distinta de como es. Quien sale de casa esperando que todos sean amables se pasará el día ofendido. Quien sale sabiendo que encontrará de todo podrá alegrarse de lo bueno y soportar lo malo.
+
+### Lo que dice la ciencia hoy
+
+En 1977, el psicólogo Lee Ross dio nombre a un sesgo que todos practicamos: el *error fundamental de atribución*. Tendemos a explicar la conducta de los demás por su carácter ("es grosero") y la nuestra por las circunstancias ("estaba cansado"). Conocer este sesgo no lo elimina, pero ayuda a frenarlo, que es justo lo que hace Marco cuando se recuerda que el otro actúa por ignorancia y no por maldad.
+
+Por otro lado, la psicóloga Gabriele Oettingen ha estudiado durante años lo que llama *contraste mental*: imaginar no solo la meta deseada, sino también los obstáculos concretos que se interpondrán. Sus investigaciones sugieren que quienes imaginan los obstáculos y planean cómo responder suelen avanzar más que quienes solo se imaginan el éxito. Es una versión moderna de la *premeditatio malorum*: prepararse para lo difícil no es pesimismo, es estrategia.
+
+## Seis escenas de la vida adulta
 
 ### En la pareja: la comida del domingo
 
@@ -79,6 +99,22 @@ Antes de la primera reunión, Jorge se dice: "En este equipo alguien no va a cum
 
 **Si acompañas a tus hijos:** Claudia está en el grupo de WhatsApp de padres del salón de Sofía. Cada semana hay una discusión: la cooperación para el festival, la tarea excesiva, el papá que reclama a la maestra en mayúsculas. Claudia decide aplicar la meditación antes de abrir el grupo: "Aquí va a haber alguien enojado. No tengo que contestar a todo". Silencia el chat y lo revisa una sola vez al día. Responde solo lo que le toca. Ganó dos horas a la semana y algo de paz.
 
+### En la familia: la reunión de diciembre
+
+Cada diciembre, la familia de Laura se reúne en casa de su mamá. Y cada diciembre, su tío Ernesto saca el tema de política, se burla de los que piensan distinto y termina peleado con alguien. Laura llega a la cena con el estómago revuelto.
+
+Este año prueba la meditación II.1 desde la mañana: "Hoy mi tío va a hablar de política y va a provocar. Lo hace porque así cree que defiende lo que piensa. No me puede obligar a discutir". Y prepara tres cosas: una frase amable para no entrar al tema ("Tío, hoy no discuto, hoy como"), un aliado (su prima, que también odia las peleas) y un plan de salida (ayudar a lavar los trastes cuando el tono suba).
+
+El tío habla de política. Laura sonríe, dice su frase y se va a la cocina. Por primera vez en años, regresa a su casa sin dolor de cabeza.
+
+### En el dinero y la salud: la llamada del banco
+
+Ricardo tiene que llamar al banco por un cobro indebido en su tarjeta. Sabe cómo será: veinte minutos de espera, tres transferencias, un ejecutivo que le dirá que no puede hacer nada. La última vez terminó gritando y colgando sin resolver.
+
+Esta vez se prepara como Marco. Escribe antes los datos: número de tarjeta, fecha y monto del cobro, número de reporte anterior. Anota lo que probablemente le dirán ("tiene que esperar 45 días", "no aparece en el sistema") y su respuesta a cada cosa. Decide que no va a gritar, porque el ejecutivo no es el banco y gritarle no le devuelve el dinero.
+
+Tarda cuarenta minutos. Lo transfieren dos veces. Pero sale con un número de folio y una fecha de resolución. La llamada fue igual de molesta. Él no.
+
 ## Lo que este capítulo no dice
 
 **"Piensa mal de todos."** No. Prepararte para la gente difícil no es suponer que todos lo son. Es no sorprenderte cuando alguien lo sea. La mayoría de las personas, la mayoría de los días, son razonables.
@@ -97,6 +133,12 @@ Durante siete días, antes de revisar el celular:
 4. Decide tu respuesta: qué vas a hacer y qué no vas a hacer.
 
 Por la noche, revisa: ¿pasó lo que imaginaste? ¿Cómo reaccionaste? Con el tiempo descubrirás que la gente difícil se vuelve predecible, y lo predecible se maneja.
+
+### El ejercicio en tres niveles
+
+- **Principiante:** cada mañana, nombra a una sola persona difícil del día y una frase de comprensión.
+- **Intermedio:** agrega el plan concreto: qué vas a decir, qué no vas a decir y cuál es tu salida si la situación se complica.
+- **Avanzado:** prepárate también para tu propia parte difícil. Escribe: "Hoy probablemente yo voy a ___ (interrumpir, impacientarme, juzgar)". Los estoicos sabían que la persona difícil más frecuente en nuestro día somos nosotros mismos.
 
 ## Pregunta para el diario
 

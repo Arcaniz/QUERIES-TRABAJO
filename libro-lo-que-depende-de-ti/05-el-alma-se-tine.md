@@ -43,7 +43,29 @@ La objeción seria es que hay lugares donde no se puede vivir bien: un trabajo t
 
 **En una frase:** antes de cambiar de lugar, revisa el color con que miras el lugar.
 
-## Cuatro escenas de la vida adulta
+## Lo que dijeron los otros estoicos
+
+### Epicteto: cuenta los días sin enojo
+
+Epicteto explicaba cómo funcionan los hábitos con una lógica muy sencilla: todo hábito se fortalece con las acciones que le corresponden. Caminar te hace mejor caminante; correr, mejor corredor. Lo mismo pasa con la mente: cada vez que te enojas, no solo sientes ira; fortaleces el hábito de enojarte. Es como echarle leña al fuego.
+
+Su consejo es práctico y casi divertido: si no quieres ser irascible, no alimentes el hábito. Cuenta los días en que no te has enojado. "Antes me enojaba diario; luego, un día sí y otro no; luego, cada tres días, cada cuatro". Si llegas a treinta días, dice, ofrécele un sacrificio a los dioses, porque el hábito empieza a debilitarse.
+
+### Séneca: cuidado con la multitud
+
+En una de sus cartas, Séneca le confiesa a Lucilio que nunca regresa de estar entre la multitud con el mismo carácter con que salió. Vuelve, dice, más ambicioso, más amante del placer, incluso más cruel, porque estuvo entre la gente. No lo dice por soberbia, sino por realismo: el ambiente nos tiñe. Por eso recomienda elegir con cuidado con quién pasamos el tiempo, y buscar a quienes pueden hacernos mejores y a quienes nosotros podemos ayudar a mejorar.
+
+Si Séneca volvía cambiado de una tarde en el circo, imagina lo que haría con nosotros una tarde en redes sociales.
+
+### Lo que dice la ciencia hoy
+
+Los psicólogos hablan del *sesgo de negatividad*: tendemos a prestar más atención y a recordar mejor la información negativa que la positiva. Probablemente fue útil para sobrevivir, pero en un mundo lleno de noticias y contenidos diseñados para captar nuestra atención, puede inclinarnos a una visión más sombría de lo que la realidad justifica.
+
+La investigadora Susan Nolen-Hoeksema estudió durante años la *rumiación*: darle vueltas una y otra vez a los mismos pensamientos negativos. Sus trabajos asociaron la rumiación con un mayor riesgo de depresión y ansiedad. Por otro lado, la relación entre el uso de redes sociales y el bienestar es un tema todavía debatido: los resultados de los estudios varían, y parece importar mucho *cómo* se usan, no solo *cuánto*.
+
+La lección prudente es la de Marco: observa qué te deja cada cosa que consumes, porque nadie más va a cuidar tu mente por ti.
+
+## Seis escenas de la vida adulta
 
 ### En la pareja: el registro de agravios
 
@@ -77,6 +99,20 @@ Un profesor le recomienda algo que suena a ejercicio de niños y funciona con ad
 
 **Si acompañas a tus hijos:** Claudia nota que Sofía repite frases que escucha en casa: "qué flojera", "no puedo", "seguro me va mal". Se da cuenta de que muchas son suyas. La meditación V.16 aplica en dos generaciones: los niños se tiñen del color de los pensamientos que escuchan de sus padres. Claudia empieza por ella misma.
 
+### En la familia: el grupo familiar
+
+En el grupo de WhatsApp de la familia de Andrés circulan todos los días cadenas, noticias alarmantes, curas milagrosas y discusiones políticas. Andrés lo revisa antes de dormir y se acuesta con coraje o con miedo.
+
+No quiere salirse, porque es la forma en que su papá se comunica con todos. Así que aplica la auditoría del tinte: silencia el grupo, lo revisa una vez al día, a mediodía, y nunca antes de dormir. Cuando alguien comparte una noticia falsa, no discute en el grupo; le escribe en privado a quien la compartió, con amabilidad.
+
+El grupo sigue igual. Pero las noches de Andrés cambiaron de color.
+
+### En el dinero y la salud: la conversación sobre dinero
+
+Mariana creció escuchando a su mamá decir "el dinero es sucio" y "los ricos son malos". De adulta, le cuesta cobrar lo que vale su trabajo y se siente culpable cada vez que sube precios.
+
+Se da cuenta de que su mente está teñida de frases que no eligió. Empieza a cambiar el tinte: lee sobre finanzas personales, habla de dinero con una amiga que maneja bien sus cuentas y escribe frases nuevas en su cuaderno: "Cobrar lo justo me permite hacer bien mi trabajo". No pasa de un día para otro. Pero al año siguiente sube sus precios por primera vez sin sentir que está robando.
+
 ## Lo que este capítulo no dice
 
 **"Prohíbete los pensamientos negativos."** No. Reprimir un pensamiento suele fortalecerlo. Se trata de elegir en qué te sumerges de manera habitual, no de controlar cada idea que aparece.
@@ -92,6 +128,12 @@ Un profesor le recomienda algo que suena a ejercicio de niños y funciona con ad
 3. Elige **una** fuente de mal tinte y redúcela a la mitad la semana siguiente.
 4. Elige **una** fuente de buen tinte (una lectura, una conversación, un paseo) y agrégala a tu rutina diaria.
 5. Escribe en una tarjeta la frase de Marco y ponla donde la veas: **"Donde se puede vivir, se puede vivir bien"**.
+
+### El ejercicio en tres niveles
+
+- **Principiante:** durante una semana, no revises noticias ni redes en la primera hora después de despertar ni en la última antes de dormir.
+- **Intermedio:** aplica la cuenta de Epicteto a un hábito mental que quieras debilitar (quejarte, compararte, criticar). Marca en un calendario cada día que logres evitarlo.
+- **Avanzado:** escribe las cinco frases que más te repites a ti mismo en un mal día. Al lado de cada una, escribe de quién la aprendiste y una frase nueva que elegirías en su lugar.
 
 ## Pregunta para el diario
 

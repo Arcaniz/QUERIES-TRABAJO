@@ -63,7 +63,31 @@ El filósofo contemporáneo William B. Irvine propone afinar la idea: no hay dos
 
 **En una frase:** aceptar lo que no depende de ti no es rendirse; es dejar de pelear con el viento para concentrarte en tu disparo.
 
-## Cuatro escenas de la vida adulta
+## Lo que dijeron los otros estoicos
+
+### Epicteto: no son las cosas, sino las opiniones
+
+Epicteto lo dijo en una línea que Marco Aurelio repitió a su manera muchas veces: lo que perturba a las personas no son las cosas, sino las opiniones que tienen sobre las cosas. Su ejemplo es la muerte. La muerte, dice, no es terrible; si lo fuera, también se lo habría parecido a Sócrates, que la enfrentó con calma. Lo terrible es la opinión de que la muerte es terrible.
+
+Epicteto sabía de lo que hablaba. Nació esclavo, cojeaba y vivió buena parte de su vida sin ser dueño ni de su cuerpo. Una tradición antigua, transmitida por un autor llamado Celso, cuenta que su amo le torcía la pierna para divertirse y que Epicteto le advirtió con calma: "Me la vas a romper". Cuando se la rompió, solo añadió: "¿No te lo dije?". Quizá la anécdota no ocurrió así. Pero explica por qué sus alumnos le creían: no enseñaba desde la comodidad.
+
+En el *Manual*, Epicteto ordena el mundo en dos montones. Dependen de nosotros la opinión, el impulso, el deseo y el rechazo; en una palabra, todo lo que es obra nuestra. No dependen de nosotros el cuerpo, los bienes, la reputación y los cargos; todo lo que no es obra nuestra. Y advierte: si crees que lo ajeno es tuyo, vivirás quejándote, culpando a dioses y hombres. Si solo consideras tuyo lo que es tuyo, nadie podrá obligarte ni estorbarte.
+
+### Séneca: lo que la fortuna no te dio
+
+Séneca, que fue inmensamente rico y luego lo perdió casi todo, ofrece el mismo principio desde el lado del dinero y la suerte. En una de sus cartas escribe que la fortuna no puede quitarnos lo que no nos dio. La salud, los bienes, el puesto y la fama nos los presta la fortuna y puede pedirlos de vuelta en cualquier momento. El carácter, en cambio, no es un préstamo.
+
+Séneca no pedía despreciar lo prestado. Pedía usarlo sabiendo que es prestado. La diferencia se nota cuando se pierde: quien sabía que era un préstamo lo devuelve con tristeza; quien creía que era suyo lo devuelve con desesperación.
+
+### Lo que dice la ciencia hoy
+
+La psicología ha estudiado durante décadas algo parecido a la distinción estoica. En los años sesenta, el psicólogo Julian Rotter propuso el concepto de *locus de control*: hay personas que tienden a atribuir lo que les pasa a fuerzas externas (la suerte, los demás, el sistema) y otras que tienden a atribuirlo a su propia acción. En términos generales, un locus de control más interno se ha asociado con más iniciativa y mejor manejo del estrés, aunque el exceso también tiene riesgos: culparse de lo que no depende de uno.
+
+Por su parte, los estudios sobre regulación emocional, como los del psicólogo James Gross, distinguen entre *suprimir* una emoción (aguantarla por fuera) y *reevaluar* la situación (cambiar la interpretación). En muchos estudios, la reevaluación se asocia con mejores resultados que la supresión. Es casi exactamente lo que proponía Marco: no fingir que no sientes, sino revisar el juicio que provoca lo que sientes.
+
+La ciencia no "demuestra" el estoicismo, y conviene desconfiar de quien lo diga así. Pero sí sugiere que esta antigua intuición apunta en una dirección razonable.
+
+## Seis escenas de la vida adulta
 
 ### En la pareja: el mensaje en visto
 
@@ -120,6 +144,24 @@ Las tres frases son juicios, no hechos. El hecho es: "saqué 5 en un examen". De
 
 Aquí la meditación tiene doble filo. Primero, para Claudia: la opinión de otros padres no depende de ella; cómo escucha a su hija, sí. Segundo, es una oportunidad de enseñarle a Sofía la idea más útil de este libro: *no controlas lo que la otra niña dijo; controlas lo que tú hiciste después*. Muy pocos adultos aprendieron eso de niños. Imagina lo que cambia aprenderlo a los diez.
 
+### En la familia: el hermano que no ayuda
+
+La mamá de Ricardo tiene 78 años y cada vez necesita más ayuda. Ricardo tiene dos hermanos. Uno vive en otra ciudad; el otro vive a quince minutos y casi nunca va. Ricardo la lleva al médico, le surte las medicinas, le arregla la llave del lavabo. Cada vez que lo hace, siente un coraje sordo contra su hermano.
+
+Hace el ejercicio de las dos columnas. **No depende de él:** que su hermano cambie, que su mamá envejezca, lo que su hermano piense de su papel. **Depende de él:** cuidar a su mamá como quiere cuidarla, pedirle a su hermano algo concreto y no genérico ("¿puedes llevarla al médico el último martes de cada mes?") y decidir cuánto puede dar sin dañar su salud ni su familia.
+
+Ricardo le hace la petición concreta. El hermano acepta a medias: va una de cada dos veces. No es lo justo. Pero Ricardo descubre que su coraje disminuye cuando deja de pelearse con el hermano que quisiera tener y empieza a negociar con el hermano que tiene.
+
+### En el dinero y la salud: el diagnóstico
+
+Mariana va a un chequeo y sale con un diagnóstico de prediabetes. Esa noche busca todo en internet y termina imaginando amputaciones e insulina. No duerme.
+
+La meditación VIII.47 aplica con toda su fuerza. **El hecho:** una glucosa un poco alta y un médico que le dice que todavía está a tiempo. **El juicio:** "me voy a enfermar como mi tía". Entre uno y otro hay un abismo, y Mariana lo cruzó sola en tres horas.
+
+**Lo que depende de ella:** lo que come, cuánto camina, si vuelve a la cita de seguimiento, cuántas horas duerme. **Lo que no:** su genética, el historial de su familia, los resultados exactos en seis meses.
+
+Mariana pega en el refrigerador una hoja con dos columnas. A los seis meses, su glucosa está en rango normal. No porque la filosofía cure, sino porque dejó de gastar su energía en la columna equivocada.
+
 ## Lo que este capítulo no dice
 
 **"No debes sentir nada."** Falso. Los estoicos aceptaban las reacciones iniciales e involuntarias: el sobresalto, el nudo en el estómago, el rubor. Séneca las llamaba "primeros movimientos" y decía que ni el sabio está libre de ellos. Lo que se entrena es lo que haces *después* del primer movimiento.
@@ -141,6 +183,12 @@ Cada noche de esta semana, antes de dormir:
 5. Escoge **una sola acción** de la primera columna para mañana.
 
 Al final de la semana, revisa tus hojas. Probablemente descubras dos cosas: que gastas más energía de la que pensabas en la segunda columna, y que la primera siempre tuvo algo que podías hacer.
+
+### El ejercicio en tres niveles
+
+- **Principiante:** haz las dos columnas solo con una situación por semana, la que más te pese.
+- **Intermedio:** agrega una tercera columna para lo que depende de ti *en parte*, como propone Irvine, y escribe al lado qué parte exacta es tuya.
+- **Avanzado:** durante un día entero, cada vez que te quejes en voz alta o en tu mente, detente y pregúntate: "¿esto está en mi columna o en la otra?". Lleva la cuenta. Al final del día, mira cuántas quejas eran sobre cosas que no dependían de ti.
 
 ## Pregunta para el diario
 

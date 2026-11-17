@@ -44,7 +44,27 @@ Hay pérdidas que no se convierten en oportunidad: la muerte de un hijo, una inj
 
 **En una frase:** no todo obstáculo es oportunidad, pero todo obstáculo es una ocasión para elegir quién eres.
 
-## Cuatro escenas de la vida adulta
+## Lo que dijeron los otros estoicos
+
+### Séneca: el fuego prueba al oro
+
+En su ensayo *Sobre la providencia*, Séneca responde a una pregunta que todos nos hemos hecho: ¿por qué les pasan cosas malas a las personas buenas? Su respuesta es dura y, al mismo tiempo, consoladora. Dice que nada le parece más desdichado que alguien a quien nunca le ha ocurrido ninguna adversidad, porque nunca ha tenido la oportunidad de probarse. Y resume la idea en una imagen: el fuego prueba al oro; la desgracia, a los valientes.
+
+Séneca no dice que la desgracia sea agradable ni que debamos buscarla. Dice que, cuando llega, nos da algo que la comodidad no puede darnos: saber de qué estamos hechos.
+
+### Epicteto: el compañero de lucha
+
+Epicteto usaba una imagen deportiva. Las dificultades, decía, son las que muestran lo que son las personas. Cuando te llegue una dificultad, recuerda que la divinidad, como un entrenador, te ha emparejado con un compañero de lucha joven y fuerte. ¿Para qué? Para que te vuelvas un campeón, y eso no se logra sin sudor.
+
+La metáfora cambia la pregunta. Ya no es "¿por qué a mí?", sino "¿para qué me está entrenando esto?". El luchador que se queja de que su rival es fuerte no entendió para qué fue al gimnasio.
+
+### Lo que dice la ciencia hoy
+
+En los años noventa, los psicólogos Richard Tedeschi y Lawrence Calhoun acuñaron el término *crecimiento postraumático* para describir algo que observaron en muchas personas después de experiencias muy difíciles: una mayor valoración de la vida, relaciones más profundas, nuevas prioridades o una sensación de fortaleza personal. Es importante leer esto con cuidado: no todas las personas crecen después de un trauma, el crecimiento no borra el dolor y nadie debería sentirse obligado a "sacarle provecho" a su sufrimiento.
+
+Lo que sí sugieren estas investigaciones es que el significado que le damos a lo que nos pasa influye en cómo lo atravesamos. Es una versión moderna de la intuición de Marco: el obstáculo no decide solo; la mente que lo enfrenta también participa.
+
+## Seis escenas de la vida adulta
 
 ### En la pareja: la crisis
 
@@ -80,6 +100,22 @@ Jorge podría dejar la maestría. En cambio, se pregunta qué le permite esto. S
 
 **Si acompañas a tus hijos:** Sofía no quedó en el equipo de básquetbol de la escuela. Llora toda la tarde. Claudia resiste la tentación de ir a reclamarle al entrenador o de decirle que "no pasa nada". Le dice: "Sí pasa, y está bien que te duela. ¿Qué quieres hacer ahora?". Sofía decide entrenar los fines de semana y volver a intentarlo. A los diez años aprende que un "no" puede ser el principio de un esfuerzo, no el final de un sueño.
 
+### En la familia: la mudanza forzada
+
+A los papás de Jorge les sube la renta de la casa donde vivieron treinta años y tienen que mudarse a un departamento pequeño. Su papá lo vive como una derrota; su mamá llora al empacar.
+
+Jorge no puede evitar la mudanza. Pero ayuda a sus padres a hacerse la pregunta de este capítulo: ¿qué permite esto? Descubren varias cosas. El departamento queda a diez minutos de la casa de Jorge, así que verán más a los nietos. Tiene elevador, lo que importa para las rodillas de su papá. Y les obliga a hacer algo que llevaban años posponiendo: revisar treinta años de cosas, regalar lo que no usan y quedarse con lo que de verdad quieren.
+
+La mudanza siguió siendo triste. Pero, un año después, el papá de Jorge reconoce que ve a sus nietos tres veces más que antes.
+
+### En el dinero y la salud: la lesión
+
+Andrés se lesiona la rodilla jugando futbol y el médico le prohíbe correr durante seis meses. Andrés, que corría para despejarse del trabajo, se deprime. Siente que perdió lo único que lo mantenía en equilibrio.
+
+Aplica la reserva estoica: su meta no era correr; era cuidar su cuerpo y su mente. Correr era el medio. Con la ayuda de su fisioterapeuta encuentra otros: natación, bicicleta fija, caminatas largas con Laura en las tardes. Las caminatas, que empezaron como plan B, se vuelven el momento del día en que más platican.
+
+Cuando por fin puede volver a correr, Andrés corre menos. No porque no pueda, sino porque no quiere dejar las caminatas.
+
 ## Lo que este capítulo no dice
 
 **"Todo pasa por algo."** El estoicismo no promete un propósito oculto en cada desgracia. Promete que tú puedes darle un propósito a tu respuesta.
@@ -99,6 +135,12 @@ Elige el obstáculo más grande que enfrentas ahora. En una hoja, escribe tres c
 Elige un punto de la tercera columna y hazlo esta semana.
 
 Agrega también una práctica diaria: cada vez que hagas un plan, añade mentalmente la reserva estoica, "si nada lo impide". "Voy a cerrar la venta hoy, si nada lo impide". Es una forma de comprometerte sin quedar a merced del resultado.
+
+### El ejercicio en tres niveles
+
+- **Principiante:** cada vez que un plan se te caiga esta semana, aunque sea pequeño (una cita cancelada, un tráfico inesperado), pregúntate: "¿qué me permite esto?".
+- **Intermedio:** escribe tu meta principal en una línea y, debajo, tres medios distintos para alcanzarla. Si uno se bloquea, ya tienes los otros dos.
+- **Avanzado:** recuerda el peor obstáculo de tu vida. Sin forzar ningún "lado bueno", escribe con honestidad qué virtud tuviste que ejercer para atravesarlo y qué sabes hoy de ti que antes no sabías.
 
 ## Pregunta para el diario
 
