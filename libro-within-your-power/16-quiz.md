@@ -10,7 +10,7 @@ b) Your judgment about that thing
 c) The thing itself
 d) Other people's intentions
 
-**2. From whom did Marcus Aurelius learn the distinction between what is within our power and what isn't?**
+**2. Who taught Marcus Aurelius the distinction between what is within our power and what isn't?**
 a) Seneca
 b) Antoninus Pius
 c) Plato
@@ -131,7 +131,7 @@ c) Unnecessary people
 d) Emotions
 
 **22. According to VII.8, you will meet the future:**
-a) With the same weapons of reason you use today
+a) With the same tools of reason you use today
 b) Weaker than today
 c) Without any tools
 d) Thanks to luck
@@ -142,7 +142,7 @@ b) Planning is for companies, worrying is for people
 c) Worrying is more responsible
 d) Planning ends in an action for today; worrying ends in more worry
 
-**24. "What isn't good for the hive isn't good for..." (VI.54):**
+**24. "What's bad for the hive is bad for..." (VI.54):**
 a) The queen
 b) The beekeeper
 c) The bee
@@ -178,7 +178,7 @@ b) Be good while we live and while we can
 c) Live in fear
 d) Enjoy everything without limits
 
-**30. "Stop arguing about what a good man should be like..." (X.16) ends with:**
+**30. "Enough arguing about what a good man should be like..." (X.16) ends with:**
 a) "...be one"
 b) "...and read more philosophy"
 c) "...ask a wise man"

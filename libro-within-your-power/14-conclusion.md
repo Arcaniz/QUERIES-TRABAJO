@@ -18,7 +18,7 @@ That's the most valuable thing about the *Meditations*: they aren't the book of 
 If you had to carry this book on a single page, it would be this one:
 
 1. **What is within your power:** separate what you control from what you don't; put your energy into the first.
-2. **Difficult people:** expect them, understand them, don't hand them your day.
+2. **Difficult people:** expect them, understand them, and don't hand them your day.
 3. **Get up:** don't consult your feelings; remember why you get up.
 4. **The obstacle:** what blocks a plan opens a virtue.
 5. **The dye of the mind:** watch what you think, see, and hear every day.
@@ -26,7 +26,7 @@ If you had to carry this book on a single page, it would be this one:
 7. **Seeing things stripped bare:** pay for what things are, not for the story.
 8. **Don't turn into Caesar:** power is a test of character.
 9. **What's necessary:** every yes to the unnecessary is a no to what matters.
-10. **The future:** plan, don't worry; you'll get there with the same weapons you have today.
+10. **The future:** plan, don't worry; you'll get there with the same tools you have today.
 11. **The hive:** what harms the "us" ends up harming you.
 12. **Gratitude:** no one is self-made; say it out loud.
 13. **Death:** time is limited; while you can, be good.

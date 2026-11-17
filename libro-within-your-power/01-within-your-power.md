@@ -1,224 +1,224 @@
 # Chapter 1. What Is Within Your Power
 
-> *If something outside you troubles you, it is not the thing itself that disturbs you, but your judgment about it. And it is in your power to wipe out that judgment, right now.*
+> *If something outside you is troubling you, it isn't the thing itself that disturbs you. It's your judgment about it. And you can wipe that judgment out right now.*
 > — Marcus Aurelius, *Meditations*, VIII.47 (paraphrase)
 
-> *Take away the opinion, and "I've been harmed" is gone. Take away "I've been harmed," and the harm is gone.*
+> *Drop the opinion, and "I've been wronged" disappears. Drop "I've been wronged," and the wrong disappears.*
 > — *Meditations*, IV.7 (paraphrase)
 
-It's 8:47 in the morning. You've been stuck in traffic for twenty minutes and you're going to be late for a meeting you didn't ask for. The car in front of you isn't moving even though the light turned green. You feel the heat rising up your neck. You lean on the horn. You hit the steering wheel. You imagine what you'd say to that driver if you could.
+It's 8:47 a.m. You've been crawling through traffic for twenty minutes, and you're going to be late for a meeting you never wanted in the first place. The light turns green. The car in front of you doesn't move. You feel the heat climb up the back of your neck. You lean on the horn. You smack the steering wheel. In your head, you're already telling that driver exactly what you think of him.
 
-Now think about this: the light, the traffic, the distracted driver, and the time of the meeting are not within your power. The only thing in your hands at that moment is what you do with all of it on the inside. And right there, in the one thing you control, is where you're losing.
+Now consider this: the light, the traffic, the distracted driver, and the meeting time are all out of your hands. The only thing you control in that moment is what you do with all of it on the inside. And that, the one thing you actually control, is exactly where you're losing.
 
-That is the heart of Stoicism. Everything else in this book grows from here.
+That's the heart of Stoicism. Everything else in this book grows out of it.
 
 ## The Context: An Emperor Who Controlled Almost Nothing
 
-We tend to imagine that a Roman emperor could do whatever he wanted. Marcus Aurelius knew otherwise. During his reign (161–180 CE), an epidemic, probably smallpox, killed millions of people across the empire. The northern frontiers were almost permanently at war. One of his most trusted generals, Avidius Cassius, declared himself emperor after believing a false rumor that Marcus had died. Several of Marcus's children died young.
+We like to imagine that a Roman emperor could do whatever he pleased. Marcus Aurelius knew better. During his reign (161–180 CE), an epidemic, probably smallpox, killed millions across the empire. The northern frontier was at war almost without pause. One of his most trusted generals, Avidius Cassius, declared himself emperor after hearing a false rumor that Marcus was dead. Several of Marcus's children died young.
 
-He had all the power in the world, and still he did not control disease, the loyalty of others, or the death of the people he loved.
+He held more power than anyone alive, and he still couldn't stop a disease, guarantee anyone's loyalty, or keep the people he loved from dying.
 
-The idea he keeps returning to in his notebooks wasn't his own. He learned it from a former slave, Epictetus, whose lessons he discovered through his teacher Junius Rusticus, as Marcus gratefully notes in Book I of the *Meditations*. Epictetus had summed it up in his *Handbook*: some things are within our power (our judgments, our intentions, our actions) and some are not (our body, our reputation, our money, what other people do).
+The idea he keeps circling back to in his notebooks wasn't his own. He got it from a former slave named Epictetus, whose teachings reached him through his tutor Junius Rusticus, a debt Marcus gratefully records in Book I of the *Meditations*. Epictetus had boiled it down in his *Handbook*: some things are within our power (our judgments, our intentions, our actions), and some things aren't (our bodies, our reputations, our money, what other people do).
 
-It's a striking fact: the most powerful emperor of his time learned his most important lesson from a man who was born a slave. The two reached the same conclusion from opposite ends of society: freedom is not out there.
+Think about that for a second. The most powerful man of his age learned his most important lesson from a man who was born a slave. They arrived at the same conclusion from opposite ends of the social ladder: freedom isn't out there.
 
 ## Three Ways to Read This Meditation
 
-### Reading 1. The Classic: The Harm Is in the Judgment
+### Reading 1. The Classic: The Harm Lives in the Judgment
 
-For the Stoics, between what happens and what we feel there is an intermediate step we almost never notice: the **judgment**. Something happens (your partner doesn't answer a text), an impression appears ("they're ignoring me"), and then you *accept* or *reject* that impression as true. The Stoics called that step *assent*.
+The Stoics noticed something most of us miss: between what happens and how we feel about it, there's a middle step. They called it **judgment**. Something happens (your partner doesn't answer a text). An impression shows up ("they're ignoring me"). Then you either *accept* that impression as true or you don't. The Stoics called that move *assent*.
 
-The suffering, Marcus says, doesn't come from the unanswered text but from the story you accepted about it: "I don't matter to them," "they must be with someone else," "they always do this to me."
+What hurts, Marcus says, isn't the unanswered text. It's the story you signed off on: "I don't matter to them." "They're probably with someone else." "They always do this."
 
-This doesn't mean nothing bad ever happens. It means that between the blow and the wound there is a space, and that space is yours.
+That doesn't mean nothing bad ever happens. It means there's a gap between the blow and the wound, and that gap belongs to you.
 
-**In a nutshell:** you don't control what happens; you control what you tell yourself about what happens.
+**In a nutshell:** you don't control what happens; you control what you tell yourself about it.
 
-### Reading 2. The Psychological: Stoicism as a Forerunner of Therapy
+### Reading 2. The Psychological: Stoicism as Therapy's Ancestor
 
-In the twentieth century, two psychologists, Albert Ellis and Aaron Beck, created therapies now used worldwide to treat anxiety and depression: rational emotive behavior therapy and cognitive therapy. Ellis openly acknowledged that he was inspired by Epictetus. The idea is almost identical: we are not disturbed by events, but by our beliefs about events. Change the belief and the emotion changes.
+In the twentieth century, psychologists Albert Ellis and Aaron Beck developed approaches that are now used around the world to treat anxiety and depression: rational emotive behavior therapy and cognitive therapy. Ellis openly credited Epictetus as an inspiration. The core idea is nearly identical: events don't upset us; our beliefs about events do. Change the belief, and the feeling changes with it.
 
-Read this way, meditation VIII.47 is a technique:
+Read this way, VIII.47 becomes a technique:
 
-1. Notice the emotion ("I'm furious").
-2. Find the judgment behind it ("my boss humiliated me on purpose").
+1. Name the emotion ("I'm furious").
+2. Find the judgment underneath it ("my boss humiliated me on purpose").
 3. Ask whether that judgment is a fact or an interpretation.
-4. Look for another possible interpretation ("my boss is under pressure and was short with everyone").
+4. Try on another interpretation ("my boss is under pressure and snapped at everybody").
 
-### Reading 3. The Uncomfortable One: Isn't This Just Conformism?
+### Reading 3. The Uncomfortable One: Isn't This Just a Recipe for Putting Up with Things?
 
-We need to be honest here, because this idea can be read in a dangerous way.
+This idea has a dangerous reading, and it deserves an honest look.
 
-If all the harm is "in my judgment," should someone being abused by their partner just "change their opinion"? Should an employee who isn't paid for overtime accept the injustice peacefully? Is Stoicism a philosophy to keep the people at the bottom from complaining?
+If all the harm lives "in my judgment," should someone being abused by their partner simply "change their perspective"? Should a worker who isn't being paid for overtime just make peace with it? Is Stoicism a philosophy designed to keep people at the bottom quiet?
 
-It's the strongest objection, and it deserves a serious answer. The answer is **no**, for three reasons.
+It's the strongest objection there is, and it deserves a real answer. The answer is **no**, for three reasons.
 
-- **First:** saying your judgment is within your power doesn't mean you must judge that everything is fine. You can judge, with complete clarity, that something is unjust. What Stoicism asks is that you don't add a second layer of useless suffering on top of the injustice: the rumination, the self-pity, the hatred that eats you up rather than the other person.
-- **Second:** your *actions* are within your power. Reporting, quitting, setting a boundary, ending a relationship, negotiating, demanding: all of those are in your hands. Stoics don't sit still. They act with a cool head instead of a hot one.
-- **Third:** Marcus himself wrote many times that we exist for one another, and justice is one of the four central Stoic virtues. A Stoic who tolerates injustice against others hasn't understood a thing.
+- **First:** saying your judgment is within your power doesn't mean you have to judge that everything is fine. You can see, with total clarity, that something is unjust. What Stoicism asks is that you not pile a second, useless layer of suffering on top of the injustice: the replaying, the self-pity, the resentment that eats at you instead of the person who wronged you.
+- **Second:** your *actions* are within your power. Reporting it, quitting, setting a boundary, ending a relationship, negotiating, demanding what you're owed: all of that is in your hands. Stoics don't sit still. They act with a cool head instead of a hot one.
+- **Third:** Marcus wrote again and again that we exist for one another, and justice is one of the four core Stoic virtues. A Stoic who shrugs at injustice done to others has missed the point entirely.
 
-> **Important.** If you are experiencing physical, emotional, sexual, or financial abuse in your relationship, the Stoic response is not to "change your judgment" or to endure it: it is to protect yourself and seek help. What is within your power is reaching out. In the United States, you can contact the National Domestic Violence Hotline at 1-800-799-7233 or text START to 88788. In an emergency, call 911. Outside the U.S., contact your local emergency number or support services.
+> **Important.** If you're experiencing physical, emotional, sexual, or financial abuse in your relationship, the Stoic response isn't to "change your judgment" or tough it out. It's to protect yourself and get help. Reaching out is within your power. In the United States, you can contact the National Domestic Violence Hotline at 1-800-799-7233 or text START to 88788. In an emergency, call 911. Outside the U.S., contact your local emergency number or support services.
 
-The contemporary philosopher William B. Irvine suggests refining the idea: there aren't two categories but three. What you control completely (your judgments, your values), what you don't control at all (the weather, the past), and **what you control partially** (winning a lawsuit, getting a promotion, saving your marriage). For this third zone, the Stoics had a beautiful image, which Cicero puts in the mouth of a Stoic: the archer. The archer controls his training, his stance, the draw of the bow, and the moment of release. He doesn't control the wind or whether the target moves. His goal isn't to *hit the target* but to *shoot well*. If he shoots well and misses, he hasn't failed.
+The contemporary philosopher William B. Irvine suggests a useful refinement: there aren't two categories, there are three. What you control completely (your judgments, your values), what you don't control at all (the weather, the past), and **what you control in part** (winning a lawsuit, landing a promotion, saving a marriage). For that middle zone, the Stoics had a lovely image, which Cicero puts in the mouth of a Stoic speaker: the archer. The archer controls his training, his stance, the draw of the bow, and the moment he lets go. He doesn't control the wind, or whether the target moves. His goal isn't to *hit the target*. It's to *shoot well*. If he shoots well and misses, he hasn't failed.
 
-**In a nutshell:** accepting what isn't within your power isn't giving up; it's ceasing to fight the wind so you can focus on your shot.
+**In a nutshell:** accepting what's outside your power isn't giving up; it's quitting your fight with the wind so you can focus on your shot.
 
 ## What the Other Stoics Said
 
-### Epictetus: It's Not Things, It's Opinions
+### Epictetus: It's Not the Things, It's the Opinions
 
-Epictetus put it in a single line that Marcus repeated in his own way many times: what disturbs people is not things, but their opinions about things. His example is death. Death, he says, isn't terrible; if it were, it would have seemed so to Socrates, who faced it calmly. What is terrible is the opinion that death is terrible.
+Epictetus put it in one line that Marcus echoed, in his own words, again and again: people aren't disturbed by things, but by their opinions about things. His example is death. Death isn't terrible, he says; if it were, Socrates would have thought so, and Socrates met it calmly. What's terrible is the opinion that death is terrible.
 
-Epictetus knew what he was talking about. He was born a slave, he walked with a limp, and he lived much of his life without owning even his own body. An ancient tradition, known to us through the theologian Origen, who took it from an author named Celsus, says that his master once twisted his leg for amusement and Epictetus calmly warned him: "You're going to break it." When the leg broke, he only added: "Didn't I tell you?" Maybe it didn't happen exactly that way. But it explains why his students believed him: he didn't teach from a place of comfort.
+Epictetus wasn't theorizing from an armchair. He was born a slave, walked with a limp, and spent much of his life without even owning his own body. An old tradition, which comes down to us through the theologian Origen, who got it from a writer named Celsus, says his master once twisted his leg for fun. Epictetus calmly warned him, "You're going to break it." When the leg snapped, he said only, "Didn't I tell you?" Maybe it didn't happen quite like that. But it explains why his students believed him: he wasn't teaching from a place of comfort.
 
-In the *Handbook*, Epictetus sorts the world into two piles. Within our power are opinion, impulse, desire, and aversion: in a word, everything that is our own doing. Not within our power are the body, possessions, reputation, and office: everything that is not our own doing. And he warns: if you think what belongs to others is yours, you will spend your life complaining and blaming gods and people. If you consider yours only what truly is yours, no one will ever be able to force you or stand in your way.
+In the *Handbook*, Epictetus sorts the world into two piles. Within our power: opinion, impulse, desire, aversion; in short, everything that's our own doing. Not within our power: the body, possessions, reputation, public office; everything that isn't our own doing. And he warns: treat what belongs to others as if it were yours, and you'll spend your life complaining and blaming gods and people alike. Treat as yours only what really is yours, and no one will ever be able to force you or stand in your way.
 
-### Seneca: What Fortune Never Gave You
+### Seneca: Fortune Can't Take What It Never Gave
 
-Seneca, who was enormously rich and later lost almost everything, offers the same principle from the side of money and luck. In one of his letters he writes that fortune cannot take away what it did not give. Health, possessions, position, and fame are lent to us by fortune, and she can ask for them back at any moment. Character, on the other hand, is not a loan.
+Seneca, who was spectacularly rich and later lost nearly everything, comes at the same principle from the side of money and luck. In one of his letters, he writes that fortune can't take away what it never gave. Health, possessions, status, and fame are on loan from fortune, and she can call them in at any time. Character isn't a loan.
 
-Seneca didn't ask us to despise what is lent. He asked us to use it knowing it is borrowed. The difference shows when it's lost: whoever knew it was a loan gives it back with sadness; whoever believed it was theirs gives it back with despair.
+Seneca didn't ask anyone to sneer at what's borrowed. He asked us to use it knowing it's borrowed. You can tell the difference when it's gone: if you knew it was a loan, you hand it back with sadness; if you thought it was yours, you hand it back with despair.
 
 ### What Science Says Today
 
-Psychology has studied something similar to the Stoic distinction for decades. In the 1960s, psychologist Julian Rotter proposed the concept of *locus of control*: some people tend to attribute what happens to them to external forces (luck, other people, the system), and others tend to attribute it to their own actions. In general, a more internal locus of control has been associated with more initiative and better stress management, though too much of it has risks of its own: blaming yourself for what isn't within your power.
+Psychology has been studying something close to the Stoic distinction for decades. In the 1960s, psychologist Julian Rotter introduced the idea of *locus of control*. Some people tend to credit what happens to them to outside forces (luck, other people, the system); others tend to credit their own choices. Broadly speaking, a more internal locus of control has been linked to more initiative and better coping with stress, though too much of it brings its own risk: blaming yourself for things that were never within your power.
 
-Research on emotion regulation, such as that of psychologist James Gross, distinguishes between *suppressing* an emotion (holding it in on the outside) and *reappraising* the situation (changing the interpretation). In many studies, reappraisal is associated with better outcomes than suppression. That's almost exactly what Marcus proposed: not pretending you don't feel, but examining the judgment that produces the feeling.
+Research on emotion regulation, including work by psychologist James Gross, distinguishes between *suppressing* an emotion (keeping a lid on it) and *reappraising* the situation (changing how you interpret it). In many studies, reappraisal is linked to better outcomes than suppression. That's almost exactly what Marcus was after: not pretending you don't feel anything, but examining the judgment that's producing the feeling.
 
-Science doesn't "prove" Stoicism, and you should be wary of anyone who says it does. But it does suggest that this ancient intuition points in a reasonable direction.
+Science doesn't "prove" Stoicism, and you should be suspicious of anyone who claims it does. But it does suggest this ancient instinct is pointing in a sensible direction.
 
 ## A Dialogue with a Skeptic
 
-**Skeptic:** This all sounds very nice, but it feels like a trap. If you tell me the problem is in my judgment, you're telling me the problem is me.
+**Skeptic:** This all sounds great, but it feels like a trap. If the problem is my judgment, then the problem is me.
 
-**Author:** It's telling you that part of the problem is in your judgment. Not all of it. If you're fired unfairly, the firing is real and so is the injustice. What Stoicism points out is that, on top of the firing, you can add another burden: the story that you're worthless, that everything is lost, that you'll never find another job. That second burden is yours, which is why you can put it down.
+**Author:** Part of the problem is your judgment. Not all of it. If you get fired unfairly, the firing is real and so is the unfairness. What Stoicism points out is that you can strap a second weight onto the first: the story that you're worthless, that it's all over, that no one will ever hire you again. That second weight is yours, which means you can set it down.
 
-**Skeptic:** And if my judgment is correct? If I think my boss is unfair and he is, why should I change it?
+**Skeptic:** And if my judgment is right? If I think my boss is unfair and he actually is, why should I change my mind?
 
-**Author:** You don't have to. A true judgment isn't the problem. The problem appears when you add others that aren't true to a true one ("this is unfair"): "and so my life is ruined," "and so I'm entitled to revenge." Marcus doesn't ask you to think everything is fine; he asks you to think accurately.
+**Author:** You shouldn't. A true judgment isn't the problem. The trouble starts when you tack on false ones: "this is unfair" turns into "so my life is ruined," or "so I'm entitled to get even." Marcus isn't asking you to think everything's fine. He's asking you to think accurately.
 
-**Skeptic:** But you don't choose your emotions. Nobody decides to feel afraid.
+**Skeptic:** But nobody chooses their emotions. You don't decide to be scared.
 
-**Author:** Agreed, and the Stoics would agree with you: you don't choose the first jolt. But you do choose what you do with it. Do you feed it for hours? Do you turn it into a rash decision? That's where your responsibility begins, not before.
+**Author:** Agreed, and the Stoics would agree too. You don't choose the first jolt. But you do choose what happens next. Do you feed it for hours? Do you turn it into a snap decision? That's where your responsibility starts. Not before.
 
-**Skeptic:** So this is a technique for not suffering?
+**Skeptic:** So this is basically a technique for not suffering?
 
-**Author:** It's a technique for not suffering more than you have to. There will be pain you can't avoid; no one promises otherwise. What you can avoid is the suffering you manufacture on top of the pain. And honestly, in most adults' lives, that manufactured suffering is the bigger share.
+**Author:** It's a technique for not suffering more than you have to. Some pain you can't avoid, and nobody's promising otherwise. What you can avoid is the suffering you manufacture on top of the pain. And honestly, for most adults, the manufactured kind is the bigger share.
 
-**Skeptic:** And who decides what's within my power? A lot of things depend on me a little.
+**Skeptic:** Who decides what's within my power, though? A lot of things depend on me a little.
 
-**Author:** That's why Irvine talks about three zones, not two. In the middle zone, the archer's rule works: do your part well and let go of the result. If you get the promotion, great. If not, you did what was yours to do. The alternative is to hang your peace on something you'll never fully control, and that isn't realism. It's betting your peace of mind on luck.
+**Author:** That's exactly why Irvine talks about three zones instead of two. In the middle zone, the archer's rule applies: do your part well and let go of the result. If you get the promotion, great. If you don't, you still did your part. The alternative is to hang your peace of mind on something you'll never fully control. Call that what it really is: gambling your sanity on luck.
 
 ## Six Scenes from Adult Life
 
 ### In Your Relationship: Left on Read
 
-Lauren texts Andrew at 2 p.m.: "Can you pick up your mom's prescription?" The message shows as read. Two hours go by. Nothing.
+At 2 p.m., Lauren texts Andrew: "Can you pick up your mom's prescription?" The message shows as read. Two hours pass. Nothing.
 
-By 4 p.m., Lauren has the whole story worked out: he never takes her seriously, he always leaves everything to her, he answers his mother right away. When he walks in at 7 with the prescription in hand (he picked it up; he just forgot to reply), she has already spent five hours fighting with an imaginary Andrew. That night's argument isn't about the prescription.
+By 4:00, Lauren has the whole story written: he never takes her seriously, he leaves everything to her, he always answers his mother right away. When he walks in at 7 with the prescription in hand (he picked it up; he just forgot to reply), she's already spent five hours arguing with an imaginary Andrew. The fight they have that night isn't about the prescription.
 
-**What wasn't within Lauren's power:** when Andrew would answer, or why he didn't.
+**What wasn't within Lauren's power:** when Andrew would reply, or why he didn't.
 **What was within her power:** the story she chose to believe and what she did with it.
 
-The Stoic alternative isn't pretending it didn't bother her. It's separating the fact ("he didn't answer for two hours") from the interpretation ("I don't matter to him"), and then acting: calling him, or telling him calmly that night, "When you don't reply, I'm left wondering. Could you send even a quick 'ok'?" That's a boundary. The other thing is a novel.
+The Stoic move isn't pretending it didn't bother her. It's separating the fact ("he didn't answer for two hours") from the interpretation ("I don't matter to him"), and then acting: calling him, or telling him calmly that evening, "When you don't reply, I'm left hanging. Could you just send a quick 'ok'?" That's a boundary. The other thing is a novel.
 
-**For long-term couples:** many years-long fights are really fights with a judgment that keeps repeating itself: "always," "never," "again." Ask yourself whether you're reacting to what your partner did today, or to who you believe they are.
+**For long-term couples:** a lot of years-long fights are really fights with a judgment on repeat: "always," "never," "again." Ask yourself whether you're reacting to what your partner did today, or to who you've decided they are.
 
-### At Work: The Reorganization
+### At Work: The Reorg
 
-Rick has been at the company for eleven years. One Friday, by email, they announce a reorganization: his department is merging with another, and he'll have a new boss, eight years younger.
+Rick has been with the company for eleven years. One Friday, an email goes out announcing a reorganization: his department is merging with another one, and he'll be reporting to a new boss eight years younger than he is.
 
-Rick spends the weekend stewing: they're pushing him to quit, they don't value his experience, it's unfair.
+Rick spends the weekend stewing: they're trying to push him out, they don't value his experience, it's not fair.
 
 **What isn't within his power:** the company's decision, who his boss will be, management's real motives.
-**What is partly within his power:** his future at the company.
-**What is fully within his power:** how he shows up on Monday, the quality of his work, whether he updates his résumé, whether he asks his new boss for a clear conversation, how much time he hands over to rumination.
+**What's partly within his power:** his future at the company.
+**What's fully within his power:** how he shows up Monday morning, the quality of his work, whether he updates his résumé, whether he asks his new boss for a straight conversation, and how much of his time he hands over to stewing.
 
-The Stoic archer would do three things: ask for information instead of guessing ("What do you expect from me in the new structure?"), do his work better than ever (not for the company but for his own character), and quietly prepare a plan B. If they let him go in the end, he will have shot well.
+The Stoic archer would do three things: get information instead of guessing ("What do you need from me in the new structure?"), do his best work yet (not for the company, but for his own character), and quietly line up a plan B. If they let him go anyway, he'll have shot well.
 
-### In Business: The Client Who Doesn't Pay
+### In Business: The Client Who Won't Pay
 
-Megan runs a small design studio. Her biggest client owes her three invoices, nearly 40 percent of her revenue for the quarter. He answers her emails with "definitely this week," and the week never comes.
+Megan runs a small design studio. Her biggest client owes her three invoices, close to 40 percent of her revenue for the quarter. He answers every email with "definitely this week," and that week never comes.
 
-Megan can't sleep. She checks her bank account five times a day. She imagines the business closing.
+Megan can't sleep. She checks her bank account five times a day. She pictures the studio going under.
 
-The meditation doesn't ask Megan to "not care." Her anxiety makes sense. It asks something more practical: **take your energy out of the place where it's useless and put it where it helps.**
+The meditation doesn't ask Megan to stop caring. Her anxiety makes perfect sense. It asks for something more practical: **pull your energy out of the places where it does nothing and put it where it counts.**
 
 | Not within Megan's power | Within Megan's power |
 |---|---|
-| Whether the client pays this week | Sending a formal statement with a deadline |
-| The client's cash flow | Pausing new work until payment is current |
-| Whether the economy improves | Finding two more clients so she doesn't depend on one |
-| What the client thinks of her | Looking into legal or collection options |
-| | Changing her contracts: deposits and milestone payments |
+| Whether the client pays this week | Sending a formal statement with a firm deadline |
+| The client's cash flow | Pausing new work until the account is current |
+| Whether the economy picks up | Landing two more clients so she isn't dependent on one |
+| What the client thinks of her | Looking into legal or collections options |
+| | Rewriting her contracts: deposits and milestone payments |
 
-Checking her account five times a day sits in the first column disguised as the second: it looks like action, but it's anxiety. Every hour Megan spends imagining bankruptcy is an hour she isn't spending finding new clients.
+Checking her balance five times a day belongs in the left column, dressed up as the right one: it looks like action, but it's really anxiety. Every hour Megan spends imagining bankruptcy is an hour she isn't spending finding new clients.
 
-**The lesson for entrepreneurs:** a business depends on many things you don't control (the market, the competition, interest rates). That's why your advantage lies in being relentless about what you do control: your processes, your contracts, your service, your financial discipline.
+**The lesson for entrepreneurs:** your business depends on plenty of things you don't control (the market, the competition, interest rates). That's exactly why your edge lies in being relentless about what you do control: your processes, your contracts, your service, your financial discipline.
 
-### At School: The Exam and the Playground
+### At School: The Midterm and the Playground
 
-**If you're studying as an adult:** George is thirty-eight and working on a weekend MBA while holding down a full-time job. He fails his first statistics midterm. His immediate conclusions: "I'm too old for this," "the professor has it out for me," "I'm just not a numbers person."
+**If you're studying as an adult:** George is thirty-eight and working on a weekend MBA on top of a full-time job. He fails his first statistics midterm. His instant verdict: "I'm too old for this." "The professor has it out for me." "I'm just not a numbers guy."
 
-All three are judgments, not facts. The fact is: "I failed one exam." It doesn't follow that George is incapable, too old, or the professor's victim. What's within his power: how many hours he studies, whether he goes to office hours, whether he forms a study group, whether he reviews what went wrong. What isn't: the professor's style, the difficulty of the exam, his age.
+All three are judgments, not facts. The fact is: "I failed one exam." Nothing about that makes George incapable, over the hill, or the professor's victim. Within his power: how many hours he studies, whether he goes to office hours, whether he starts a study group, whether he goes back over what he got wrong. Not within his power: the professor's teaching style, how hard the exam was, his age.
 
-**If you're supporting your kids:** Claire gets a message from the teacher: her daughter Sophie, ten, got into a fight at recess. Claire feels a mix of embarrassment ("What will the other parents think of me?") and anger ("I bet the other girl started it").
+**If you're supporting your kids:** Claire gets a message from the teacher: her ten-year-old, Sophie, got into a fight at recess. Claire feels a mix of embarrassment ("What are the other parents going to think of me?") and anger ("I bet the other girl started it").
 
-Here the meditation cuts both ways. First, for Claire: what other parents think isn't within her power; how she listens to her daughter is. Second, it's a chance to teach Sophie the most useful idea in this book: *you don't control what the other girl said; you control what you did next*. Very few adults learned that as children. Imagine what changes when you learn it at ten.
+Here the meditation cuts both ways. First, for Claire: what the other parents think isn't within her power; how she listens to her daughter is. Second, it's a chance to teach Sophie the most useful idea in this book: *you can't control what the other girl said; you can control what you did next*. Very few adults learned that as kids. Imagine what changes when you learn it at ten.
 
-### In Your Family: The Brother Who Doesn't Help
+### In Your Family: The Brother Who Doesn't Show Up
 
-Rick's mother is seventy-eight and needs more help every month. Rick has two brothers. One lives in another state; the other lives fifteen minutes away and almost never visits. Rick takes her to the doctor, picks up her prescriptions, fixes the leaky faucet. Every time, he feels a dull anger toward his brother.
+Rick's mother is seventy-eight and needs more help every month. Rick has two brothers. One lives out of state; the other lives fifteen minutes away and almost never comes by. Rick drives her to the doctor, picks up her prescriptions, fixes the leaky faucet. Every time, he feels a low, steady anger toward his brother.
 
-He does the two-column exercise. **Not within his power:** whether his brother changes, his mother getting older, what his brother thinks his role should be. **Within his power:** caring for his mother the way he wants to, asking his brother for something specific rather than general ("Can you take her to the doctor on the last Tuesday of every month?"), and deciding how much he can give without harming his own health or family.
+He does the two-column exercise. **Not within his power:** whether his brother changes, his mother getting older, what his brother thinks his role should be. **Within his power:** taking care of his mother the way he wants to, asking his brother for something specific instead of something vague ("Can you take her to the doctor the last Tuesday of every month?"), and deciding how much he can give without wrecking his own health or his family.
 
-Rick makes the specific request. His brother agrees halfway: he shows up every other time. It isn't fair. But Rick finds that his anger shrinks once he stops fighting with the brother he wishes he had and starts negotiating with the brother he actually has.
+Rick makes the specific ask. His brother meets him halfway: he shows up every other time. It isn't fair. But Rick finds that his anger shrinks once he stops fighting with the brother he wishes he had and starts negotiating with the one he's got.
 
 ### In Money and Health: The Diagnosis
 
-Megan goes for a checkup and leaves with a diagnosis of prediabetes. That night she searches everything online and ends up imagining insulin shots and amputations. She doesn't sleep.
+Megan goes in for a checkup and walks out with a prediabetes diagnosis. That night she googles everything and ends up imagining insulin shots and amputations. She doesn't sleep.
 
-Meditation VIII.47 applies with full force. **The fact:** blood sugar a little high and a doctor telling her there's still time. **The judgment:** "I'm going to end up sick like my aunt." Between the two lies a chasm, and Megan crossed it alone in three hours.
+Meditation VIII.47 hits with full force here. **The fact:** her blood sugar is a little high, and her doctor says there's still plenty of time. **The judgment:** "I'm going to end up sick like my aunt." There's a canyon between those two, and Megan crossed it alone in three hours.
 
-**Within her power:** what she eats, how much she walks, whether she goes to the follow-up appointment, how many hours she sleeps. **Not within her power:** her genetics, her family history, the exact results six months from now.
+**Within her power:** what she eats, how much she walks, whether she goes to her follow-up, how much she sleeps. **Not within her power:** her genes, her family history, exactly what her numbers will be in six months.
 
-Megan tapes a two-column list to her refrigerator. She follows her doctor's instructions and keeps all her follow-up appointments. Six months later, her blood sugar is in the normal range. Not because philosophy cures anything, but because she stopped spending her energy in the wrong column.
+Megan tapes a two-column list to her fridge. She follows her doctor's instructions and keeps every follow-up appointment. Six months later, her blood sugar is back in the normal range. Not because philosophy cures anything, but because she stopped spending her energy in the wrong column.
 
-## What This Chapter Does Not Say
+## What This Chapter Does *Not* Say
 
-**"You shouldn't feel anything."** False. The Stoics accepted initial, involuntary reactions: the startle, the knot in the stomach, the flush. Seneca called them "first movements" and said not even the wise are free of them. What you train is what you do *after* the first movement. What's more, the Stoics didn't aim for coldness: they described healthy emotions, which they called *eupatheiai*, such as calm joy, reasonable caution, and goodwill toward others. Stoics feel; what they avoid is being swept away by runaway passions.
+**"You shouldn't feel anything."** Wrong. The Stoics accepted our first, involuntary reactions: the startle, the knot in your stomach, the flush in your face. Seneca called them "first movements" and said not even the wisest person is free of them. What you train is what you do *after* that first movement. And the Stoics weren't aiming for coldness, either. They described healthy emotions, which they called *eupatheiai*: calm joy, sensible caution, goodwill toward others. Stoics feel; what they avoid is being swept away by runaway passions.
 
-**"Everything is your fault, because everything depends on how you see it."** False. Your judgments are within your power, but what others do to you is not. Taking responsibility for your response isn't blaming yourself for the blow.
+**"Everything is your fault, because it all depends on how you look at it."** Wrong. Your judgments are within your power, but what other people do to you isn't. Owning your response isn't the same as blaming yourself for the blow.
 
-**"If it's not within my power, I shouldn't care about it."** False. You can care, deeply, that your father is ill. His diagnosis isn't within your power. Being there for him is. Stoicism doesn't ask for indifference; it asks you to direct your love toward the action that's possible.
+**"If it's not within my power, I shouldn't care about it."** Wrong. You can care deeply that your father is sick. His diagnosis isn't within your power. Being there for him is. Stoicism doesn't ask for indifference; it asks you to point your love toward whatever action is actually possible.
 
-**"This is positive thinking: think happy thoughts and everything works out."** False. Stoicism doesn't promise things will turn out well. It promises that, however they turn out, you can face them with dignity. It's more realistic than optimistic.
+**"This is just positive thinking: think happy thoughts and it'll all work out."** Wrong. Stoicism doesn't promise that things will turn out well. It promises that however they turn out, you can meet them with dignity. It's more realistic than optimistic.
 
 ## This Week's Exercise: The Two Columns
 
-Every night this week, before going to sleep:
+Every night this week, before bed:
 
 1. Write down the situation that weighed on you most today.
-2. Divide a page into two columns: **"Within my power"** and **"Not within my power."**
-3. Put each element of the situation in its column. Be strict: "my boss appreciating me" goes in the second; "turning in the report on time" goes in the first.
-4. Mentally let go of the second column. Not because it doesn't matter, but because there's nothing you can do about it tonight.
-5. Choose **one single action** from the first column for tomorrow.
+2. Split a page into two columns: **"Within my power"** and **"Not within my power."**
+3. Sort every piece of the situation into its column. Be strict: "my boss appreciating me" goes on the right; "getting the report in on time" goes on the left.
+4. Mentally let go of the right-hand column. Not because it doesn't matter, but because there's nothing you can do about it tonight.
+5. Pick **one single action** from the left-hand column for tomorrow.
 
-At the end of the week, review your pages. You'll probably discover two things: that you spend more energy on the second column than you thought, and that the first column always had something you could do.
+At the end of the week, look back over your pages. You'll probably notice two things: you spend more energy on the right-hand column than you realized, and the left-hand column always had something in it you could do.
 
 ### The Exercise at Three Levels
 
-- **Beginner:** do the two columns for just one situation a week, the one that weighs on you most.
-- **Intermediate:** add a third column for what is *partly* within your power, as Irvine suggests, and write next to it exactly which part is yours.
-- **Advanced:** for one whole day, every time you complain out loud or in your head, stop and ask: "Is this in my column or the other one?" Keep count. At the end of the day, see how many complaints were about things that weren't within your power.
+- **Beginner:** do the two columns for just one situation a week, whichever one is weighing on you most.
+- **Intermediate:** add a third column for what's *partly* within your power, as Irvine suggests, and note exactly which part is yours.
+- **Advanced:** for one whole day, every time you complain, out loud or in your head, stop and ask: "Is this in my column or the other one?" Keep a tally. At the end of the day, count how many of your complaints were about things that were never within your power.
 
 ## Key Ideas
 
-- Between what happens and what you feel there is a judgment, and that judgment is yours.
+- Between what happens and what you feel, there's a judgment, and that judgment is yours.
 - Always separate the fact from the interpretation.
 - There are three zones: what you control, what you don't, and what you partly control. In the third, shoot well and let go of the result.
-- Accepting what isn't within your power isn't resignation: your actions are within your power.
-- Stoics feel; what they avoid is being swept away by passions.
+- Accepting what's outside your power isn't resignation: your actions are always within your power.
+- Stoics feel; what they avoid is being swept away by their passions.
 
 ## Journaling Question
 
@@ -226,6 +226,6 @@ At the end of the week, review your pages. You'll probably discover two things: 
 
 ---
 
-At the start of the chapter you were stuck in traffic, hitting the steering wheel. The light is still green and the car ahead still hasn't moved. Nothing has changed out there. But now you know something you didn't know a moment ago: the only place in that scene where you can win isn't the street. It's your mind.
+At the start of this chapter, you were stuck in traffic, pounding the steering wheel. The light is still green, and the car ahead still hasn't budged. Nothing out there has changed. But now you know something you didn't a few pages ago: the only place in that scene where you can win isn't the road. It's your mind.
 
-Breathe. The car moves. You arrive late. And yet you arrive whole.
+Breathe. The car finally moves. You get there late. And you get there in one piece.

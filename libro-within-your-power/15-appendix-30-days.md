@@ -16,7 +16,7 @@ Before checking your phone:
 
 - When you feel anger: **the card with the nine reminders** (Chapter 6).
 - When you feel anxious: **what is unbearable in this moment?** (Chapter 10).
-- When you want to buy something or envy someone: **the stripped-bare definition** (Chapter 7).
+- When you're tempted to buy something, or you catch yourself envying someone: **the stripped-bare definition** (Chapter 7).
 - Before an important decision: **is this good for the hive?** (Chapter 11).
 
 ### At Night (5 minutes)
@@ -91,14 +91,14 @@ Marcus Aurelius didn't have this book. He had a notebook. I suggest you keep one
 
 1. What judgment am I treating as if it were a fact?
 2. What am I silently demanding from someone who never promised to give it to me?
-3. What do I do in the world that, if I didn't do it, no one else would do in quite the same way?
-4. If this obstacle were a teacher, what would it be forcing me to learn?
-5. If someone read my thoughts from this week, what color would they say my mind is?
-6. In what recent situation did I become something like the person who offended me?
-7. What in my life am I paying more for the story than for what it is?
-8. Whom do I treat differently because they can't do anything for me?
-9. What am I doing out of fear of saying no?
-10. What disaster have I already suffered many times in my imagination without it ever happening?
-11. In what situation am I winning while the "us" is losing?
-12. What do I do today, without realizing it, that I learned from someone I never thanked?
+3. What do I do in this world that, if I didn't do it, no one else would do in quite the same way?
+4. If this obstacle were a teacher, what would it be making me learn?
+5. If someone could read my thoughts from this past week, what color would they say my mind is?
+6. When did I recently turn into someone a lot like the person who offended me?
+7. What in my life am I paying for more because of the story than because of what it actually is?
+8. Who do I treat differently because they can't do anything for me?
+9. What am I doing only because I'm afraid to say no?
+10. What disaster have I already lived through a dozen times in my head without it ever actually happening?
+11. Where am I winning while the "us" is losing?
+12. What do I do today, without even realizing it, that I learned from someone I never thanked?
 13. What am I putting off as if I had ten thousand years?
