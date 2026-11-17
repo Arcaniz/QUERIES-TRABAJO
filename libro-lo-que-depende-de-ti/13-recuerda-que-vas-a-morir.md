@@ -20,7 +20,7 @@ Las *Meditaciones* están llenas de recordatorios de la muerte. Marco escribe qu
 
 ### Interpretación 1. La clásica: la muerte como medida de lo importante
 
-Para los estoicos, la muerte no es un mal. Es un proceso natural, como nacer o crecer. Lo que sí es un mal es vivir mal: con miedo, con odio, con vanidad, sin hacer lo que uno debe.
+Para los estoicos, la muerte es un proceso natural, como nacer o crecer, y por eso no la consideraban un mal. Lo que sí es un mal es vivir mal: con miedo, con odio, con vanidad, sin hacer lo que uno debe.
 
 La muerte sirve como medida. Si mañana fuera tu último día, ¿seguirías enojado con tu hermano por la herencia? ¿Pasarías la noche revisando redes sociales? ¿Dejarías para después la llamada a tu padre? La pregunta de II.11 no es "¿qué harías si te quedara un día?", porque eso invita a gastar todo en placeres. Es "¿qué harías, dirías y pensarías si supieras que esto puede terminar en cualquier momento?". La respuesta casi siempre es: lo mismo de siempre, pero con más cuidado, más honestidad y más amor.
 

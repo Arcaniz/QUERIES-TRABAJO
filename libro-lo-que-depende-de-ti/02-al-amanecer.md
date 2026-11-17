@@ -75,7 +75,7 @@ Por otro lado, la psicóloga Gabriele Oettingen ha estudiado durante años lo qu
 
 **Escéptico:** ¿Y si la persona difícil es mi propia pareja, o mi madre?
 
-**Autor:** Entonces el ejercicio es todavía más importante, porque con ellos no puedes simplemente alejarte. Prepararte para la parte difícil de quien amas no es dejar de amarlo. Es amarlo con los ojos abiertos.
+**Autor:** Entonces el ejercicio es todavía más importante, porque con ellos no puedes simplemente alejarte. Prepararte para la parte difícil de quien amas también es amarlo, solo que con los ojos abiertos.
 
 ## Seis escenas de la vida adulta
 
@@ -85,7 +85,7 @@ Laura sabe que el domingo comen en casa de la mamá de Andrés y que, como cada 
 
 **Versión estoica de la mañana del domingo:** Laura se dice: "Hoy mi suegra va a hacer algún comentario. Lo hace porque cree que así cuida a su hijo y a su familia, aunque se equivoque en la forma. No me puede obligar a ser grosera ni a amargarme el día".
 
-Y luego algo práctico: hablar antes con Andrés. "Si tu mamá vuelve con el tema del hijo, ¿puedes cambiar de tema tú?". Prepararse no es solo un ejercicio mental. Es planear.
+Y luego algo práctico: hablar antes con Andrés. "Si tu mamá vuelve con el tema del hijo, ¿puedes cambiar de tema tú?". Prepararse es un ejercicio mental, sí, pero también es planear.
 
 **Variante:** el ejercicio también sirve al revés. Andrés puede prepararse para el día en que Laura llegue agotada del trabajo y conteste mal. Prepararse para la parte difícil de quien amas es una forma de amor.
 
@@ -133,7 +133,7 @@ Tarda cuarenta minutos. Lo transfieren dos veces. Pero sale con un número de fo
 
 ## Lo que este capítulo no dice
 
-**"Piensa mal de todos."** No. Prepararte para la gente difícil no es suponer que todos lo son. Es no sorprenderte cuando alguien lo sea. La mayoría de las personas, la mayoría de los días, son razonables.
+**"Piensa mal de todos."** No. Prepararte para la gente difícil simplemente evita que te sorprendas cuando alguien lo sea. La mayoría de las personas, la mayoría de los días, son razonables.
 
 **"Si el otro actúa por ignorancia, no es responsable."** No. Marco explica la conducta del otro para no odiarlo, no para eximirlo de consecuencias. Un empleado que roba se despide, aunque lo comprendas.
 

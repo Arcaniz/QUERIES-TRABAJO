@@ -109,7 +109,7 @@ Mariana se pregunta por qué otros despachos cobran el triple. Se da cuenta de q
 
 El ejercicio funciona en dos direcciones para un negocio. Primero, para no dejarse intimidar: la competencia, desnuda, es gente haciendo un trabajo parecido. Segundo, para aprender a comunicar su propio valor sin mentir. Mariana deja de vender "logotipos" y empieza a explicar qué hace un buen logotipo por un negocio: lo hace reconocible, confiable, distinto. No adorna; traduce. Sube sus precios sin inflar nada.
 
-**Para emprendedores:** el buen marketing no viste las cosas de lo que no son; explica lo que sí son.
+**Para emprendedores:** el buen *marketing* no viste las cosas de lo que no son; explica lo que sí son.
 
 ### En la escuela: el diploma y la marca de la universidad
 

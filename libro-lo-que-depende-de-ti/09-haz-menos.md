@@ -37,7 +37,7 @@ La objeción es seria: lo que para mí es innecesario puede ser necesario para o
 
 Marco tiene una respuesta implícita en la frase "lo que exige la razón de un ser social". Lo necesario no es lo que a mí me apetece, sino lo que, pensado con calma, sirve al conjunto. A veces ir a la comida familiar que te aburre es necesario porque tu papel de hijo lo pide. A veces dejar de ir a la junta es lo necesario porque tu trabajo real te está esperando.
 
-El criterio no es la comodidad. Es la función. Y hay que tener el valor de distinguir entre "no quiero" y "no es necesario".
+El criterio es la función, no la comodidad. Y hay que tener el valor de distinguir entre "no quiero" y "no es necesario".
 
 **En una frase:** lo necesario no es lo que te gusta, sino lo que sirve; y a veces lo que sirve no te gusta.
 

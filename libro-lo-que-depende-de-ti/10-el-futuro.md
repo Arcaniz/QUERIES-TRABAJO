@@ -52,7 +52,7 @@ Un criterio práctico: si al pensar en el futuro puedes escribir una acción con
 
 En una de sus cartas, Séneca cita al estoico Hecatón: dejarás de temer si dejas de esperar. Y explica la imagen: la esperanza y el miedo marchan juntos, como el prisionero y el guardia atados por la misma cadena. Ambos miran hacia el futuro. El que espera ansiosamente algo también teme no conseguirlo; el que teme algo también espera que no ocurra. La causa de los dos, dice Séneca, es que no nos adaptamos al presente y mandamos nuestros pensamientos muy lejos.
 
-Esto no significa vivir sin metas. Significa no colgar tu paz de un futuro que no controlas. Puedes trabajar por algo con todas tus fuerzas sin que tu tranquilidad de hoy dependa de conseguirlo.
+Puedes tener metas, claro. Lo que Séneca pide es no colgar tu paz de un futuro que no controlas. Puedes trabajar por algo con todas tus fuerzas sin que tu tranquilidad de hoy dependa de conseguirlo.
 
 En otra carta, Séneca escribe la frase que ya mencionamos al inicio del capítulo: hay más cosas que nos asustan que cosas que nos aplastan, y sufrimos más a menudo en la imaginación que en la realidad. Y aconseja no adelantarse a los problemas: muchas de las cosas que tememos quizá nunca lleguen, y las que lleguen no tienen por qué doler antes de tiempo.
 

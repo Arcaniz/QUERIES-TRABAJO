@@ -11,7 +11,7 @@ Tú conoces la escena. Suena la alarma. La pospones. Vuelve a sonar. Haces cuent
 
 Marco no había pedido ser emperador. Fue adoptado de joven por Antonino Pío por orden del emperador Adriano, y desde entonces su vida quedó trazada. Él hubiera preferido, según cuentan, la vida de un filósofo. En cambio, le tocaron el gobierno, la guerra y los tribunales.
 
-Por eso esta meditación no habla de motivación, sino de algo más hondo: de para qué existe uno. Para los estoicos, cada ser tiene una función según su naturaleza. La de la abeja es hacer miel; la de la araña, tejer. La del ser humano es actuar con razón y en beneficio de los demás. Levantarte no es una obligación externa. Es ser lo que eres.
+Por eso esta meditación no habla de motivación, sino de algo más hondo: de para qué existe uno. Para los estoicos, cada ser tiene una función según su naturaleza. La de la abeja es hacer miel; la de la araña, tejer. La del ser humano es actuar con razón y en beneficio de los demás. Levantarte, visto así, deja de ser una obligación externa: es ser lo que eres.
 
 ## Tres maneras de leer esta meditación
 

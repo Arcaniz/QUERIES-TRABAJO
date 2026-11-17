@@ -139,7 +139,7 @@ Se da cuenta de que su mente está teñida de frases que no eligió. Empieza a c
 
 ## Ejercicio de la semana: la auditoría del tinte
 
-1. Durante tres días, anota todo lo que consumes con la mente: redes sociales, noticias, series, conversaciones, podcasts, pensamientos repetidos.
+1. Durante tres días, anota todo lo que consumes con la mente: redes sociales, noticias, series, conversaciones, *podcasts*, pensamientos repetidos.
 2. Al lado de cada cosa, escribe el color que deja: calma, coraje, envidia, inspiración, miedo, aprendizaje.
 3. Elige **una** fuente de mal tinte y redúcela a la mitad la semana siguiente.
 4. Elige **una** fuente de buen tinte (una lectura, una conversación, un paseo) y agrégala a tu rutina diaria.

@@ -90,7 +90,7 @@ En terapia aprenden a usar la meditación XI.18 como freno de emergencia. Acorda
 
 La primera vez que lo intentan, no sale bien. Laura dice "pausa", y Andrés lo vive como un portazo: "Siempre te vas cuando te conviene". La pausa se convierte en otra pelea. Les toma varias semanas aprender que la palabra solo funciona si los dos se comprometen a volver al tema, y que quien pide la pausa es quien debe buscar al otro después. Las herramientas estoicas no funcionan como un interruptor; se aprenden practicándolas, y fallando.
 
-La amabilidad invencible en pareja no es callarse. Es decir la verdad sin buscar herir. "Me preocupa que gastemos sin hablarlo" es firme. "Eres igual que tu papá" es leña.
+En pareja, la amabilidad invencible consiste en decir la verdad sin buscar herir, aunque eso a veces cueste más que callarse. "Me preocupa que gastemos sin hablarlo" es firme. "Eres igual que tu papá" es leña.
 
 ### En el trabajo: el correo incendiario
 

@@ -100,7 +100,7 @@ Cuando Ricardo se vuelve coordinador (Capítulo 8), cambia una regla: en cada pr
 
 ### En los negocios: el cliente, el proveedor y la competencia
 
-A Mariana le ofrecen un trabajo grande con una condición: tiene que bajar su precio y, para lograrlo, pagar menos a los ilustradores freelance que trabajan con ella. Ganaría más ella; perderían ellos.
+A Mariana le ofrecen un trabajo grande con una condición: tiene que bajar su precio y, para lograrlo, pagar menos a los ilustradores *freelance* que trabajan con ella. Ganaría más ella; perderían ellos.
 
 Mariana se pregunta qué le conviene a su colmena: su red de colaboradores, que tardó años en formar y que la ha sacado de apuros. Si les paga menos, los mejores se irán. Rechaza el trabajo en esas condiciones y propone otro alcance. El cliente acepta una versión más pequeña.
 
