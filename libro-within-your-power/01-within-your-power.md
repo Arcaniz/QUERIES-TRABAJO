@@ -8,7 +8,7 @@
 
 It's 8:47 a.m. You've been crawling through traffic for twenty minutes, and you're going to be late for a meeting you never wanted in the first place. The light turns green. The car in front of you doesn't move. You feel the heat climb up the back of your neck. You lean on the horn. You smack the steering wheel. In your head, you're already telling that driver exactly what you think of him.
 
-Now consider this: the light, the traffic, the distracted driver, and the meeting time are all out of your hands. The only thing you control in that moment is what you do with all of it on the inside. And that, the one thing you actually control, is exactly where you're losing.
+Now consider this: the light, the traffic, the distracted driver, and the meeting time are all out of your hands. The only thing you control in that moment is how you respond: what you do with all of it on the inside, and what you decide to do next. And that, the one thing you actually control, is exactly where you're losing.
 
 That's the heart of Stoicism. Everything else in this book grows out of it.
 
@@ -30,13 +30,13 @@ The Stoics noticed something most of us miss: between what happens and how we fe
 
 What hurts, Marcus says, isn't the unanswered text. It's the story you signed off on: "I don't matter to them." "They're probably with someone else." "They always do this."
 
-That doesn't mean nothing bad ever happens. It means there's a gap between the blow and the wound, and that gap belongs to you.
+That doesn't mean nothing bad ever happens. It means that even when the blow is real, there's a gap between the blow and the wound, and you have a say in what happens there.
 
 **In a nutshell:** you don't control what happens; you control what you tell yourself about it.
 
 ### Reading 2. The Psychological: Stoicism as Therapy's Ancestor
 
-In the twentieth century, psychologists Albert Ellis and Aaron Beck developed approaches that are now used around the world to treat anxiety and depression: rational emotive behavior therapy and cognitive therapy. Ellis openly credited Epictetus as an inspiration. The core idea is nearly identical: events don't upset us; our beliefs about events do. Change the belief, and the feeling changes with it.
+In the twentieth century, psychologists Albert Ellis and Aaron Beck developed approaches that are now used around the world to treat anxiety and depression: rational emotive behavior therapy and cognitive therapy. Ellis openly credited Epictetus as an inspiration. A clinical therapy and an ancient philosophy aren't the same thing, but they overlap on one important point: our interpretations shape how we feel about what happens. Change the interpretation, and the feeling often changes with it.
 
 Read this way, VIII.47 becomes a technique:
 
@@ -182,7 +182,7 @@ Meditation VIII.47 hits with full force here. **The fact:** her blood sugar is a
 
 **Within her power:** what she eats, how much she walks, whether she goes to her follow-up, how much she sleeps. **Not within her power:** her genes, her family history, exactly what her numbers will be in six months.
 
-Megan tapes a two-column list to her fridge. She follows her doctor's instructions and keeps every follow-up appointment. Six months later, her blood sugar is back in the normal range. Not because philosophy cures anything, but because she stopped spending her energy in the wrong column.
+Megan tapes a two-column list to her fridge. She follows her doctor's instructions and keeps every follow-up appointment. Six months later, her blood sugar is back in the normal range. Philosophy didn't treat her condition. It helped her follow through on her doctor's advice and stop spending her energy in the wrong column.
 
 ## What This Chapter Does *Not* Say
 

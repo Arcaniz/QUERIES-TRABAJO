@@ -86,7 +86,7 @@ One night, Andrew tells Lauren he isn't happy. There's no one else. There's exha
 
 Her first instinct is to decide the marriage is over, or that it was all a lie. The meditation offers a different question: what does this conversation make possible that wasn't possible before?
 
-It makes possible something they haven't done in years: talk honestly. Lauren and Andrew decide to start couples therapy. They don't know if they'll stay together. But the obstacle became the road to an honest conversation, and that's worth something however it ends.
+It makes possible something they haven't done in years: talk honestly. Lauren and Andrew decide to start couples therapy. They don't know if they'll stay together. For now, at least, they're talking honestly.
 
 **Another angle:** if the relationship does end, the road looks different. It runs through learning to be alone, noticing what keeps repeating in your relationships, rebuilding friendships you let slide. The obstacle doesn't pick your destination. It picks your next task.
 
@@ -104,7 +104,7 @@ The client who wasn't paying (Chapter 1) finally pays half and takes his busines
 
 It's serious. But a fire, Marcus says, grows on whatever you throw at it. Megan uses the crisis to make decisions she's been putting off for years: she raises her rates for new clients, requires a 50 percent deposit, builds a monthly retainer package, and starts posting case studies online. A year later she has eight smaller clients instead of one big one. It's less comfortable. It's also safer.
 
-**For entrepreneurs:** plenty of companies are born or reborn in a crisis. Not because crises are good, but because they force you to do what comfort let you put off.
+**For entrepreneurs:** plenty of companies are born or reborn in a crisis. A crisis can sometimes push you toward decisions comfort let you postpone. That doesn't make the crisis itself good, and not every crisis leaves something like that behind.
 
 ### At School: Failing a Class and Not Making the Team
 

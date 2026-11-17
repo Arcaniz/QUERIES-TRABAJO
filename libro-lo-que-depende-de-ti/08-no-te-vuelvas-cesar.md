@@ -98,7 +98,7 @@ Las parejas tienen muchas fuentes de poder: el que gana más, el que sabe más d
 
 ### En el trabajo: el ascenso
 
-Por fin a Ricardo, en su nuevo empleo, lo ascienden a coordinador de un equipo de seis personas. En la primera semana se da cuenta de que la gente se ríe de sus chistes aunque no sean graciosos y que nadie lo contradice en las juntas.
+Un año después de entrar a su nuevo empleo, a Ricardo por fin lo ascienden a coordinador de un equipo de seis personas. En la primera semana se da cuenta de que la gente se ríe de sus chistes aunque no sean graciosos y que nadie lo contradice en las juntas.
 
 Decide tres reglas para no cesarizarse:
 1. **Un "abogado del diablo" en cada junta.** Le pide a una persona distinta cada semana que critique su propuesta.
@@ -131,7 +131,7 @@ Un día su hermana menor le dice: "Desde que murió papá, ya no eres mi hermana
 
 Laura gana más que Andrés desde que la ascendieron. Al principio no pasaba nada. Pero un día, en una discusión sobre unas vacaciones, se le escapa: "Al final, yo soy la que paga". Andrés se queda callado y esa noche duerme en la sala.
 
-Laura recuerda lo que les había pasado al revés, cuando Andrés era el único que ganaba, como contamos al principio de este mismo capítulo. Se da cuenta de que el dinero es una forma de poder y de que había caído en la misma trampa. Al día siguiente le pide disculpas y acuerdan algo: el dinero de los dos es de la casa, y las decisiones grandes se toman juntos, sin importar quién aportó más.
+Laura recuerda lo que les había pasado al revés, cuando Andrés era el único que ganaba, como contamos al principio de este mismo capítulo. Se da cuenta de que el dinero es una forma de poder y de que había caído en la misma trampa. Al día siguiente le pide disculpas y acuerdan algo: las decisiones grandes se toman juntos, sin importar quién aporte más. (Cómo organizaron el dinero en la práctica lo cuenta el Capítulo 11).
 
 ## Nota del autor
 

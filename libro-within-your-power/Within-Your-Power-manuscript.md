@@ -177,7 +177,7 @@ Each chapter that follows takes a passage from the *Meditations* and sets it in 
 
 It's 8:47 a.m. You've been crawling through traffic for twenty minutes, and you're going to be late for a meeting you never wanted in the first place. The light turns green. The car in front of you doesn't move. You feel the heat climb up the back of your neck. You lean on the horn. You smack the steering wheel. In your head, you're already telling that driver exactly what you think of him.
 
-Now consider this: the light, the traffic, the distracted driver, and the meeting time are all out of your hands. The only thing you control in that moment is what you do with all of it on the inside. And that, the one thing you actually control, is exactly where you're losing.
+Now consider this: the light, the traffic, the distracted driver, and the meeting time are all out of your hands. The only thing you control in that moment is how you respond: what you do with all of it on the inside, and what you decide to do next. And that, the one thing you actually control, is exactly where you're losing.
 
 That's the heart of Stoicism. Everything else in this book grows out of it.
 
@@ -199,13 +199,13 @@ The Stoics noticed something most of us miss: between what happens and how we fe
 
 What hurts, Marcus says, isn't the unanswered text. It's the story you signed off on: "I don't matter to them." "They're probably with someone else." "They always do this."
 
-That doesn't mean nothing bad ever happens. It means there's a gap between the blow and the wound, and that gap belongs to you.
+That doesn't mean nothing bad ever happens. It means that even when the blow is real, there's a gap between the blow and the wound, and you have a say in what happens there.
 
 **In a nutshell:** you don't control what happens; you control what you tell yourself about it.
 
 ### Reading 2. The Psychological: Stoicism as Therapy's Ancestor
 
-In the twentieth century, psychologists Albert Ellis and Aaron Beck developed approaches that are now used around the world to treat anxiety and depression: rational emotive behavior therapy and cognitive therapy. Ellis openly credited Epictetus as an inspiration. The core idea is nearly identical: events don't upset us; our beliefs about events do. Change the belief, and the feeling changes with it.
+In the twentieth century, psychologists Albert Ellis and Aaron Beck developed approaches that are now used around the world to treat anxiety and depression: rational emotive behavior therapy and cognitive therapy. Ellis openly credited Epictetus as an inspiration. A clinical therapy and an ancient philosophy aren't the same thing, but they overlap on one important point: our interpretations shape how we feel about what happens. Change the interpretation, and the feeling often changes with it.
 
 Read this way, VIII.47 becomes a technique:
 
@@ -351,7 +351,7 @@ Meditation VIII.47 hits with full force here. **The fact:** her blood sugar is a
 
 **Within her power:** what she eats, how much she walks, whether she goes to her follow-up, how much she sleeps. **Not within her power:** her genes, her family history, exactly what her numbers will be in six months.
 
-Megan tapes a two-column list to her fridge. She follows her doctor's instructions and keeps every follow-up appointment. Six months later, her blood sugar is back in the normal range. Not because philosophy cures anything, but because she stopped spending her energy in the wrong column.
+Megan tapes a two-column list to her fridge. She follows her doctor's instructions and keeps every follow-up appointment. Six months later, her blood sugar is back in the normal range. Philosophy didn't treat her condition. It helped her follow through on her doctor's advice and stop spending her energy in the wrong column.
 
 ## What This Chapter Does *Not* Say
 
@@ -830,7 +830,7 @@ One night, Andrew tells Lauren he isn't happy. There's no one else. There's exha
 
 Her first instinct is to decide the marriage is over, or that it was all a lie. The meditation offers a different question: what does this conversation make possible that wasn't possible before?
 
-It makes possible something they haven't done in years: talk honestly. Lauren and Andrew decide to start couples therapy. They don't know if they'll stay together. But the obstacle became the road to an honest conversation, and that's worth something however it ends.
+It makes possible something they haven't done in years: talk honestly. Lauren and Andrew decide to start couples therapy. They don't know if they'll stay together. For now, at least, they're talking honestly.
 
 **Another angle:** if the relationship does end, the road looks different. It runs through learning to be alone, noticing what keeps repeating in your relationships, rebuilding friendships you let slide. The obstacle doesn't pick your destination. It picks your next task.
 
@@ -848,7 +848,7 @@ The client who wasn't paying (Chapter 1) finally pays half and takes his busines
 
 It's serious. But a fire, Marcus says, grows on whatever you throw at it. Megan uses the crisis to make decisions she's been putting off for years: she raises her rates for new clients, requires a 50 percent deposit, builds a monthly retainer package, and starts posting case studies online. A year later she has eight smaller clients instead of one big one. It's less comfortable. It's also safer.
 
-**For entrepreneurs:** plenty of companies are born or reborn in a crisis. Not because crises are good, but because they force you to do what comfort let you put off.
+**For entrepreneurs:** plenty of companies are born or reborn in a crisis. A crisis can sometimes push you toward decisions comfort let you postpone. That doesn't make the crisis itself good, and not every crisis leaves something like that behind.
 
 ### At School: Failing a Class and Not Making the Team
 
@@ -1531,7 +1531,7 @@ Couples have all sorts of power sources: whoever earns more, whoever knows more 
 
 ### At Work: The Promotion
 
-At his new job, Rick finally gets promoted to lead a team of six. In his first week, he notices people laughing at his jokes even when they're not funny, and nobody contradicting him in meetings.
+A year into his new job, Rick finally gets promoted to lead a team of six. In his first week, he notices people laughing at his jokes even when they're not funny, and nobody contradicting him in meetings.
 
 He sets himself three rules so he won't turn into Caesar:
 1. **A devil's advocate in every meeting.** Each week he asks a different person to tear his proposal apart.
@@ -1564,7 +1564,7 @@ One day her younger sister tells her: "Ever since Dad died, you're not my sister
 
 Since her promotion, Lauren has been out-earning Andrew. At first nothing changed. Then one day, in an argument about vacation plans, it slips out: "At the end of the day, I'm the one paying." Andrew goes quiet and sleeps on the couch.
 
-Lauren remembers what happened when the roles were reversed, when Andrew was the only one earning, which we described at the start of this chapter. She sees that money is a form of power and that she's fallen into the same trap. The next day she apologizes, and they agree on something: both their paychecks belong to the household, and big decisions get made together, no matter who brought in more.
+Lauren remembers what happened when the roles were reversed, when Andrew was the only one earning, which we described at the start of this chapter. She sees that money is a form of power and that she's fallen into the same trap. The next day she apologizes, and they agree on something: big decisions get made together, no matter who brings in more. (How they ended up organizing the money itself is a story for Chapter 11.)
 
 ## Author's Note
 
@@ -1796,7 +1796,7 @@ Marcus couldn't control that future. What he could do was remember that whenever
 
 ### Reading 1. The Classic: Trust Your Tools
 
-VII.8 says something simple and deeply reassuring: your future self will have the same tools your present self has. If you could handle what came at you today, you'll be able to handle tomorrow. Not because things will go well, but because you'll be there, with your reason intact.
+VII.8 says something simple and deeply reassuring: your future self will have the same tools your present self has. If you could handle what came at you today, you'll be able to handle tomorrow. Not because things are guaranteed to go well, but because you can prepare to meet whatever comes as thoughtfully as you're able.
 
 Think about it this way: you've survived 100 percent of your worst days so far. You didn't handle all of them well, but you made it here. That's a fact, not a motivational poster.
 
@@ -2059,7 +2059,7 @@ A few months later, a competitor asks for help with a project she can't finish o
 
 **If you're studying as an adult:** in George's MBA program, a classmate offers him the answers to an exam, which he got from someone in a previous semester. George is tired, and the help would be welcome. But he asks: what's good for the hive? If everyone cheats, the degree is worth less for everyone. And he won't learn what he came to learn. He says no. Instead he starts a study group and shares his notes with anyone who needs them. Sharing isn't the same as cheating: one makes the hive stronger, the other weakens it.
 
-**If you're supporting your kids:** a new girl has joined Sophie's class, and nobody invites her to play. Sophie doesn't either; she's afraid her friends will leave her out. Claire tells her about Hierocles's circles: "Right now that girl is in your outer circle. What would happen if you pulled her in a little?" The next day, Sophie asks her to sit with them at lunch. Nothing bad happens. The hive gets a little bigger.
+**If you're supporting your kids:** a new girl has joined Sophie's class, and nobody invites her to play. Sophie doesn't either; she's afraid her friends will leave her out. Claire tells her about Hierocles's circles: "Right now that girl is in your outer circle. What would happen if you pulled her in a little?" The next day, Sophie asks her to sit with them at lunch. Sophie is nervous when she asks. The new girl says yes, and they eat lunch together.
 
 ### In Your Family: The Inheritance
 
@@ -2069,7 +2069,7 @@ Andrew, the oldest grandchild, suggests they ask the hive question: what's good 
 
 ### In Money and Health: Money as a Couple
 
-Lauren and Andrew have always kept their finances separate: each paid their own expenses, and they split household bills down the middle. It worked, until Andrew went through a stretch of lower income after a job change, and half the household bills became a real burden for him.
+For most of their marriage, Lauren and Andrew kept their finances separate: each paid their own expenses, and they split household bills down the middle. It worked, until Andrew went through a stretch of lower income after a job change, and half the household bills became a real burden for him.
 
 They sit down and think like a hive. They decide to pay into a joint account in proportion to what each of them earns, keep a separate amount for personal spending, and make big decisions together. It's not the only way to do it, and every couple has to find its own. But switching the question from "what's fair to me?" to "what's good for both of us?" got rid of a source of resentment they'd been carrying around for years.
 
@@ -2311,7 +2311,7 @@ The Stoic answer is that the morbid thing isn't thinking about death. It's avoid
 
 That said, this needs care. If you're dealing with a recent loss, with depression, or with thoughts of hurting yourself, this exercise isn't for you right now. Please reach out for professional help. *Memento mori* is a practice for valuing life, not for pulling away from it. In the United States, you can call or text 988 (Suicide & Crisis Lifeline) any time, free and confidential. Outside the U.S., contact your local crisis line or emergency number.
 
-**In a nutshell:** remembering death isn't loving death; it's learning to love life before it's over.
+**In a nutshell:** remembering that life ends changes how closely you pay attention to the time you have.
 
 ## What the Other Stoics Said
 

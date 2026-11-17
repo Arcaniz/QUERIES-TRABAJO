@@ -98,7 +98,7 @@ Couples have all sorts of power sources: whoever earns more, whoever knows more 
 
 ### At Work: The Promotion
 
-At his new job, Rick finally gets promoted to lead a team of six. In his first week, he notices people laughing at his jokes even when they're not funny, and nobody contradicting him in meetings.
+A year into his new job, Rick finally gets promoted to lead a team of six. In his first week, he notices people laughing at his jokes even when they're not funny, and nobody contradicting him in meetings.
 
 He sets himself three rules so he won't turn into Caesar:
 1. **A devil's advocate in every meeting.** Each week he asks a different person to tear his proposal apart.
@@ -131,7 +131,7 @@ One day her younger sister tells her: "Ever since Dad died, you're not my sister
 
 Since her promotion, Lauren has been out-earning Andrew. At first nothing changed. Then one day, in an argument about vacation plans, it slips out: "At the end of the day, I'm the one paying." Andrew goes quiet and sleeps on the couch.
 
-Lauren remembers what happened when the roles were reversed, when Andrew was the only one earning, which we described at the start of this chapter. She sees that money is a form of power and that she's fallen into the same trap. The next day she apologizes, and they agree on something: both their paychecks belong to the household, and big decisions get made together, no matter who brought in more.
+Lauren remembers what happened when the roles were reversed, when Andrew was the only one earning, which we described at the start of this chapter. She sees that money is a form of power and that she's fallen into the same trap. The next day she apologizes, and they agree on something: big decisions get made together, no matter who brings in more. (How they ended up organizing the money itself is a story for Chapter 11.)
 
 ## Author's Note
 

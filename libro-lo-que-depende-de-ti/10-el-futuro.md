@@ -22,7 +22,7 @@ Marco no podía controlar ese futuro. Lo que sí podía hacer era recordar que, 
 
 ### Interpretación 1. La clásica: confía en tus armas
 
-VII.8 dice algo muy simple y muy reconfortante: el yo del futuro tendrá las mismas armas que el yo de hoy. Si hoy has podido enfrentar lo que te tocó, mañana también podrás. No porque las cosas vayan a salir bien, sino porque tú vas a estar ahí, con tu razón.
+VII.8 dice algo muy simple y muy reconfortante: el yo del futuro tendrá las mismas armas que el yo de hoy. Si hoy has podido enfrentar lo que te tocó, mañana también podrás. No porque esté garantizado que todo salga bien, sino porque puedes prepararte para enfrentar lo que venga de la manera más sensata posible.
 
 Piénsalo así: has sobrevivido al cien por ciento de tus peores días. No todos los resolviste bien, pero llegaste hasta aquí. Eso no es una frase motivacional; es un dato.
 

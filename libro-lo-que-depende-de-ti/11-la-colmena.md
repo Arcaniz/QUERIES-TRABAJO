@@ -112,7 +112,7 @@ Unos meses después, una competidora le pide ayuda con un proyecto que no puede 
 
 **Si estudias de adulto:** en la maestría de Jorge, un compañero le ofrece las respuestas del examen que consiguió de un semestre anterior. Jorge está cansado y le vendría bien. Pero se pregunta: ¿qué le conviene a la colmena? Si todos copian, el título vale menos para todos. Y él no aprende lo que vino a aprender. Dice que no. En lugar de eso, organiza un grupo de estudio y comparte sus apuntes con quien los necesite. Compartir no es lo mismo que copiar: lo primero hace más fuerte a la colmena; lo segundo la debilita.
 
-**Si acompañas a tus hijos:** en el salón de Sofía hay una niña nueva que nadie invita a jugar. Sofía tampoco, porque teme que sus amigas la dejen de lado. Claudia le cuenta la idea de los círculos de Hierocles: "Ahora esa niña está en tu círculo de afuera. ¿Qué pasaría si la acercas un poco?". Al día siguiente, Sofía la invita a comer con ellas. No pasa nada malo. La colmena se hace un poco más grande.
+**Si acompañas a tus hijos:** en el salón de Sofía hay una niña nueva que nadie invita a jugar. Sofía tampoco, porque teme que sus amigas la dejen de lado. Claudia le cuenta la idea de los círculos de Hierocles: "Ahora esa niña está en tu círculo de afuera. ¿Qué pasaría si la acercas un poco?". Al día siguiente, Sofía la invita a comer con ellas. A Sofía le tiemblan un poco las manos cuando se lo pide. La niña nueva dice que sí, y comen juntas.
 
 ### En la familia: la herencia
 
@@ -122,7 +122,7 @@ Andrés, que es el nieto mayor, les propone hacer la pregunta de la colmena: ¿q
 
 ### En el dinero y la salud: las cuentas en pareja
 
-Laura y Andrés siempre manejaron su dinero por separado: cada quien pagaba sus cosas y dividían los gastos de la casa a la mitad. Funcionaba, hasta que Andrés pasó una temporada con menos ingresos por un cambio de trabajo y la mitad de los gastos se volvió una carga para él.
+Durante buena parte de su matrimonio, Laura y Andrés manejaron su dinero por separado: cada quien pagaba sus cosas y dividían los gastos de la casa a la mitad. Funcionaba, hasta que Andrés pasó una temporada con menos ingresos por un cambio de trabajo y la mitad de los gastos se volvió una carga para él.
 
 Se sientan a pensar como colmena. Deciden aportar a una cuenta común en proporción a lo que gana cada uno, mantener una parte separada para los gastos personales de cada quien y tomar juntos las decisiones grandes. No es el único modelo posible, y cada pareja tiene que encontrar el suyo. Pero el cambio de pregunta, de "¿qué es justo para mí?" a "¿qué nos conviene a los dos?", les quitó una fuente de resentimiento que llevaban años cargando.
 

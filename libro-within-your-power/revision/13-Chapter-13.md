@@ -40,7 +40,7 @@ The Stoic answer is that the morbid thing isn't thinking about death. It's avoid
 
 That said, this needs care. If you're dealing with a recent loss, with depression, or with thoughts of hurting yourself, this exercise isn't for you right now. Please reach out for professional help. *Memento mori* is a practice for valuing life, not for pulling away from it. In the United States, you can call or text 988 (Suicide & Crisis Lifeline) any time, free and confidential. Outside the U.S., contact your local crisis line or emergency number.
 
-**In a nutshell:** remembering death isn't loving death; it's learning to love life before it's over.
+**In a nutshell:** remembering that life ends changes how closely you pay attention to the time you have.
 
 ## What the Other Stoics Said
 

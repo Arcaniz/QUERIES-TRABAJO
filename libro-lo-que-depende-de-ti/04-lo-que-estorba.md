@@ -86,7 +86,7 @@ Una noche, Andrés le dice a Laura que no es feliz. No hay otra persona; hay can
 
 El primer impulso es pensar que la relación se acabó o que todo fue mentira. La meditación propone otra pregunta: ¿qué permite esta conversación que antes no era posible?
 
-Permite algo que llevaban años sin hacer: hablar con verdad. Laura y Andrés deciden ir a terapia de pareja. No saben si seguirán juntos. Pero el obstáculo se volvió el camino hacia una conversación honesta, y eso es valioso cualquiera que sea el final.
+Permite algo que llevaban años sin hacer: hablar con verdad. Laura y Andrés deciden ir a terapia de pareja. No saben si seguirán juntos. Por ahora, al menos, están hablando con la verdad.
 
 **Variante:** si la relación termina, el camino es otro: aprender a estar solo, revisar qué se repite en tus relaciones, reconstruir amistades descuidadas. El obstáculo no decide el destino; decide la siguiente tarea.
 
@@ -104,7 +104,7 @@ El cliente que no pagaba (Capítulo 1) finalmente paga la mitad y se va con la c
 
 Es grave. Pero el fuego, dice Marco, crece con lo que le echan. Mariana usa la crisis para tomar decisiones que llevaba años posponiendo: sube sus precios a los clientes nuevos, exige anticipo del 50 %, crea un paquete de servicios mensuales y empieza a publicar casos de éxito en redes. Un año después tiene ocho clientes más pequeños en lugar de uno grande. Es menos cómodo, pero más seguro.
 
-**Para emprendedores:** muchas empresas nacen o se transforman en una crisis. No porque la crisis sea buena, sino porque obliga a hacer lo que la comodidad permitía posponer.
+**Para emprendedores:** muchas empresas nacen o se transforman en una crisis. A veces una crisis empuja a tomar decisiones que la comodidad permitía posponer. Eso no vuelve buena a la crisis, y no todas dejan algo así.
 
 ### En la escuela: el rechazo
 

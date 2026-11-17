@@ -40,7 +40,7 @@ La respuesta estoica es que lo morboso no es pensar en la muerte, sino evitarla.
 
 Dicho esto, hay que ser cuidadosos. Si estás pasando por un duelo reciente, por una depresión o por pensamientos de hacerte daño, este ejercicio no es para ti ahora. Busca ayuda profesional. El *memento mori* es una práctica para dar valor a la vida, no para alejarte de ella. En México, la Línea de la Vida (800 911 2000) ofrece atención gratuita y confidencial las 24 horas.
 
-**En una frase:** recordar la muerte no es amar la muerte, sino aprender a amar la vida antes de que termine.
+**En una frase:** recordar que la vida termina cambia la atención con que vivimos el tiempo que tenemos.
 
 ## Lo que dijeron los otros estoicos
 

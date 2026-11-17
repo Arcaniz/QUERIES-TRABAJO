@@ -112,7 +112,7 @@ A few months later, a competitor asks for help with a project she can't finish o
 
 **If you're studying as an adult:** in George's MBA program, a classmate offers him the answers to an exam, which he got from someone in a previous semester. George is tired, and the help would be welcome. But he asks: what's good for the hive? If everyone cheats, the degree is worth less for everyone. And he won't learn what he came to learn. He says no. Instead he starts a study group and shares his notes with anyone who needs them. Sharing isn't the same as cheating: one makes the hive stronger, the other weakens it.
 
-**If you're supporting your kids:** a new girl has joined Sophie's class, and nobody invites her to play. Sophie doesn't either; she's afraid her friends will leave her out. Claire tells her about Hierocles's circles: "Right now that girl is in your outer circle. What would happen if you pulled her in a little?" The next day, Sophie asks her to sit with them at lunch. Nothing bad happens. The hive gets a little bigger.
+**If you're supporting your kids:** a new girl has joined Sophie's class, and nobody invites her to play. Sophie doesn't either; she's afraid her friends will leave her out. Claire tells her about Hierocles's circles: "Right now that girl is in your outer circle. What would happen if you pulled her in a little?" The next day, Sophie asks her to sit with them at lunch. Sophie is nervous when she asks. The new girl says yes, and they eat lunch together.
 
 ### In Your Family: The Inheritance
 
@@ -122,7 +122,7 @@ Andrew, the oldest grandchild, suggests they ask the hive question: what's good 
 
 ### In Money and Health: Money as a Couple
 
-Lauren and Andrew have always kept their finances separate: each paid their own expenses, and they split household bills down the middle. It worked, until Andrew went through a stretch of lower income after a job change, and half the household bills became a real burden for him.
+For most of their marriage, Lauren and Andrew kept their finances separate: each paid their own expenses, and they split household bills down the middle. It worked, until Andrew went through a stretch of lower income after a job change, and half the household bills became a real burden for him.
 
 They sit down and think like a hive. They decide to pay into a joint account in proportion to what each of them earns, keep a separate amount for personal spending, and make big decisions together. It's not the only way to do it, and every couple has to find its own. But switching the question from "what's fair to me?" to "what's good for both of us?" got rid of a source of resentment they'd been carrying around for years.
 

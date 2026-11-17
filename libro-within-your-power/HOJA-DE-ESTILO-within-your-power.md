@@ -31,8 +31,8 @@
 
 | ES | EN | Rasgos fijos |
 |---|---|---|
-| Laura y Andrés | Lauren y Andrew | 10 años juntos; un hijo; terapia de pareja desde el Cap. 4. |
-| Ricardo | Rick | 11 años en su empresa; despedido a los 44 (Cap. 4); team lead en un nuevo empleo (Cap. 8); mamá de 78 años; dos hermanos. |
+| Laura y Andrés | Lauren y Andrew | 10 años juntos; un hijo; terapia de pareja desde el Cap. 4. Finanzas: él fue el único ingreso un año (Cap. 8); luego ella gana más (Cap. 8); finanzas separadas durante buena parte del matrimonio hasta crear una cuenta común proporcional (Cap. 11). |
+| Ricardo | Rick | 11 años en su empresa; despedido a los 44 (Cap. 4); team lead un año después de entrar a su nuevo empleo (Cap. 8); mamá de 78 años; dos hermanos. |
 | Mariana | Megan | Estudio de diseño; papá fallecido; prediabetes (Cap. 1). |
 | Jorge | George | 38 años, *weekend MBA*; hijo de 15; termina el MBA a los 39. |
 | Claudia y Sofía | Claire y Sophie (10) | |

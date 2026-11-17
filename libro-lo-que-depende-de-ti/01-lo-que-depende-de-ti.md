@@ -8,7 +8,7 @@
 
 Son las 8:47 de la mañana. Llevas veinte minutos en el tráfico y vas a llegar tarde a una junta que no pediste. El coche de adelante no avanza aunque el semáforo ya está en verde. Sientes el calor subirte por el cuello. Tocas el claxon. Golpeas el volante. Imaginas lo que le dirías al conductor si pudieras.
 
-Ahora piensa en esto: el semáforo, el tráfico, el conductor distraído y la hora de la junta no dependen de ti. Lo único que en ese momento está en tus manos es lo que haces con todo eso por dentro. Y justo ahí, en lo único que controlas, es donde estás perdiendo.
+Ahora piensa en esto: el semáforo, el tráfico, el conductor distraído y la hora de la junta no dependen de ti. Lo único que en ese momento está en tus manos es cómo respondes: lo que haces con todo eso por dentro y lo que decides hacer después. Y justo ahí, en lo único que controlas, es donde estás perdiendo.
 
 Ese es el centro del estoicismo. Todo lo demás de este libro parte de aquí.
 
@@ -30,13 +30,13 @@ Para los estoicos, entre lo que ocurre y lo que sentimos hay un paso intermedio 
 
 El sufrimiento, dice Marco, no lo produce el mensaje sin respuesta, sino la historia que aceptaste sobre él: "no le importo", "seguro está con alguien", "siempre me hace lo mismo".
 
-Esto no significa que nada malo pase. Significa que entre el golpe y la herida hay un espacio, y ese espacio es tuyo.
+Esto no significa que nada malo pase. Significa que entre el golpe y la herida hay un espacio, aun cuando el golpe sea real, y en ese espacio tú tienes algo que decir.
 
 **En una frase:** no controlas lo que pasa; controlas lo que te dices sobre lo que pasa.
 
 ### Interpretación 2. La psicológica: el estoicismo como antecesor de la terapia
 
-En el siglo XX, dos psicólogos, Albert Ellis y Aaron Beck, crearon las terapias que hoy se usan en todo el mundo contra la ansiedad y la depresión: la terapia racional emotiva y la terapia cognitiva. Ellis reconoció abiertamente que se inspiró en Epicteto. La idea es casi idéntica: no nos perturban los hechos, sino nuestras creencias sobre los hechos. Si cambias la creencia, cambia la emoción.
+En el siglo XX, dos psicólogos, Albert Ellis y Aaron Beck, crearon las terapias que hoy se usan en todo el mundo contra la ansiedad y la depresión: la terapia racional emotiva y la terapia cognitiva. Ellis reconoció abiertamente que se inspiró en Epicteto. Una terapia clínica y una filosofía antigua no son lo mismo, pero coinciden en un punto importante: nuestras interpretaciones influyen en cómo vivimos lo que pasa. Si cambia la interpretación, muchas veces cambia también la emoción.
 
 Desde esta lectura, la meditación VIII.47 es una técnica:
 
@@ -182,7 +182,7 @@ La meditación VIII.47 aplica con toda su fuerza. **El hecho:** una glucosa un p
 
 **Lo que depende de ella:** lo que come, cuánto camina, si vuelve a la cita de seguimiento, cuántas horas duerme. **Lo que no:** su genética, el historial de su familia, los resultados exactos en seis meses.
 
-Mariana pega en el refrigerador una hoja con dos columnas. Sigue las indicaciones de su médico y va a todas sus citas de control. A los seis meses, su glucosa está en rango normal. No porque la filosofía cure, sino porque dejó de gastar su energía en la columna equivocada.
+Mariana pega en el refrigerador una hoja con dos columnas. Sigue las indicaciones de su médico y va a todas sus citas de control. A los seis meses, su glucosa está en rango normal. La filosofía no trató su condición: la ayudó a seguir con constancia las indicaciones de su médico y a dejar de gastar su energía en la columna equivocada.
 
 ## Lo que este capítulo no dice
 

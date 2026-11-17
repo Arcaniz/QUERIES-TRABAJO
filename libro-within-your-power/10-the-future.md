@@ -22,7 +22,7 @@ Marcus couldn't control that future. What he could do was remember that whenever
 
 ### Reading 1. The Classic: Trust Your Tools
 
-VII.8 says something simple and deeply reassuring: your future self will have the same tools your present self has. If you could handle what came at you today, you'll be able to handle tomorrow. Not because things will go well, but because you'll be there, with your reason intact.
+VII.8 says something simple and deeply reassuring: your future self will have the same tools your present self has. If you could handle what came at you today, you'll be able to handle tomorrow. Not because things are guaranteed to go well, but because you can prepare to meet whatever comes as thoughtfully as you're able.
 
 Think about it this way: you've survived 100 percent of your worst days so far. You didn't handle all of them well, but you made it here. That's a fact, not a motivational poster.
 
