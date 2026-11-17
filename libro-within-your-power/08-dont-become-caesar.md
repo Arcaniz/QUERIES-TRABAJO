@@ -143,7 +143,7 @@ I was given a promotion with more responsibility, more pressure, and the same sa
 
 **"A good leader is never firm."** No. The list of virtues includes "strong in your duty." Simplicity isn't weakness.
 
-**"The Stoic is humble because he's worthless."** No. Stoic humility isn't self-contempt; it's knowing you're equal to others in what matters most, even if you occupy a different place.
+**"Stoics are humble because they think they're worthless."** No. Stoic humility isn't self-contempt; it's knowing you're equal to others in what matters most, even if you occupy a different place.
 
 ## This Week's Exercise: Your Antoninus Portrait
 

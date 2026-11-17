@@ -54,7 +54,7 @@ If all the harm is "in my judgment," should someone being abused by their partne
 It's the strongest objection, and it deserves a serious answer. The answer is **no**, for three reasons.
 
 - **First:** saying your judgment is within your power doesn't mean you must judge that everything is fine. You can judge, with complete clarity, that something is unjust. What Stoicism asks is that you don't add a second layer of useless suffering on top of the injustice: the rumination, the self-pity, the hatred that eats you up rather than the other person.
-- **Second:** your *actions* are within your power. Reporting, quitting, setting a boundary, ending a relationship, negotiating, demanding: all of those are in your hands. The Stoic doesn't sit still. He acts with a cool head instead of a hot one.
+- **Second:** your *actions* are within your power. Reporting, quitting, setting a boundary, ending a relationship, negotiating, demanding: all of those are in your hands. Stoics don't sit still. They act with a cool head instead of a hot one.
 - **Third:** Marcus himself wrote many times that we exist for one another, and justice is one of the four central Stoic virtues. A Stoic who tolerates injustice against others hasn't understood a thing.
 
 > **Important.** If you are experiencing physical, emotional, sexual, or financial abuse in your relationship, the Stoic response is not to "change your judgment" or to endure it: it is to protect yourself and seek help. What is within your power is reaching out. In the United States, you can contact the National Domestic Violence Hotline at 1-800-799-7233 or text START to 88788. In an emergency, call 911. Outside the U.S., contact your local emergency number or support services.
@@ -186,7 +186,7 @@ Megan tapes a two-column list to her refrigerator. She follows her doctor's inst
 
 ## What This Chapter Does Not Say
 
-**"You shouldn't feel anything."** False. The Stoics accepted initial, involuntary reactions: the startle, the knot in the stomach, the flush. Seneca called them "first movements" and said not even the wise are free of them. What you train is what you do *after* the first movement. What's more, the Stoics didn't aim for coldness: they described healthy emotions, which they called *eupatheiai*, such as calm joy, reasonable caution, and goodwill toward others. The Stoic feels; what he avoids is being swept away by runaway passions.
+**"You shouldn't feel anything."** False. The Stoics accepted initial, involuntary reactions: the startle, the knot in the stomach, the flush. Seneca called them "first movements" and said not even the wise are free of them. What you train is what you do *after* the first movement. What's more, the Stoics didn't aim for coldness: they described healthy emotions, which they called *eupatheiai*, such as calm joy, reasonable caution, and goodwill toward others. Stoics feel; what they avoid is being swept away by runaway passions.
 
 **"Everything is your fault, because everything depends on how you see it."** False. Your judgments are within your power, but what others do to you is not. Taking responsibility for your response isn't blaming yourself for the blow.
 
@@ -218,7 +218,7 @@ At the end of the week, review your pages. You'll probably discover two things: 
 - Always separate the fact from the interpretation.
 - There are three zones: what you control, what you don't, and what you partly control. In the third, shoot well and let go of the result.
 - Accepting what isn't within your power isn't resignation: your actions are within your power.
-- The Stoic feels; what he avoids is being swept away by passions.
+- Stoics feel; what they avoid is being swept away by passions.
 
 ## Journaling Question
 
