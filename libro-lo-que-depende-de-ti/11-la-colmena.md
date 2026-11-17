@@ -32,13 +32,11 @@ Hay una lectura muy útil para las relaciones: dejar de pensar en "yo contra ti"
 
 La colmena no es la suma de las abejas: es algo nuevo que existe entre ellas. Una pareja es más que dos personas: es una relación que hay que cuidar como un tercero. Un equipo es más que sus miembros: es una cultura.
 
-**En una frase:** cuida la relación como si fuera una tercera persona en la mesa.
-
 ### Interpretación 3. La incómoda: ¿y si la colmena está mal?
 
 Aquí hay un peligro. "Lo que no conviene a la colmena no conviene a la abeja" puede usarse para aplastar a la persona: "sacrifícate por la empresa", "aguanta por la familia", "no denuncies para no dañar la imagen de la institución". Muchos abusos se han escondido detrás del "bien del grupo".
 
-Pero ese uso traiciona la meditación. Para Marco, la colmena verdadera es la comunidad humana guiada por la razón y la justicia, no cualquier grupo concreto. Una empresa que explota a sus empleados no es una colmena sana; es una que se está enfermando. Una familia que encubre la violencia no está protegiendo a la colmena; la está destruyendo. Denunciar la injusticia, en esos casos, es lo que conviene a la colmena.
+Pero ese uso traiciona la meditación. Para Marco, la colmena verdadera es la comunidad humana guiada por la razón y la justicia, no cualquier grupo concreto. Una empresa que explota a sus empleados no es una colmena sana; es una que se está enfermando. Una familia que encubre la violencia no está protegiendo a la colmena; la está destruyendo. Denunciar la injusticia, en esos casos, es lo que conviene a la colmena. Y si la violencia ocurre dentro de tu propia casa, protegerte y pedir ayuda (en México, al 911 o a la Línea Mujeres, 55 5658 1111, en la Ciudad de México) no traiciona a tu familia: es el primer paso para que deje de dañarse.
 
 Además, una colmena que maltrata a sus abejas no sobrevive. El bien del grupo incluye el bien de cada miembro.
 
@@ -63,6 +61,24 @@ Si la pareja es una colmena de dos, Musonio sería su mejor apicultor: no se tra
 El psicólogo John Gottman ha estudiado durante décadas a parejas en su laboratorio. Una de sus observaciones más conocidas es que ciertas conductas en las discusiones, como la crítica a la persona en lugar de la conducta, el desprecio, la actitud defensiva y la evasión, son señales de alerta para la relación. Lo que suele distinguir a las parejas estables no es que no discutan, sino cómo lo hacen y cómo reparan después.
 
 En el mundo del trabajo, un proyecto de investigación interno de Google, conocido como Proyecto Aristóteles, buscó qué distinguía a sus equipos más eficaces. Una de sus conclusiones más difundidas fue la importancia de la *seguridad psicológica*: que los miembros del equipo sientan que pueden hablar, preguntar o equivocarse sin ser humillados. Un concepto que la investigadora Amy Edmondson había estudiado antes. Es, en términos de Marco, una colmena sana.
+
+## Diálogo con un escéptico
+
+**Escéptico:** "Lo que no conviene a la colmena no conviene a la abeja" es justo lo que dicen las empresas cuando te piden sacrificarte.
+
+**Autor:** Lo dicen, y muchas veces lo usan para explotar. Pero eso es traicionar la frase. Una colmena que maltrata a sus abejas se muere. Para Marco, la colmena verdadera es la comunidad guiada por la justicia, no cualquier grupo que te pide obediencia. Si tu empresa te exprime, la frase no te obliga a aguantar; te da un argumento para señalar que esa empresa se está dañando a sí misma.
+
+**Escéptico:** En la pareja, pensar en "nosotros" puede hacer que una persona se borre.
+
+**Autor:** Es un riesgo real, sobre todo para quien ha aprendido a ceder siempre. Por eso Musonio hablaba del matrimonio como una comunidad donde los dos se cuidan mutuamente, no donde uno se sacrifica. Una colmena de dos no funciona si una abeja trabaja por las dos. Pensar en "nosotros" incluye pensar en lo que tú necesitas, porque tú también eres parte del nosotros.
+
+**Escéptico:** ¿Y la competencia? En los negocios, si no compites, te comen.
+
+**Autor:** Competir no está mal. Lo que daña es ganar a costa de la confianza: mentir al cliente, exprimir al proveedor, robarle la idea a un colega. Eso puede darte una ventaja hoy, pero destruye lo que sostiene tu negocio mañana. Hay una forma de competir que mejora a todos: hacer mejor tu trabajo. Esa es la competencia que conviene a la colmena.
+
+**Escéptico:** Los círculos de Hierocles suenan muy bien, pero no puedo amar a toda la humanidad.
+
+**Autor:** Hierocles tampoco te pide eso. Te pide acercar un poco los círculos: tratar al desconocido un poco más como a un vecino, y al vecino un poco más como a un familiar. No es un amor universal abstracto; es saludar al vigilante por su nombre. Es pequeño, y por eso es posible.
 
 ## Seis escenas de la vida adulta
 
@@ -106,7 +122,7 @@ Andrés, que es el nieto mayor, les propone hacer la pregunta de la colmena: ¿q
 
 ### En el dinero y la salud: las cuentas en pareja
 
-Laura y Andrés siempre manejaron su dinero por separado: cada quien pagaba sus cosas y dividían los gastos de la casa a la mitad. Funcionaba, hasta que Laura empezó a ganar menos por un cambio de trabajo y la mitad de los gastos se volvió una carga para ella.
+Laura y Andrés siempre manejaron su dinero por separado: cada quien pagaba sus cosas y dividían los gastos de la casa a la mitad. Funcionaba, hasta que Andrés pasó una temporada con menos ingresos por un cambio de trabajo y la mitad de los gastos se volvió una carga para él.
 
 Se sientan a pensar como colmena. Deciden aportar a una cuenta común en proporción a lo que gana cada uno, mantener una parte separada para los gastos personales de cada quien y tomar juntos las decisiones grandes. No es el único modelo posible, y cada pareja tiene que encontrar el suyo. Pero el cambio de pregunta, de "¿qué es justo para mí?" a "¿qué nos conviene a los dos?", les quitó una fuente de resentimiento que llevaban años cargando.
 
@@ -130,6 +146,13 @@ Se sientan a pensar como colmena. Deciden aportar a una cuenta común en proporc
 - **Principiante:** antes de cada decisión importante de la semana, pregúntate en voz alta: "¿esto le conviene a la colmena?".
 - **Intermedio:** en tu próxima discusión con tu pareja o un colega, siéntense del mismo lado de la mesa y escriban el problema en una hoja frente a ustedes.
 - **Avanzado:** identifica una situación en la que estés "ganando" a costa de alguien de tu colmena: un colega, un proveedor, un familiar. Busca una forma de que ambos ganen, aunque tú ganes un poco menos.
+
+## Ideas clave
+
+- Lo que daña al "nosotros" termina dañándote a ti.
+- Cuida la relación como si fuera una tercera persona en la mesa.
+- Servir a la colmena no es obedecer al grupo: es cuidar lo que lo hace justo.
+- Acerca un poco los círculos de afuera hacia el centro.
 
 ## Pregunta para el diario
 

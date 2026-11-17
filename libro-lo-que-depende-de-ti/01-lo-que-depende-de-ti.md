@@ -45,8 +45,6 @@ Desde esta lectura, la meditación VIII.47 es una técnica:
 3. Pregúntate si ese juicio es un hecho o una interpretación.
 4. Busca otra interpretación posible ("mi jefe está bajo presión y fue brusco con todos").
 
-**En una frase:** tus emociones siguen a tus pensamientos; revisa los pensamientos.
-
 ### Interpretación 3. La incómoda: ¿y si esto es conformismo?
 
 Aquí hay que ser honestos, porque esta idea tiene una lectura peligrosa.
@@ -59,6 +57,8 @@ Es la mejor objeción, y merece una respuesta seria. La respuesta es **no**, por
 - **Segundo:** tus *acciones* sí dependen de ti. Denunciar, renunciar, poner un límite, terminar una relación, negociar o exigir son cosas que están en tus manos. El estoico no se queda quieto. Actúa con la cabeza fría en lugar de la cabeza caliente.
 - **Tercero:** el propio Marco Aurelio escribió muchas veces que existimos para los demás, y la justicia es una de las cuatro virtudes centrales del estoicismo. Un estoico que tolera la injusticia contra otros no entendió nada.
 
+> **Importante.** Si vives violencia física, psicológica, sexual o económica en tu relación, la respuesta estoica no es "cambiar tu juicio" ni aguantar: es protegerte y pedir ayuda. Lo que sí depende de ti es buscar apoyo. En México puedes llamar al 911 en caso de emergencia o a la Línea Mujeres (55 5658 1111, en la Ciudad de México), y acudir a los centros de atención de tu estado.
+
 El filósofo contemporáneo William B. Irvine propone afinar la idea: no hay dos categorías, sino tres. Lo que controlas por completo (tus juicios, tus valores), lo que no controlas en absoluto (el clima, el pasado) y **lo que controlas en parte** (ganar un juicio, conseguir un ascenso, salvar tu matrimonio). Para esta tercera zona, los estoicos tenían una imagen hermosa, que Cicerón pone en boca de un estoico: la del arquero. El arquero controla su entrenamiento, su postura, la tensión del arco y el momento de soltar. No controla el viento ni que el blanco se mueva. Su meta no es *dar en el blanco*, sino *disparar bien*. Si dispara bien y falla, no fracasó.
 
 **En una frase:** aceptar lo que no depende de ti no es rendirse; es dejar de pelear con el viento para concentrarte en tu disparo.
@@ -69,7 +69,7 @@ El filósofo contemporáneo William B. Irvine propone afinar la idea: no hay dos
 
 Epicteto lo dijo en una línea que Marco Aurelio repitió a su manera muchas veces: lo que perturba a las personas no son las cosas, sino las opiniones que tienen sobre las cosas. Su ejemplo es la muerte. La muerte, dice, no es terrible; si lo fuera, también se lo habría parecido a Sócrates, que la enfrentó con calma. Lo terrible es la opinión de que la muerte es terrible.
 
-Epicteto sabía de lo que hablaba. Nació esclavo, cojeaba y vivió buena parte de su vida sin ser dueño ni de su cuerpo. Una tradición antigua, transmitida por un autor llamado Celso, cuenta que su amo le torcía la pierna para divertirse y que Epicteto le advirtió con calma: "Me la vas a romper". Cuando se la rompió, solo añadió: "¿No te lo dije?". Quizá la anécdota no ocurrió así. Pero explica por qué sus alumnos le creían: no enseñaba desde la comodidad.
+Epicteto sabía de lo que hablaba. Nació esclavo, cojeaba y vivió buena parte de su vida sin ser dueño ni de su cuerpo. Una tradición antigua, que conocemos por el teólogo Orígenes, quien la toma de un autor llamado Celso, cuenta que su amo le torcía la pierna para divertirse y que Epicteto le advirtió con calma: "Me la vas a romper". Cuando se la rompió, solo añadió: "¿No te lo dije?". Quizá la anécdota no ocurrió así. Pero explica por qué sus alumnos le creían: no enseñaba desde la comodidad.
 
 En el *Manual*, Epicteto ordena el mundo en dos montones. Dependen de nosotros la opinión, el impulso, el deseo y el rechazo; en una palabra, todo lo que es obra nuestra. No dependen de nosotros el cuerpo, los bienes, la reputación y los cargos; todo lo que no es obra nuestra. Y advierte: si crees que lo ajeno es tuyo, vivirás quejándote, culpando a dioses y hombres. Si solo consideras tuyo lo que es tuyo, nadie podrá obligarte ni estorbarte.
 
@@ -86,6 +86,28 @@ La psicología ha estudiado durante décadas algo parecido a la distinción esto
 Por su parte, los estudios sobre regulación emocional, como los del psicólogo James Gross, distinguen entre *suprimir* una emoción (aguantarla por fuera) y *reevaluar* la situación (cambiar la interpretación). En muchos estudios, la reevaluación se asocia con mejores resultados que la supresión. Es casi exactamente lo que proponía Marco: no fingir que no sientes, sino revisar el juicio que provoca lo que sientes.
 
 La ciencia no "demuestra" el estoicismo, y conviene desconfiar de quien lo diga así. Pero sí sugiere que esta antigua intuición apunta en una dirección razonable.
+
+## Diálogo con un escéptico
+
+**Escéptico:** Todo esto suena muy bonito, pero me parece una trampa. Si me dicen que el problema está en mi juicio, me están diciendo que el problema soy yo.
+
+**Autor:** Te están diciendo que una parte del problema está en tu juicio. No todo. Si te despiden injustamente, el despido es real y la injusticia también. Lo que el estoicismo señala es que, además del despido, tú puedes añadirte otra carga: la historia de que no vales nada, de que todo está perdido, de que nunca vas a encontrar otro trabajo. Esa segunda carga sí es tuya, y por eso puedes soltarla.
+
+**Escéptico:** ¿Y si mi juicio es correcto? Si pienso que mi jefe es injusto y lo es, ¿por qué tendría que cambiarlo?
+
+**Autor:** No tienes que cambiarlo. Un juicio verdadero no es el problema. El problema aparece cuando a un juicio verdadero ("esto es injusto") le añades otros que no lo son ("y por eso mi vida está arruinada", "y por eso tengo derecho a vengarme"). Marco no te pide pensar que todo está bien; te pide pensar con exactitud.
+
+**Escéptico:** Pero las emociones no se eligen. Nadie decide sentir miedo.
+
+**Autor:** De acuerdo, y los estoicos estarían de acuerdo contigo en eso: el primer sobresalto no se elige. Pero sí se elige qué haces con él. ¿Lo alimentas durante horas? ¿Lo conviertes en una decisión precipitada? Ahí empieza tu responsabilidad, no antes.
+
+**Escéptico:** Entonces, ¿esto es una técnica para no sufrir?
+
+**Autor:** Es una técnica para no sufrir de más. Habrá dolor que no puedas evitar; nadie te promete lo contrario. Lo que sí puedes evitar es el sufrimiento que tú mismo fabricas encima del dolor. Y, sinceramente, en la vida de la mayoría de los adultos, ese sufrimiento fabricado es la mayor parte.
+
+**Escéptico:** ¿Y quién decide qué depende de mí? Muchas cosas dependen un poco.
+
+**Autor:** Por eso Irvine habla de tres zonas, no de dos. En la zona intermedia, la regla del arquero sirve: haz bien tu parte y suelta el resultado. Si consigues el ascenso, bien. Si no, hiciste lo que te tocaba. La alternativa es colgar tu paz de algo que nunca vas a controlar del todo, y eso no es realismo: es apostar tu tranquilidad a la suerte.
 
 ## Seis escenas de la vida adulta
 
@@ -160,11 +182,11 @@ La meditación VIII.47 aplica con toda su fuerza. **El hecho:** una glucosa un p
 
 **Lo que depende de ella:** lo que come, cuánto camina, si vuelve a la cita de seguimiento, cuántas horas duerme. **Lo que no:** su genética, el historial de su familia, los resultados exactos en seis meses.
 
-Mariana pega en el refrigerador una hoja con dos columnas. A los seis meses, su glucosa está en rango normal. No porque la filosofía cure, sino porque dejó de gastar su energía en la columna equivocada.
+Mariana pega en el refrigerador una hoja con dos columnas. Sigue las indicaciones de su médico y va a todas sus citas de control. A los seis meses, su glucosa está en rango normal. No porque la filosofía cure, sino porque dejó de gastar su energía en la columna equivocada.
 
 ## Lo que este capítulo no dice
 
-**"No debes sentir nada."** Falso. Los estoicos aceptaban las reacciones iniciales e involuntarias: el sobresalto, el nudo en el estómago, el rubor. Séneca las llamaba "primeros movimientos" y decía que ni el sabio está libre de ellos. Lo que se entrena es lo que haces *después* del primer movimiento.
+**"No debes sentir nada."** Falso. Los estoicos aceptaban las reacciones iniciales e involuntarias: el sobresalto, el nudo en el estómago, el rubor. Séneca las llamaba "primeros movimientos" y decía que ni el sabio está libre de ellos. Lo que se entrena es lo que haces *después* del primer movimiento. Además, los estoicos no aspiraban a la frialdad: describían emociones sanas, a las que llamaban *eupatheiai*, como la alegría serena, la precaución razonable y la buena voluntad hacia los demás. El estoico siente; lo que evita es que lo arrastren las pasiones desbordadas.
 
 **"Todo es tu culpa porque todo depende de cómo lo veas."** Falso. Tus juicios dependen de ti, pero no lo que otros te hacen. Responsabilizarte de tu respuesta no es culparte del golpe.
 
@@ -189,6 +211,14 @@ Al final de la semana, revisa tus hojas. Probablemente descubras dos cosas: que 
 - **Principiante:** haz las dos columnas solo con una situación por semana, la que más te pese.
 - **Intermedio:** agrega una tercera columna para lo que depende de ti *en parte*, como propone Irvine, y escribe al lado qué parte exacta es tuya.
 - **Avanzado:** durante un día entero, cada vez que te quejes en voz alta o en tu mente, detente y pregúntate: "¿esto está en mi columna o en la otra?". Lleva la cuenta. Al final del día, mira cuántas quejas eran sobre cosas que no dependían de ti.
+
+## Ideas clave
+
+- Entre lo que pasa y lo que sientes hay un juicio, y ese juicio es tuyo.
+- Separa siempre el hecho de la interpretación.
+- Hay tres zonas: lo que controlas, lo que no y lo que controlas en parte. En la tercera, dispara bien y suelta el resultado.
+- Aceptar lo que no depende de ti no es resignarte: tus acciones sí dependen de ti.
+- El estoico siente; lo que evita es que lo arrastren las pasiones.
 
 ## Pregunta para el diario
 

@@ -14,7 +14,7 @@ En cada caso hay un instante, apenas medio segundo, en que la ira sube como una 
 
 Marco no era un hombre naturalmente sereno. En el Libro I agradece a su abuelo por enseñarle el buen carácter y el dominio de su temperamento, lo que sugiere que lo necesitaba. Las fuentes antiguas cuentan que era serio, a veces severo. Sus apuntes sobre la ira son tantos que parecen los de alguien que luchaba contra ella todos los días.
 
-En la meditación XI.18 hace una lista de nueve recordatorios para cuando alguien lo ofende: que todos nacimos para los demás; que el otro actúa según sus creencias; que si el otro tiene razón no hay de qué quejarse y si no la tiene actúa por ignorancia; que también él ha cometido faltas parecidas; que no siempre sabe si el otro realmente obró mal; que la vida es breve; que no es el acto del otro lo que lo perturba, sino su juicio sobre él; que las consecuencias de la ira suelen ser más graves que lo que la provocó; y, por último, que la amabilidad es invencible.
+En la meditación XI.18 hace una lista de nueve recordatorios para cuando alguien lo ofende: que todos nacimos para los demás; que el otro actúa según sus creencias; que si el otro tiene razón no hay de qué quejarse y si no la tiene actúa por ignorancia; que también él ha cometido faltas parecidas; que no siempre sabe si el otro realmente obró mal; que la vida es breve; que no es el acto del otro lo que lo perturba, sino su juicio sobre él; que las consecuencias de la ira suelen ser más graves que lo que la provocó; y, por último, que la amabilidad es invencible. (Algunos lectores cuentan además un décimo recordatorio, que Marco presenta como un regalo de Apolo: esperar que los malos no hagan el mal es una locura.)
 
 ## Tres maneras de leer esta meditación
 
@@ -24,8 +24,6 @@ Séneca escribió un tratado entero, *Sobre la ira*, donde la llama una locura b
 
 Marco lo dice con una precisión casi matemática: las consecuencias de la ira suelen ser mucho peores que su causa. El conductor se te cerró y perdiste dos segundos; si lo persigues, puedes perder la vida. Tu pareja dijo algo hiriente; si respondes con algo peor, pueden perder años.
 
-**En una frase:** la ira cobra más de lo que el ofensor te quitó.
-
 ### Interpretación 2. La estratégica: la amabilidad como fuerza
 
 "La amabilidad es invencible" puede sonar ingenuo. Pero Marco no habla de debilidad. Habla de una amabilidad que corrige: "No, hijo, no nacimos para esto". Es firme y es tranquila.
@@ -33,8 +31,6 @@ Marco lo dice con una precisión casi matemática: las consecuencias de la ira s
 En una discusión, la ira del otro necesita la tuya para crecer. Es un fuego que necesita leña. Si respondes con calma, la ira del otro se queda sin combustible. No porque te rindas, sino porque te niegas a jugar su juego. En negociación se dice algo parecido: quien pierde los estribos pierde la negociación.
 
 Y VI.6 lleva la idea más lejos: la mejor venganza es no parecerte al que te ofendió. Si respondes a la grosería con grosería, el ofensor ganó dos veces: te ofendió y te convirtió en alguien como él.
-
-**En una frase:** la calma no es rendirse; es negarte a que el otro decida quién eres.
 
 ### Interpretación 3. La incómoda: ¿y la ira justa?
 
@@ -66,6 +62,24 @@ Durante mucho tiempo se creyó que "desahogarse" golpeando algo o gritando ayuda
 
 Lo que sí parece ayudar, según distintas líneas de investigación, es tomar distancia: calmar el cuerpo, esperar y luego reinterpretar la situación. Es decir, exactamente lo que proponían Séneca y Epicteto hace dos mil años.
 
+## Diálogo con un escéptico
+
+**Escéptico:** Ser amable con quien te trata mal es de tontos.
+
+**Autor:** Ser amable y dejarte pisar no es lo mismo. Fíjate en la frase de Marco: "No, hijo, no nacimos para esto". Es una corrección. Es firme. La amabilidad estoica no es sonreír mientras te humillan; es decir la verdad sin humillar a nadie. Y eso, en la práctica, es mucho más difícil que gritar.
+
+**Escéptico:** A veces el enojo es lo único que hace que te tomen en serio.
+
+**Autor:** A veces, en el corto plazo, sí. Pero piensa en las personas a quienes más respetas en tu trabajo o en tu familia. ¿Son las que gritan o las que, cuando hablan con calma, todos se quedan callados? La ira da poder durante cinco minutos. La firmeza tranquila da autoridad durante años.
+
+**Escéptico:** ¿Y Aristóteles? Él decía que hay una ira justa.
+
+**Autor:** Es un desacuerdo real entre escuelas, y no hay que esconderlo. Aristóteles creía que la ira, en la medida correcta, es una virtud. Los estoicos creían que se puede luchar contra la injusticia sin ira, con razón. Yo creo que la experiencia cotidiana le da algo de razón a los dos: el primer movimiento de indignación te avisa que algo está mal; pero las decisiones que tomas en plena furia rara vez son las mejores.
+
+**Escéptico:** Y si reprimo la ira, me va a explotar después.
+
+**Autor:** Reprimirla, sí. Por eso los estoicos no hablan de reprimir, sino de esperar y de revisar el juicio. No es meter la ira en una olla a presión; es dejar que baje el fuego mientras piensas. La diferencia la notas en el cuerpo: la represión te deja tenso; la demora te deja más tranquilo.
+
 ## Seis escenas de la vida adulta
 
 ### En la pareja: la discusión que escala
@@ -73,6 +87,8 @@ Lo que sí parece ayudar, según distintas líneas de investigación, es tomar d
 Laura y Andrés discuten por dinero. Ella dice que él gasta sin consultarle. Él responde que ella también. Ella saca el viaje de hace dos años. Él saca a su mamá. En cinco minutos ya no hablan de dinero. Hablan de quién es peor.
 
 En terapia aprenden a usar la meditación XI.18 como freno de emergencia. Acordaron una palabra (eligieron "pausa") que cualquiera puede decir cuando sienta que la discusión se sale de control. Al decirla, ambos se separan veinte minutos. No es huir: es dejar que pase la "locura breve". Luego retoman el tema con una sola regla: hablar del problema, no de la persona.
+
+La primera vez que lo intentan, no sale bien. Laura dice "pausa", y Andrés lo vive como un portazo: "Siempre te vas cuando te conviene". La pausa se convierte en otra pelea. Les toma varias semanas aprender que la palabra solo funciona si los dos se comprometen a volver al tema, y que quien pide la pausa es quien debe buscar al otro después. Las herramientas estoicas no funcionan como un interruptor; se aprenden practicándolas, y fallando.
 
 La amabilidad invencible en pareja no es callarse. Es decir la verdad sin buscar herir. "Me preocupa que gastemos sin hablarlo" es firme. "Eres igual que tu papá" es leña.
 
@@ -143,6 +159,13 @@ Además, practica la regla de las 24 horas: ningún correo, mensaje o decisión 
 - **Principiante:** aplica la regla de las 24 horas a todos los mensajes y correos que escribas enojado esta semana.
 - **Intermedio:** lleva la cuenta de Epicteto: marca en un calendario cada día que pases sin explotar. Intenta llegar a siete seguidos.
 - **Avanzado:** cuando alguien te ofenda, antes de responder, escribe la mejor versión posible de sus motivos, la más generosa que se te ocurra. No tienes que creerla. Solo tienes que considerarla antes de actuar.
+
+## Ideas clave
+
+- La ira cobra más de lo que te quitó la ofensa.
+- El mejor remedio contra la ira es la demora: gana tiempo.
+- La mejor venganza es no parecerte a quien te ofendió.
+- La amabilidad estoica es firme: corrige sin humillar.
 
 ## Pregunta para el diario
 

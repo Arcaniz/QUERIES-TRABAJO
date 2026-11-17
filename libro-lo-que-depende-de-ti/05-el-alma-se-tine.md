@@ -31,8 +31,6 @@ Desde esta lectura, V.16 es una advertencia sobre la dieta mental. Si cada maña
 
 La pregunta práctica es: **¿quién está eligiendo los colores de mi mente?**
 
-**En una frase:** cuida lo que ves y escuchas como cuidas lo que comes.
-
 ### Interpretación 3. La incómoda: "donde se puede vivir, se puede vivir bien"
 
 La segunda mitad de la meditación es la más provocadora. Marco añade que, donde se puede vivir, se puede vivir bien, e incluso pone el ejemplo de un palacio: si es posible vivir en un palacio, es posible vivir bien en él. Él, que vivía rodeado de lujo, intriga y aduladores, se recordaba que el problema no era el palacio, sino cómo lo habitaba.
@@ -64,6 +62,24 @@ Los psicólogos hablan del *sesgo de negatividad*: tendemos a prestar más atenc
 La investigadora Susan Nolen-Hoeksema estudió durante años la *rumiación*: darle vueltas una y otra vez a los mismos pensamientos negativos. Sus trabajos asociaron la rumiación con un mayor riesgo de depresión y ansiedad. Por otro lado, la relación entre el uso de redes sociales y el bienestar es un tema todavía debatido: los resultados de los estudios varían, y parece importar mucho *cómo* se usan, no solo *cuánto*.
 
 La lección prudente es la de Marco: observa qué te deja cada cosa que consumes, porque nadie más va a cuidar tu mente por ti.
+
+## Diálogo con un escéptico
+
+**Escéptico:** Cuidar mis pensamientos me suena a pensamiento positivo, y eso no funciona.
+
+**Autor:** No es lo mismo. El pensamiento positivo te pide creer que todo saldrá bien. Marco te pide algo más modesto: darte cuenta de en qué sumerges tu mente todos los días. Puedes pensar con realismo, incluso con pesimismo sobre ciertos hechos, y aun así no pasar seis horas al día consumiendo lo que te llena de miedo o de envidia.
+
+**Escéptico:** ¿Y si el mundo de verdad está mal? Desconectarme de las noticias sería irresponsable.
+
+**Autor:** Estar informado es un deber ciudadano, y Marco gobernaba un imperio; no se desconectaba del mundo. La diferencia está entre informarse y empaparse. Puedes leer las noticias importantes en veinte minutos y actuar en consecuencia: votar, ayudar, organizarte. Lo que no ayuda a nadie es pasarte la noche viendo videos de catástrofes. Eso no te vuelve más responsable; te vuelve más ansioso.
+
+**Escéptico:** "Donde se puede vivir, se puede vivir bien" suena a justificar quedarse en un lugar malo.
+
+**Autor:** Por eso Marco dice "donde se puede vivir". Hay lugares donde no se puede: un trabajo que te enferma, una relación violenta. De esos hay que irse. Pero muchas veces culpamos al lugar de algo que llevamos dentro, y nos mudamos con el problema en la maleta. La meditación te pide distinguir entre las dos cosas antes de decidir.
+
+**Escéptico:** ¿Cómo sé cuál es cuál?
+
+**Autor:** Una pista: si el mismo problema te ha seguido a varios lugares distintos (varios trabajos, varias parejas, varias ciudades), probablemente una parte viaja contigo. Si el problema apareció solo en este lugar y en ningún otro, probablemente sea el lugar.
 
 ## Seis escenas de la vida adulta
 
@@ -134,6 +150,13 @@ Se da cuenta de que su mente está teñida de frases que no eligió. Empieza a c
 - **Principiante:** durante una semana, no revises noticias ni redes en la primera hora después de despertar ni en la última antes de dormir.
 - **Intermedio:** aplica la cuenta de Epicteto a un hábito mental que quieras debilitar (quejarte, compararte, criticar). Marca en un calendario cada día que logres evitarlo.
 - **Avanzado:** escribe las cinco frases que más te repites a ti mismo en un mal día. Al lado de cada una, escribe de quién la aprendiste y una frase nueva que elegirías en su lugar.
+
+## Ideas clave
+
+- Tu carácter toma el color de tus pensamientos habituales.
+- Cuida lo que ves y escuchas como cuidas lo que comes.
+- Los hábitos mentales se fortalecen con la repetición, y también se debilitan.
+- Antes de cambiar de lugar, revisa qué parte del problema viaja contigo.
 
 ## Pregunta para el diario
 

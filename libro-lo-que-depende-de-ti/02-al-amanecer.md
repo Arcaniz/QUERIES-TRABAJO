@@ -21,8 +21,6 @@ Los estoicos practicaban la *premeditatio malorum*, la premeditación de los mal
 
 Cuando Marco se dice "hoy me toparé con gente ingrata", no está siendo amargo. Está bajando las expectativas falsas. La mayor parte de nuestro enojo con los demás viene de una exigencia silenciosa: "la gente debería ser razonable". La gente no siempre lo es. Saberlo desde las 6:30 te ahorra la indignación de las 11:00.
 
-**En una frase:** el que espera gente difícil no se ofende cuando llega; se prepara.
-
 ### Interpretación 2. La socrática: nadie hace el mal a sabiendas
 
 Marco dice que la gente difícil actúa así porque "no distingue el bien del mal". Es una idea que viene de Sócrates: nadie elige el mal sabiendo que es malo; lo elige porque cree, equivocadamente, que le conviene. El colega que se roba tu idea cree que así asegura su puesto. El cliente que regatea hasta el insulto cree que así es astuto.
@@ -30,8 +28,6 @@ Marco dice que la gente difícil actúa así porque "no distingue el bien del ma
 Esta lectura cambia la emoción de fondo. Si el otro actúa por error, lo adecuado no es la furia, sino algo más parecido a la paciencia con alguien que se equivocó de camino. No lo justifica. Lo explica.
 
 Hoy la psicología llama a algo parecido el *error fundamental de atribución*: tendemos a explicar nuestras faltas por las circunstancias ("llegué tarde porque había tráfico") y las de otros por su carácter ("llegó tarde porque es irresponsable"). Marco te pide aplicar al otro la misma generosidad que te aplicas a ti.
-
-**En una frase:** detrás de casi toda grosería hay un error, no un monstruo.
 
 ### Interpretación 3. La incómoda: ¿entonces debo aguantarlo todo?
 
@@ -62,6 +58,24 @@ Séneca añade algo realista: no hay que esperar que la gente sea distinta de co
 En 1977, el psicólogo Lee Ross dio nombre a un sesgo que todos practicamos: el *error fundamental de atribución*. Tendemos a explicar la conducta de los demás por su carácter ("es grosero") y la nuestra por las circunstancias ("estaba cansado"). Conocer este sesgo no lo elimina, pero ayuda a frenarlo, que es justo lo que hace Marco cuando se recuerda que el otro actúa por ignorancia y no por maldad.
 
 Por otro lado, la psicóloga Gabriele Oettingen ha estudiado durante años lo que llama *contraste mental*: imaginar no solo la meta deseada, sino también los obstáculos concretos que se interpondrán. Sus investigaciones sugieren que quienes imaginan los obstáculos y planean cómo responder suelen avanzar más que quienes solo se imaginan el éxito. Es una versión moderna de la *premeditatio malorum*: prepararse para lo difícil no es pesimismo, es estrategia.
+
+## Diálogo con un escéptico
+
+**Escéptico:** Preparar cada mañana una lista de la gente difícil me suena a empezar el día de malas.
+
+**Autor:** Si lo haces con rencor, sí. Si lo haces como un piloto revisa el clima antes de despegar, no. El piloto no desea la tormenta; simplemente no quiere que lo sorprenda. Lo que te pone de malas no es anticipar a la gente difícil, es que te tome desprevenido.
+
+**Escéptico:** ¿Y no es injusto pensar mal de alguien antes de verlo?
+
+**Autor:** No se trata de pensar mal de nadie en particular, sino de aceptar algo estadístico: en un día normal, alguien va a ser grosero, impuntual o injusto. Puede ser tu jefe, un desconocido o tú mismo. Marco no dice "mi colega es un idiota"; dice "encontraré personas así". Es humildad sobre cómo es el mundo, no un juicio sobre una persona.
+
+**Escéptico:** Lo de "actúan por ignorancia" me parece ingenuo. Hay gente que sabe perfectamente que hace daño.
+
+**Autor:** Es la objeción más fuerte, y tienes razón en parte. Hay quien sabe que te está haciendo daño. Pero la tesis socrática es más sutil: esa persona cree que hacerte daño le conviene. Se equivoca sobre lo que es bueno para ella, aunque no se equivoque sobre el efecto en ti. Eso no la vuelve inocente. Solo te ayuda a no convertir su error en tu obsesión.
+
+**Escéptico:** ¿Y si la persona difícil es mi propia pareja, o mi madre?
+
+**Autor:** Entonces el ejercicio es todavía más importante, porque con ellos no puedes simplemente alejarte. Prepararte para la parte difícil de quien amas no es dejar de amarlo. Es amarlo con los ojos abiertos.
 
 ## Seis escenas de la vida adulta
 
@@ -107,6 +121,8 @@ Este año prueba la meditación II.1 desde la mañana: "Hoy mi tío va a hablar 
 
 El tío habla de política. Laura sonríe, dice su frase y se va a la cocina. Por primera vez en años, regresa a su casa sin dolor de cabeza.
 
+Al diciembre siguiente, sin embargo, el plan no funciona igual. El tío ya no habla de política en general: se burla directamente del trabajo de Laura frente a todos. Ella dice su frase, pero él insiste. Laura termina contestándole más fuerte de lo que quería y se va antes del postre. En el coche, Andrés le pregunta si el estoicismo "falló". Laura lo piensa y responde que no del todo: esta vez se enojó, pero no pasó tres días rumiando la pelea, y al día siguiente le escribió a su tío para decirle con calma que no volviera a hacer ese tipo de comentarios. La práctica no la volvió invulnerable. La hizo recuperarse más rápido.
+
 ### En el dinero y la salud: la llamada del banco
 
 Ricardo tiene que llamar al banco por un cobro indebido en su tarjeta. Sabe cómo será: veinte minutos de espera, tres transferencias, un ejecutivo que le dirá que no puede hacer nada. La última vez terminó gritando y colgando sin resolver.
@@ -139,6 +155,13 @@ Por la noche, revisa: ¿pasó lo que imaginaste? ¿Cómo reaccionaste? Con el ti
 - **Principiante:** cada mañana, nombra a una sola persona difícil del día y una frase de comprensión.
 - **Intermedio:** agrega el plan concreto: qué vas a decir, qué no vas a decir y cuál es tu salida si la situación se complica.
 - **Avanzado:** prepárate también para tu propia parte difícil. Escribe: "Hoy probablemente yo voy a ___ (interrumpir, impacientarme, juzgar)". Los estoicos sabían que la persona difícil más frecuente en nuestro día somos nosotros mismos.
+
+## Ideas clave
+
+- Prepararte para la gente difícil no es pesimismo: es estrategia.
+- Casi nadie hace el mal sabiendo que es malo; cree que le conviene.
+- Explica la conducta del otro con la misma generosidad con que explicas la tuya.
+- Comprender a alguien no te obliga a quedarte cerca de él.
 
 ## Pregunta para el diario
 

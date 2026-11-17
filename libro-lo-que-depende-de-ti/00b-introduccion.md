@@ -2,6 +2,7 @@
 title: "Lo que depende de ti"
 subtitle: "Las Meditaciones de Marco Aurelio para la vida adulta: pareja, trabajo, negocios y aprendizaje"
 lang: es-MX
+toc-title: "Índice"
 ---
 
 # Introducción

@@ -29,15 +29,13 @@ Hoy sabemos que la motivación es una mala estrategia para la constancia. Espera
 
 Marco no se dice "ánimo, tú puedes". Se dice "esto es lo que soy". Es la misma estrategia. No discute con el cansancio; lo reubica. El cansancio es real, pero no decide.
 
-**En una frase:** la disciplina no es luchar contra las ganas, sino no consultarles.
-
 ### Interpretación 3. La incómoda: ¿y el agotamiento?
 
 Leída con prisa, esta meditación suena a cultura de la productividad: levántate a las cinco, no descanses, el sueño es para débiles. Eso sería traicionarla.
 
 Unas líneas después del pasaje citado, Marco reconoce que la naturaleza también pone límites al comer y al beber, y que hay que descansar. Lo que critica no es dormir, sino excederse en la comodidad mientras se escatima el esfuerzo. Su pregunta es: ¿descansas para poder hacer tu trabajo, o vives para descansar?
 
-Hay una diferencia entre la flojera y el agotamiento. La flojera se cura empezando; el agotamiento se cura parando. Si llevas meses sin poder levantarte, sin ganas de nada, eso puede no ser falta de disciplina, sino depresión o desgaste profesional, y la respuesta estoica, la que elige la razón, es pedir ayuda. Marco mismo agradece en el Libro I a quienes le enseñaron a cuidar su cuerpo y a sus médicos.
+Hay una diferencia entre la flojera y el agotamiento. La flojera se cura empezando; el agotamiento se cura parando. Si llevas meses sin poder levantarte, sin ganas de nada, eso puede no ser falta de disciplina, sino depresión o desgaste profesional, y la respuesta estoica, la que elige la razón, es pedir ayuda. Marco mismo elogia en el Libro I que su padre adoptivo cuidara su cuerpo con moderación, y agradece los remedios que recibió en sus enfermedades.
 
 **En una frase:** levántate a cumplir tu función, y entiende que descansar también es parte de ella.
 
@@ -63,6 +61,24 @@ El psicólogo Peter Gollwitzer ha estudiado lo que llama *intenciones de impleme
 
 Y una advertencia: desde 2019, la Organización Mundial de la Salud incluye el *burnout* o síndrome de desgaste profesional en su clasificación internacional como un fenómeno ligado al trabajo, no como una falta de voluntad. Si llevas meses agotado, no necesitas más disciplina: necesitas revisar tus condiciones y, quizá, pedir ayuda.
 
+## Diálogo con un escéptico
+
+**Escéptico:** "Levántate a hacer el trabajo de un ser humano" lo dice alguien que tenía esclavos y no tenía que pagar renta.
+
+**Autor:** Es una crítica justa, y conviene no olvidarla. Marco vivió en una sociedad esclavista y con privilegios que tú y yo no tenemos. Pero fíjate en que Epicteto, que fue esclavo, dice prácticamente lo mismo. La idea no depende de la posición social; depende de algo que todos compartimos: la tentación de quedarnos en la comodidad cuando sabemos que algo nos toca.
+
+**Escéptico:** Pero hoy el problema no es la flojera. Mucha gente trabaja demasiado.
+
+**Autor:** Totalmente de acuerdo. Por eso el capítulo distingue entre flojera y agotamiento. Si trabajas doce horas diarias, la meditación V.1 no te pide levantarte a trabajar más; te pide preguntarte para qué trabajas y si eso que haces es realmente tu función o solo la exigencia de otro. A veces la respuesta estoica es renunciar, negociar tu horario o descansar.
+
+**Escéptico:** ¿Y qué pasa con quien no encuentra sentido en su trabajo? ¿Debe aguantar?
+
+**Autor:** Debe buscarlo, y si no lo encuentra, cambiar lo que pueda. Pero mientras tanto, la función de un ser humano no se reduce a su puesto. Puedes ser buen compañero, buen padre, alguien honesto en un lugar donde nadie lo es. Eso también es trabajo humano, y no depende de que tu empleo sea fascinante.
+
+**Escéptico:** Me sigue sonando a disciplina militar.
+
+**Autor:** Marco era, literalmente, un comandante militar, así que algo de eso hay. Pero la disciplina que propone no viene de un sargento externo, sino de ti mismo. No es "obedece"; es "recuerda quién quieres ser". Esa diferencia lo cambia todo.
+
 ## Seis escenas de la vida adulta
 
 ### En la pareja: el trabajo invisible
@@ -86,6 +102,8 @@ El reporte sigue siendo aburrido. Pero ahora se levanta para otra cosa. Y, de pa
 Mariana no tiene jefe que la obligue a llegar. Eso, que parecía libertad, se volvió trampa: hay días en que empieza a trabajar a las once, después de revisar redes, y termina a medianoche, culpable.
 
 Aplica la meditación con una regla sencilla: a las 8:30 se sienta frente a la computadora, aunque no tenga ganas, y hace la tarea más importante del día durante una hora antes de abrir el correo. No espera inspiración. Cumple su oficio. El resto del día se ordena solo.
+
+No siempre. Hay semanas en que un cliente urgente le rompe la rutina desde el lunes y Mariana vuelve a sus viejas costumbres: trabajar desordenada hasta la medianoche y culparse por eso. La diferencia es que ahora sabe cuál es el camino de regreso. El jueves vuelve a sentarse a las 8:30. Marco no se escribía que nunca se quedara en la cama; se escribía qué hacer cada vez que le pasaba.
 
 **Para emprendedores:** cuando eres tu propio jefe, necesitas que tu identidad haga el trabajo que antes hacía el reloj checador.
 
@@ -137,6 +155,13 @@ Si después de una semana descubres que no encuentras ninguna frase que te mueva
 - **Principiante:** escribe tu frase de la cobija y léela al despertar durante una semana.
 - **Intermedio:** crea una intención de implementación: "Cuando suene la alarma, pongo los pies en el piso y tomo un vaso de agua antes de ver el celular".
 - **Avanzado:** revisa tus últimos siete días y pregúntate, con honestidad, si tu cansancio se cura empezando o se cura parando. Si es lo segundo, escribe qué vas a dejar de hacer para descansar de verdad.
+
+## Ideas clave
+
+- Las ganas no deciden; tu función sí.
+- La flojera se cura empezando; el agotamiento se cura parando.
+- La constancia importa más que la perfección.
+- Cuando falles, no te castigues: vuelve al camino.
 
 ## Pregunta para el diario
 

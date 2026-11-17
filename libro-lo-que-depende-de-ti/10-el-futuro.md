@@ -26,8 +26,6 @@ VII.8 dice algo muy simple y muy reconfortante: el yo del futuro tendrá las mis
 
 Piénsalo así: has sobrevivido al cien por ciento de tus peores días. No todos los resolviste bien, pero llegaste hasta aquí. Eso no es una frase motivacional; es un dato.
 
-**En una frase:** el futuro no lo enfrentará alguien más débil que tú; lo enfrentarás tú.
-
 ### Interpretación 2. La práctica: divide el peso
 
 VIII.36 ofrece una técnica concreta: no mires la vida entera de golpe. Cuando ves todas las dificultades juntas (el crédito a 20 años, la carrera de tus hijos, la jubilación, la salud de tus padres), el peso es insoportable. Pero nunca tendrás que cargar todo eso al mismo tiempo. Solo cargas lo de hoy.
@@ -35,8 +33,6 @@ VIII.36 ofrece una técnica concreta: no mires la vida entera de golpe. Cuando v
 Marco propone una pregunta: **¿qué hay de insoportable en este momento?** No en el año, no en la década. En este momento. Casi siempre la respuesta es: nada. Estás sentado, respiras, puedes hacer algo.
 
 Es la misma lógica que usan los programas de recuperación de adicciones ("solo por hoy") o los corredores de maratón (no pienses en el kilómetro 42; piensa en el siguiente).
-
-**En una frase:** el futuro completo no cabe en tus manos; el día de hoy, sí.
 
 ### Interpretación 3. La incómoda: ¿no hay que planear?
 
@@ -71,6 +67,24 @@ La ansiedad, según esta lectura, es casi siempre el síntoma de un deseo puesto
 Un estudio de 2019, de los investigadores Lucas LaFreniere y Michelle Newman, pidió a personas con ansiedad generalizada que anotaran sus preocupaciones durante varios días y luego revisaran cuáles se habían cumplido. La gran mayoría, alrededor del 90 %, no ocurrió. Y en muchos de los casos en que sí ocurrió algo, el resultado fue mejor de lo que habían temido. Es un estudio pequeño, pero ilustra muy bien la frase de Séneca.
 
 Además, una técnica que se usa en algunos tratamientos para la preocupación excesiva, desarrollada a partir de los trabajos del psicólogo Thomas Borkovec, consiste en reservar un tiempo fijo del día para preocuparse y posponer las preocupaciones que aparecen fuera de ese horario. Es la idea del "horario de planeación" que propusimos en el ejercicio de este capítulo.
+
+## Diálogo con un escéptico
+
+**Escéptico:** No preocuparse por el futuro es irresponsable. Si no me preocupo, no ahorro.
+
+**Autor:** Por eso el capítulo separa preocuparse de planear. Ahorrar es planear: una acción concreta, hoy, pensando en el futuro. Preocuparse es darle vueltas al futuro sin hacer nada. De hecho, la preocupación suele impedir el ahorro, porque el miedo es tan grande que preferimos no abrir el estado de cuenta.
+
+**Escéptico:** Pero hay futuros que dan miedo con razón: la vejez, la enfermedad, la economía.
+
+**Autor:** Claro. Los estoicos no negaban que existieran peligros. Séneca recomendaba imaginarlos a propósito, en la premeditación de los males. Pero la imaginación estoica tiene un final: termina en una preparación. La angustia de las 3 de la mañana no termina en nada; da vueltas sobre sí misma. La pregunta es si tu pensamiento sobre el futuro te deja más preparado o solo más cansado.
+
+**Escéptico:** "Llegarás con las mismas armas de hoy" no consuela si hoy me siento sin armas.
+
+**Autor:** Es una objeción honesta. Pero piensa en lo que ya has atravesado: pérdidas, crisis, cambios que creíste que no ibas a soportar. Los soportaste, no siempre bien, pero llegaste hasta aquí. Esas son tus armas, aunque hoy no las sientas. Y si de verdad te sientes sin ninguna, quizá no necesitas filosofía, sino ayuda profesional. Pedirla también es una forma de armarte.
+
+**Escéptico:** ¿Y la esperanza? Séneca dice que hay que dejar de esperar. Eso suena deprimente.
+
+**Autor:** Séneca habla de la esperanza ansiosa, la que cuelga tu paz de un resultado que no controlas. No te pide dejar de tener metas ni ilusiones. Te pide que tu tranquilidad de hoy no dependa de que se cumplan. Se puede trabajar con todas tus fuerzas por algo y, al mismo tiempo, estar en paz si no llega.
 
 ## Seis escenas de la vida adulta
 
@@ -142,6 +156,13 @@ Durante el día, dedica quince minutos fijos a "planear el futuro": finanzas, sa
 - **Principiante:** ten una libreta junto a la cama y usa la hoja de las 3 de la mañana cuando la necesites.
 - **Intermedio:** durante dos semanas, anota tus preocupaciones principales con fecha. Al final, revisa cuáles ocurrieron y cuáles no, como en el estudio de LaFreniere y Newman.
 - **Avanzado:** aplica la pregunta de Epicteto a tu ansiedad más grande: ¿qué quiero aquí que no está en mi poder? Escribe cómo sería perseguir la parte que sí depende de ti sin que tu paz dependa de la que no.
+
+## Ideas clave
+
+- El futuro lo enfrentarás con las mismas armas que tienes hoy.
+- Planear termina en una acción; preocuparse termina en otra preocupación.
+- Divide el peso: ¿qué hay de insoportable en este momento?
+- La mayoría de lo que tememos nunca ocurre.
 
 ## Pregunta para el diario
 

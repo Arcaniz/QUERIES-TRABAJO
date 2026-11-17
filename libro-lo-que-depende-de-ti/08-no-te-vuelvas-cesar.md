@@ -21,8 +21,6 @@ Hay una frase atribuida a muchos personajes: "si quieres conocer a alguien, dale
 
 Marco pone una lista de virtudes que debe proteger: sencillez, bondad, integridad, seriedad, ausencia de afectación, justicia, respeto, benevolencia, afecto y firmeza. Fíjate en que no menciona la eficacia, la inteligencia ni la visión. Para él, el riesgo del poder no era volverse menos capaz, sino volverse peor persona.
 
-**En una frase:** el éxito no revela solo lo que lograste, sino en quién te convertiste para lograrlo.
-
 ### Interpretación 2. La práctica: el liderazgo como servicio
 
 Para Marco, el poder no era un premio, sino una responsabilidad. Gobernar era servir. Esta idea tiene eco en lo que hoy se llama "liderazgo de servicio": el líder existe para que su equipo pueda trabajar bien, no al revés.
@@ -35,8 +33,6 @@ Algunas señales concretas de que el poder te está tiñendo:
 - Te rodeas de gente que te da la razón.
 - Hablas más de lo que escuchas.
 - Tratas distinto al director que al personal de limpieza.
-
-**En una frase:** el jefe que solo escucha aplausos ya empezó a teñirse de púrpura.
 
 ### Interpretación 3. La incómoda: no hace falta ser jefe para cesarizarse
 
@@ -71,6 +67,24 @@ Según una fuente antigua, la *Historia Augusta*, cuando Antonino Pío estaba a 
 El psicólogo Dacher Keltner ha estudiado durante años lo que llama la *paradoja del poder*: muchas personas obtienen poder gracias a cualidades como la empatía y la colaboración, pero una vez que lo tienen, esas mismas cualidades tienden a debilitarse. Diversos experimentos han observado que sentirse poderoso se asocia con menor atención a los demás y mayor impulsividad, aunque los efectos varían según la persona y el contexto.
 
 Que la ciencia confirme la intuición de Marco no debería sorprendernos. Lo que sí debería hacernos pensar es que nadie es inmune: el que crea que el poder no lo cambiará probablemente ya empezó a cambiar.
+
+## Diálogo con un escéptico
+
+**Escéptico:** Este capítulo es para jefes. Yo no mando a nadie.
+
+**Autor:** ¿Seguro? ¿Nadie depende de ti, en tu casa, en tu trabajo, en tu familia? ¿Nunca has tratado con un mesero, un repartidor o un empleado de ventanilla? Todos tenemos pequeños imperios. La prueba de Marco no es para emperadores; es para cualquiera que alguna vez tenga un poco de poder sobre otro, aunque sea por cinco minutos.
+
+**Escéptico:** Si soy amable y sencillo como jefe, me van a ver débil.
+
+**Autor:** Fíjate en que en la lista de Marco aparece "firme en tu deber". Sencillez no es debilidad. Antonino, su modelo, era un emperador que escuchaba, que cambiaba de opinión cuando le daban buenas razones y que no se dejaba adular. Nadie lo consideraba débil. La firmeza se demuestra en las decisiones, no en el tono de voz.
+
+**Escéptico:** Pero el poder exige a veces ser duro. Hay que despedir, hay que exigir.
+
+**Autor:** Sí, y Marco tomaba decisiones durísimas: condenaba, hacía la guerra. El capítulo no te pide evitar las decisiones difíciles, sino no convertirte en alguien que disfruta de su poder sobre otros. Puedes despedir a alguien con respeto. Puedes exigir sin humillar. La dureza de una decisión no te obliga a ser cruel en la forma.
+
+**Escéptico:** ¿Y si el poder ya me cambió?
+
+**Autor:** Que te lo preguntes es buena señal. Los que se han cesarizado del todo no se lo preguntan. El remedio de Marco es sencillo y humilde: busca un modelo, revisa tu conducta y pide a alguien de confianza que te diga la verdad. Y, sobre todo, escucha la respuesta sin defenderte.
 
 ## Seis escenas de la vida adulta
 
@@ -144,6 +158,13 @@ Me tocó un ascenso con más responsabilidades, más presión y el mismo sueldo.
 - **Principiante:** durante una semana, saluda por su nombre y con atención a tres personas que no pueden hacer nada por ti.
 - **Intermedio:** en tu próxima reunión o conversación importante, habla al final, después de que todos hayan dado su opinión. Observa qué aprendes.
 - **Avanzado:** pídele a alguien de confianza, sobre quien tienes algún tipo de poder, que te diga con franqueza una cosa que haces que lo hace sentir menos. Escucha sin defenderte y agradécele. Luego cambia esa conducta durante un mes.
+
+## Ideas clave
+
+- El poder es una prueba de carácter.
+- Todos tenemos un pequeño imperio: alguien sobre quien tenemos poder.
+- Trata igual a quien puede hacer algo por ti y a quien no.
+- Busca un modelo concreto y a alguien que te diga la verdad.
 
 ## Pregunta para el diario
 

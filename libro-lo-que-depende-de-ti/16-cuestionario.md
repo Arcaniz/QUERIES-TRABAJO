@@ -1,6 +1,6 @@
 # Cuestionario final. ¿Cuánto de esto se te quedó?
 
-Este cuestionario tiene tres partes. La primera mide si recuerdas las ideas principales. La segunda, si sabes aplicarlas a situaciones reales. La tercera no tiene respuestas correctas: es para que midas tu propia práctica. Las respuestas de las partes 1 y 2 están al final.
+Este cuestionario tiene cuatro partes. La primera mide si recuerdas las ideas principales. La segunda, si sabes aplicarlas a situaciones reales. La tercera no tiene respuestas correctas: es para que midas tu propia práctica. Una cuarta parte, al final, repasa lo que dijeron los otros estoicos y la ciencia. Las respuestas de las partes 1, 2 y 4 están al final.
 
 ## Parte 1. Conceptos (una respuesta correcta por pregunta)
 
@@ -275,11 +275,75 @@ Califica cada afirmación del 1 (nunca) al 5 (casi siempre). Hazlo hoy y vuelve 
 - **51–65 puntos. Constante.** La práctica ya es parte de tu vida. Ahora el reto es sostenerla en los días difíciles.
 - **66–75 puntos. Cuidado.** O eres muy constante, o te calificaste con generosidad. Pídele a alguien cercano que te califique a ti, y compara.
 
+## Parte 4. Los otros estoicos y la ciencia
+
+**41. ¿Qué filósofo nació esclavo y enseñó en Nicópolis?**
+a) Séneca
+b) Zenón de Citio
+c) Epicteto
+d) Crisipo
+
+**42. Según Séneca, el mejor remedio contra la ira es:**
+a) La demora
+b) El desahogo físico
+c) La venganza proporcional
+d) El silencio permanente
+
+**43. El nombre "estoicismo" viene de:**
+a) Un río de Grecia
+b) La palabra griega para "paciencia"
+c) El nombre de un emperador
+d) Un pórtico de Atenas, la *Stoa Poikile*
+
+**44. ¿Qué dilema se plantea Marco Aurelio sobre el universo?**
+a) Guerra o paz
+b) Providencia o átomos
+c) Riqueza o pobreza
+d) Roma o Atenas
+
+**45. Las *eupatheiai* son:**
+a) Las pasiones desbordadas
+b) Los primeros movimientos involuntarios
+c) Las emociones sanas, como la alegría serena
+d) Los castigos de los dioses
+
+**46. Musonio Rufo describió el matrimonio como:**
+a) Un contrato económico
+b) Una comunidad de vida y cuidado mutuo
+c) Un obstáculo para la filosofía
+d) Una obligación religiosa
+
+**47. El experimento de Brad Bushman con el saco de boxeo sugirió que desahogar la ira golpeando algo:**
+a) La reduce de inmediato
+b) No tiene ningún efecto
+c) Solo funciona en hombres
+d) Puede aumentar la agresividad
+
+**48. Epicteto recomienda que, ante la muerte de un ser querido, digamos:**
+a) "Lo devolví"
+b) "Lo perdí"
+c) "Me lo robaron"
+d) "No importa"
+
+**49. Según el estudio de LaFreniere y Newman, la mayoría de las preocupaciones de las personas con ansiedad:**
+a) Se cumplieron
+b) No se cumplieron
+c) Se cumplieron peor de lo esperado
+d) No pudieron medirse
+
+**50. La consigna que, según la *Historia Augusta*, dio Antonino Pío antes de morir fue:**
+a) Victoria
+b) Memento mori
+c) Ecuanimidad
+d) Justicia
+
 ## Respuestas
 
 **Parte 1.** 1-b · 2-d · 3-a · 4-d · 5-d · 6-c · 7-c · 8-b · 9-a · 10-d · 11-d · 12-a · 13-a · 14-c · 15-c · 16-c · 17-c · 18-d · 19-d · 20-a · 21-b · 22-a · 23-d · 24-c · 25-b · 26-b · 27-c · 28-b · 29-b · 30-a
 
 **Parte 2.** 31-b · 32-a · 33-d · 34-c · 35-c · 36-a · 37-d · 38-b · 39-b · 40-a
+
+**Parte 4.** 41-c · 42-a · 43-d · 44-b · 45-c · 46-b · 47-d · 48-a · 49-b · 50-c
 
 **Puntuación de las partes 1 y 2 (40 preguntas):**
 - 36–40: dominas las ideas. Ahora lo importante es vivirlas.

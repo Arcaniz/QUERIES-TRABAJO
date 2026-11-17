@@ -16,9 +16,13 @@
 
 **Dicotomía del control.** La distinción entre lo que depende de nosotros y lo que no. Es la base del *Manual* de Epicteto y del Capítulo 1.
 
+**Eupatheiai (buenas emociones).** Las emociones sanas que, según los estoicos, siente la persona sabia: la alegría serena (en lugar del placer desbordado), la precaución razonable (en lugar del miedo) y la buena voluntad o el deseo razonable (en lugar del apetito sin medida). Prueban que el estoicismo no busca la frialdad.
+
 **Eudaimonía.** Suele traducirse como "felicidad", pero significa algo más cercano a "vida lograda" o "florecimiento". Para los estoicos se alcanza mediante la virtud.
 
 **Hegemonikón.** La parte rectora del alma, la facultad que razona, juzga y decide. Marco Aurelio la menciona con frecuencia como su "ciudadela interior".
+
+**Providencia.** La creencia estoica de que el universo está ordenado por una razón divina que cuida del todo. Marco Aurelio la sostiene, aunque se plantea varias veces la alternativa de un universo de átomos sin orden.
 
 **Logos.** La razón que, según los estoicos, ordena el universo y que también está presente en cada ser humano.
 
@@ -30,7 +34,7 @@
 
 **Premeditatio malorum.** "Premeditación de los males". Ejercicio de imaginar por adelantado lo que puede salir mal para prepararse y no ser tomado por sorpresa.
 
-**Primeros movimientos (propatheiai).** Las reacciones involuntarias e inmediatas, como el sobresalto o el rubor. No dependen de nosotros; lo que depende es qué hacemos después.
+**Primeros movimientos.** Las reacciones involuntarias e inmediatas, como el sobresalto o el rubor. Séneca los llama en latín *primi motus*; autores posteriores usaron el término griego *propatheiai*, "prepasiones". No dependen de nosotros; lo que depende es qué hacemos después.
 
 **Prohairesis.** Término de Epicteto para la facultad de elegir, la voluntad. Es lo único que, según él, es verdaderamente nuestro.
 

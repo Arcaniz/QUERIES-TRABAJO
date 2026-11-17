@@ -32,8 +32,6 @@ Hay una herramienta de productividad que se le atribuye al presidente estadounid
 
 El *memento mori* funciona como un amplificador del susurro. Cuando recuerdas que tu tiempo es limitado, lo importante sube de volumen. Muchas personas que pasan por una enfermedad grave o una pérdida cercana cuentan lo mismo: de pronto supieron qué les importaba. El estoicismo propone no esperar a la enfermedad para descubrirlo.
 
-**En una frase:** recordar la muerte es la forma más rápida de distinguir lo urgente de lo importante.
-
 ### Interpretación 3. La incómoda: ¿no es morboso?
 
 Para muchas personas, pensar en la muerte es deprimente o angustiante. ¿Es sano hacerlo todos los días?
@@ -65,6 +63,24 @@ Hay que leer esto con delicadeza. Epicteto no pide no llorar. Pide recordar que 
 Los psicólogos Thomas Gilovich y Victoria Medvec estudiaron en los años noventa de qué se arrepienten las personas. Encontraron que, a corto plazo, solemos lamentar más lo que hicimos mal, pero a largo plazo, al mirar la vida en perspectiva, lamentamos más lo que no hicimos: las oportunidades no tomadas, las palabras no dichas, los caminos no explorados.
 
 Es una confirmación moderna de la pregunta de este capítulo: ¿qué estoy posponiendo como si tuviera diez mil años? Las cosas que no hacemos por creer que habrá tiempo son las que más pesan cuando el tiempo se acaba.
+
+## Diálogo con un escéptico
+
+**Escéptico:** Pensar en la muerte todos los días me parece morboso.
+
+**Autor:** Todos los días, durante horas, lo sería. Pero el *memento mori* es un recordatorio breve, no una obsesión. Funciona como el aviso de "batería baja" en el celular: no te dice que el teléfono va a explotar, te dice que uses bien lo que queda. Lo morboso, en realidad, es vivir como si la muerte no existiera y descubrirlo de golpe en un hospital.
+
+**Escéptico:** Si recuerdo que voy a morir, ¿por qué no gastar todo y hacer lo que se me antoje?
+
+**Autor:** Porque Marco no dice "vive como si mañana murieras"; dice "mientras vives, mientras puedes, sé bueno". La conclusión no es el placer desenfrenado, sino la seriedad. Si el tiempo es poco, no lo desperdicies en rencores, en pendientes inútiles ni en lo que no importa. Las personas que han estado cerca de la muerte rara vez dicen "debí gastar más". Suelen decir "debí decir más, abrazar más, perdonar más".
+
+**Escéptico:** Lo de Epicteto, "no digas lo perdí, di lo devolví", me parece frío frente a la muerte de alguien querido.
+
+**Autor:** Entiendo que lo parezca, sobre todo al principio del duelo. No es una frase para decirle a alguien en el funeral. Es una idea que, con el tiempo, a muchas personas les ha servido para transformar la rabia de la pérdida en gratitud por lo que tuvieron. La persona que amamos nunca fue nuestra; fue un regalo. El dolor es enorme precisamente porque el regalo lo era.
+
+**Escéptico:** ¿Y si no creo en nada después de la muerte?
+
+**Autor:** Marco tampoco estaba seguro. En varios pasajes considera ambas posibilidades: que haya algo después, o que simplemente nos disolvamos en la naturaleza. Y llega a la misma conclusión en los dos casos: no hay nada que temer, y lo único que importa es cómo vivimos mientras estamos aquí. Es una de las ideas más consoladoras del libro, y sirve igual para creyentes y para quienes no creen.
 
 ## Seis escenas de la vida adulta
 
@@ -116,7 +132,7 @@ Esa misma semana saca cita. Los estudios salen casi bien: un poco de colesterol,
 
 ## Nota del autor
 
-Cuando murió mi papá, los problemas del trabajo cambiaron de tamaño de un día para otro. El reporte urgente, la junta tensa, el correo que antes me habría quitado el sueño, todo se volvió pequeño. No escribo esto para decir que el duelo tenga un lado bueno; no lo tiene. Lo escribo porque me dejó una pregunta que sigo usando: ¿esto va a importar dentro de un año? Casi siempre la respuesta es no. Y cuando la respuesta es sí, casi siempre se trata de una persona, no de una tarea.
+Desde que mi papá enfermó, los problemas del trabajo empezaron a cambiar de tamaño. El reporte urgente, la junta tensa, el correo que antes me habría quitado el sueño, todo se fue volviendo pequeño. Y cuando murió, sentí que se me quitaba de los hombros el peso de muchas cosas que yo creía importantes. No escribo esto para decir que el duelo tenga un lado bueno; no lo tiene. Lo escribo porque me dejó una pregunta que sigo usando: ¿esto va a importar dentro de un año? Casi siempre la respuesta es no. Y cuando la respuesta es sí, casi siempre se trata de una persona, no de una tarea.
 
 ## Lo que este capítulo no dice
 
@@ -139,6 +155,13 @@ Cuando murió mi papá, los problemas del trabajo cambiaron de tamaño de un dí
 - **Principiante:** esta noche, antes de dormir, di como Séneca: "He vivido". Piensa en una sola cosa del día que valió la pena.
 - **Intermedio:** escribe la lista de las tres conversaciones, visitas o acciones que llevas tiempo posponiendo y que lamentarías no haber hecho. Elige una y hazla este mes.
 - **Avanzado:** escribe tu propio obituario, no el que tendrías si murieras hoy, sino el que te gustaría que escribieran dentro de muchos años. Luego compáralo con tu agenda de esta semana. La distancia entre los dos es tu trabajo pendiente.
+
+## Ideas clave
+
+- Recordar la muerte no le quita sentido a la vida: le pone fecha de entrega.
+- Lo urgente grita; lo importante susurra.
+- A la larga lamentamos más lo que no hicimos.
+- Mientras vives, mientras puedes, sé bueno.
 
 ## Pregunta para el diario
 

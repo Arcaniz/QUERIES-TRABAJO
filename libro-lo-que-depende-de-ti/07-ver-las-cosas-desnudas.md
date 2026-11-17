@@ -33,8 +33,6 @@ Hoy vivimos rodeados de máquinas que hacen exactamente lo contrario de lo que M
 
 El ejercicio de VI.13 es un filtro para decisiones de consumo. Antes de comprar algo caro, descríbelo desnudo: "un pedazo de cuero con un logotipo", "una computadora que hace lo mismo que la que tengo, con una cámara mejor", "una camioneta que voy a usar para ir al trabajo, solo, todos los días". Si después de desnudarlo todavía lo quieres, cómpralo sin culpa. Muchas veces descubrirás que lo que querías era la historia, no la cosa.
 
-**En una frase:** antes de pagar por algo, pregúntate cuánto estás pagando por la historia.
-
 ### Interpretación 3. La incómoda: ¿y la belleza?
 
 Hay un riesgo en este ejercicio: volverse cínico. Si todo es "solo" algo, entonces una sinfonía es "solo" aire que vibra, un beso es "solo" contacto de piel y un hijo es "solo" un conjunto de células. Por ese camino uno llega a no valorar nada.
@@ -66,6 +64,24 @@ Los psicólogos llaman *adaptación hedónica* a la tendencia a acostumbrarnos a
 Otras líneas de estudio, como las del psicólogo Tim Kasser, han asociado una fuerte orientación a valores materialistas (riqueza, imagen, estatus) con menor bienestar en promedio. Y trabajos de Leaf Van Boven y Thomas Gilovich sugirieron que, en muchos casos, gastar en experiencias deja más satisfacción que gastar en cosas.
 
 Nada de esto significa que el dinero no importe. Significa que, una vez cubierto lo necesario, lo que compramos para la historia rara vez nos da lo que la historia promete.
+
+## Diálogo con un escéptico
+
+**Escéptico:** Desnudar las cosas me parece triste. Si todo es "solo" algo, nada tiene encanto.
+
+**Autor:** El ejercicio no es para todo. Es para lo que te esclaviza: lo que te endeuda, lo que te hace envidiar, lo que te hace sentir menos. No necesitas desnudar el abrazo de tu hijo ni una puesta de sol. Marco mismo se maravillaba de la belleza de las cosas naturales. Lo que desnuda es el prestigio, no la belleza.
+
+**Escéptico:** Pero las marcas, los títulos y la reputación importan en el mundo real. Si no los cuido, pierdo oportunidades.
+
+**Autor:** Claro que importan, como herramientas. Un buen título puede abrirte una puerta; una buena reputación puede conseguirte un cliente. Los estoicos los llamaban "indiferentes preferibles": es razonable preferirlos. El problema empieza cuando confundes la herramienta con tu valor como persona, y entonces pierdes el sueño por un logotipo o un cargo.
+
+**Escéptico:** Séneca era riquísimo. ¿No es hipócrita que un millonario te diga que no te importe el dinero?
+
+**Autor:** Es una contradicción real, y sus contemporáneos se la echaban en cara. Pero la idea se puede separar del personaje. Además, Séneca no decía que no te importe el dinero; decía que no dependas de él. Un rico que podría perderlo todo sin perder la cabeza es más libre que un pobre que vive obsesionado con tener más. La contradicción de Séneca nos sirve de advertencia: esto es fácil de predicar y difícil de vivir.
+
+**Escéptico:** ¿Entonces está mal comprarme algo caro?
+
+**Autor:** No. Si después de desnudarlo sigues queriéndolo, y puedes pagarlo sin hipotecar tu tranquilidad, cómpralo y disfrútalo. El ejercicio no prohíbe; aclara. Te asegura que estás comprando la cosa y no una historia que te vendieron.
 
 ## Seis escenas de la vida adulta
 
@@ -141,6 +157,13 @@ Bonus: la próxima vez que te enojes con alguien, describe lo que hizo en una fr
 - **Principiante:** antes de cualquier compra mayor a lo que gastas en un día normal, escribe su definición desnuda en una sola frase.
 - **Intermedio:** aplica la regla de las 72 horas: si algo te deslumbra, espera tres días antes de comprarlo. Si después de desnudarlo y esperar todavía lo quieres, cómpralo sin culpa.
 - **Avanzado:** desnuda algo tuyo de lo que te sientes orgulloso: tu puesto, tu casa, tu título. Pregúntate qué quedaría de tu valor como persona si lo perdieras mañana. Esa respuesta es lo que realmente te pertenece.
+
+## Ideas clave
+
+- Describe las cosas tal como son, sin la historia que las infla.
+- Pregúntate cuánto pagas por la cosa y cuánto por la historia.
+- La riqueza y la fama son "indiferentes": herramientas, no medida de tu valor.
+- Desnuda lo que te esclaviza; deja vestido lo que te hace mejor.
 
 ## Pregunta para el diario
 

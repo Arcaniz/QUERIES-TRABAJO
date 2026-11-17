@@ -16,6 +16,14 @@ Para vivir bien, decían, hay que vivir de acuerdo con la naturaleza. Y como la 
 
 Todo lo demás (la salud, la riqueza, la fama, incluso la vida) era para ellos *indiferente*. No en el sentido de que no importara, sino en el de que no es ni bueno ni malo en sí mismo: depende de cómo se use. Un millonario puede ser generoso o cruel; un enfermo puede ser valiente o amargado. Lo que decide si una vida es buena no es lo que te pasa, sino cómo respondes.
 
+## ¿Y los dioses?
+
+Hay algo que muchos libros modernos sobre estoicismo prefieren no mencionar, y que conviene decir desde el principio: los estoicos antiguos eran profundamente religiosos, a su manera. Creían que el universo estaba ordenado por una razón divina, el *logos*, a la que a veces llamaban Zeus, naturaleza o providencia. Para ellos, todo lo que ocurre forma parte de ese orden, y por eso aceptar lo que no depende de nosotros no era resignarse ante el caos, sino colaborar con un todo que tiene sentido.
+
+Marco Aurelio comparte esa creencia. El Libro I de las *Meditaciones* termina agradeciendo a los dioses, y en muchos pasajes habla de la "naturaleza del todo" y de aceptar con gusto lo que nos toca. Pero también es honesto con la duda. Varias veces se plantea un dilema: o el universo está gobernado por la providencia, o es solo un revoltijo de átomos que se juntan y se separan al azar (por ejemplo, en IV.3). Y llega a una conclusión notable: en cualquiera de los dos casos, la manera correcta de vivir es la misma. Si hay providencia, hay que vivir de acuerdo con ella. Si no la hay, con más razón hay que gobernarse con la propia razón y no dejarse arrastrar.
+
+Este libro ofrece una lectura práctica del estoicismo que puede servir tanto a creyentes de cualquier religión como a quienes no creen. No es porque la teología estoica no importe, sino porque, como el propio Marco intuyó, la parte de su filosofía que toca nuestra vida diaria funciona en ambos casos. Pero conviene que el lector sepa que el emperador no era un pensador secular moderno: rezaba, agradecía y creía que el universo tenía un orden.
+
 ## De Atenas a Roma
 
 Después de Zenón, la escuela tuvo otros líderes en Atenas, como Cleantes, que había sido boxeador y aguatero, y Crisipo, un pensador tan prolífico que se decía que sin él no habría estoicismo. Con el tiempo, el estoicismo viajó a Roma, donde encontró un terreno fértil. A los romanos, gente práctica, les interesaba menos la lógica y la física, y más la ética: cómo gobernar, cómo enfrentar la adversidad, cómo morir con dignidad.

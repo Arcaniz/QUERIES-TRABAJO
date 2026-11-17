@@ -25,15 +25,11 @@ Para los estoicos, el ser humano es un ser social por naturaleza. Lo que somos l
 
 El Libro I es un antídoto contra la soberbia. Un emperador que se repite cada día "esto lo aprendí de mi abuelo, esto de mi madre, esto de mi maestro" difícilmente se cree superior a los demás. Es la vacuna contra el "volverse César" del Capítulo 8.
 
-**En una frase:** cada virtud que tienes tiene la huella de alguien que te la enseñó.
-
 ### Interpretación 2. La psicológica: la gratitud como práctica
 
 La psicología contemporánea ha estudiado mucho la gratitud. Varios estudios sugieren que escribir regularmente lo que agradecemos se asocia con más bienestar, mejor sueño y relaciones más sólidas. Pero la clave, según esas investigaciones, es la misma que muestra Marco: ser específico. "Estoy agradecido por mi familia" funciona menos que "estoy agradecido porque mi hermana me llamó cuando estaba enfermo".
 
 Marco no escribe un agradecimiento genérico. Escribe conductas concretas que aprendió. Eso convierte la gratitud en algo más que un sentimiento: en una forma de recordar quién quieres ser.
-
-**En una frase:** la gratitud funciona cuando es concreta: no "gracias por todo", sino "gracias por esto".
 
 ### Interpretación 3. La incómoda: ¿y si mi familia me hizo daño?
 
@@ -64,6 +60,24 @@ Es una gratitud distinta a la de Marco: no hacia otras personas, sino hacia lo q
 En un estudio de 2003 que se volvió muy influyente, los psicólogos Robert Emmons y Michael McCullough pidieron a un grupo de participantes que anotaran cada semana cosas por las que se sentían agradecidos, a otro que anotaran molestias y a un tercero que anotaran simplemente acontecimientos. Los del grupo de gratitud reportaron, en promedio, sentirse mejor con su vida y más optimistas. Investigaciones posteriores han encontrado resultados en la misma dirección, aunque con efectos moderados, y no como una cura milagrosa.
 
 Lo interesante es que varios estudios coinciden con el método de Marco: la gratitud parece funcionar mejor cuando es específica y cuando se expresa a la persona, no solo cuando se siente en privado.
+
+## Diálogo con un escéptico
+
+**Escéptico:** La gratitud está muy bien, pero a veces es una forma de conformarse. "Agradece lo que tienes y no pidas más".
+
+**Autor:** Ese uso existe, y es tramposo. Pero Marco agradecía y, al mismo tiempo, trabajaba sin descanso por mejorar su imperio y a sí mismo. Agradecer lo que recibiste no te impide luchar por lo que te falta ni denunciar lo que está mal. De hecho, quien reconoce lo que otros hicieron por él suele tener más ganas de hacer algo por los demás.
+
+**Escéptico:** ¿Y si mis padres me hicieron daño? ¿También tengo que agradecerles?
+
+**Autor:** No. Puedes reconocer lo que aprendiste de una experiencia dolorosa sin agradecerle a quien te la causó. Marco aprendió de Frontón cómo es la hipocresía de los tiranos. No le estaba dando las gracias por ser hipócrita; estaba reconociendo una lección. Tu Libro I puede incluir lo que no quieres repetir. Eso también te formó.
+
+**Escéptico:** Escribir listas de gratitud me parece cursi.
+
+**Autor:** Puede serlo, si escribes "gracias por todo" cada noche. Lo que hace Marco es otra cosa: anota conductas concretas que aprendió de personas concretas. Es casi un inventario de su carácter. No es un ejercicio de emociones bonitas, sino de memoria. Saber de dónde vienen tus virtudes te ayuda a cuidarlas, y a no creerte que las inventaste tú solo.
+
+**Escéptico:** ¿Y para qué decírselo a la otra persona? Con saberlo yo, basta.
+
+**Autor:** Quizá para ti. Pero piensa en la otra persona: un maestro, un antiguo jefe, un amigo que nunca supo que te cambió la vida. Decírselo cuesta muy poco y puede significar muchísimo para ella. Y hay un motivo más, muy estoico: el tiempo para decirlo no es infinito.
 
 ## Seis escenas de la vida adulta
 
@@ -105,7 +119,7 @@ Claudia escribe: "De mi papá aprendí a trabajar duro y a cumplir mi palabra. T
 
 ### En el dinero y la salud: el médico de cabecera
 
-Jorge tiene un médico familiar que lo atiende desde niño. Cuando le detectaron colesterol alto hace años, el doctor no solo le dio una receta: le explicó con paciencia qué estaba pasando y le habló claro sobre sus hábitos. Jorge nunca le dio las gracias más allá del "gracias, doctor" de cada consulta.
+Jorge tiene un médico familiar que lo atiende desde niño. Cuando le detectaron un problema de tiroides hace años, el doctor no solo le dio una receta: le explicó con paciencia qué estaba pasando y le habló claro sobre sus hábitos. Jorge nunca le dio las gracias más allá del "gracias, doctor" de cada consulta.
 
 En su Libro I, Jorge escribe: "Del doctor Méndez aprendí que cuidarse es una responsabilidad con la familia, no una vanidad". Le lleva la hoja en la siguiente consulta. El doctor, que ya está por jubilarse, la guarda en el cajón de su escritorio. Jorge se da cuenta de que hay personas que sostienen nuestra vida durante décadas sin que nunca se lo digamos.
 
@@ -130,6 +144,13 @@ En su Libro I, Jorge escribe: "Del doctor Méndez aprendí que cuidarse es una r
 - **Principiante:** cada noche, escribe una gratitud específica: no "mi familia", sino "que mi hermano me llamó para preguntar cómo estaba".
 - **Intermedio:** escribe tu Libro I completo, con al menos diez personas, incluida una de la que aprendiste lo que no quieres ser.
 - **Avanzado:** haz lo que se conoce como *visita de gratitud*: escribe una carta de una página a alguien que influyó en tu vida y léesela en persona o por videollamada.
+
+## Ideas clave
+
+- Nadie se hace solo: cada virtud tiene la huella de alguien.
+- La gratitud funciona cuando es concreta y se expresa.
+- También se aprende de quien te enseñó lo que no quieres ser.
+- Agradecer no es conformarse.
 
 ## Pregunta para el diario
 

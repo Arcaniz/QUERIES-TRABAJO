@@ -31,8 +31,6 @@ La lectura práctica es esta: cada "sí" que das a algo innecesario es un "no" q
 
 Y Marco añade algo que casi ningún libro de productividad menciona: **los pensamientos innecesarios**. Las preocupaciones repetidas, las conversaciones imaginarias, la rumiación de lo que alguien dijo hace una semana. Son tareas invisibles que llenan la agenda mental.
 
-**En una frase:** cada sí a lo innecesario es un no a lo importante.
-
 ### Interpretación 3. La incómoda: ¿quién decide qué es necesario?
 
 La objeción es seria: lo que para mí es innecesario puede ser necesario para otro. La junta que me parece inútil puede ser importante para mi jefe. La reunión familiar que me aburre puede ser vital para mi mamá.
@@ -62,6 +60,24 @@ Decir que no a lo innecesario tiene un costo: a veces vas a parecer descortés, 
 La investigadora Gloria Mark ha estudiado durante años cómo trabajamos frente a las pantallas. Uno de sus hallazgos más citados es que, después de una interrupción, a muchas personas les toma bastante tiempo, en algunos estudios alrededor de veinte minutos o más, volver de lleno a la tarea original. Además, sus investigaciones han observado que la atención en pantalla cambia de foco cada vez más rápido.
 
 Otras investigaciones sobre la multitarea sugieren que, en la mayoría de los casos, no hacemos dos cosas a la vez, sino que saltamos rápidamente de una a otra, y cada salto tiene un costo. Dicho en términos de Marco: cada pensamiento y cada acción innecesarios no solo ocupan su propio tiempo, sino que contaminan el de lo necesario.
+
+## Diálogo con un escéptico
+
+**Escéptico:** "¿Esto es necesario?" es fácil de preguntar cuando no tienes jefe. Yo no puedo cancelar juntas.
+
+**Autor:** No todas, es cierto. Pero muchas personas descubren que pueden más de lo que creían: pedir la agenda, proponer un correo en lugar de una reunión, pedir la minuta. Y aunque no puedas cancelar nada externo, siempre puedes podar lo interno: los pensamientos innecesarios, la rumiación sobre la junta de ayer, las conversaciones imaginarias. Marco insiste en esa segunda poda porque es la que siempre depende de ti.
+
+**Escéptico:** Lo que para mí es innecesario puede ser importante para otro. ¿No es egoísta?
+
+**Autor:** Lo sería si "necesario" significara "lo que me gusta". Pero Marco lo define por lo que exige tu papel de ser social. A veces lo necesario es ir a la comida familiar que te aburre, porque tu mamá la necesita. La pregunta no te libera de tus deberes; te libera de lo que haces por inercia, por vanidad o por miedo.
+
+**Escéptico:** Si digo que no a todo, me voy a quedar sin amigos y sin oportunidades.
+
+**Autor:** Decir que no a todo es tan irreflexivo como decir que sí a todo. La pregunta es caso por caso. Y hay algo que se descubre con la práctica: cuando dices que no a lo innecesario, tu "sí" vale más. La gente sabe que, si aceptas, es porque de verdad vas a estar.
+
+**Escéptico:** ¿Y el ocio? ¿Ver una serie es innecesario?
+
+**Autor:** Descansar es necesario. Ver una serie que disfrutas, con tu pareja, después de un día difícil, puede ser exactamente lo que tu vida necesita esa noche. Lo que no es necesario es pasar tres horas cambiando de plataforma sin ver nada, o ver algo que ni siquiera te gusta solo para no pensar. La diferencia no está en la actividad, sino en si la elegiste o te arrastró.
 
 ## Seis escenas de la vida adulta
 
@@ -133,6 +149,13 @@ Aplica la pregunta de Marco a cada una: ¿esto es necesario? Cancela siete. Ahor
 - **Principiante:** cada mañana, elige las tres cosas necesarias del día y escríbelas antes de abrir el correo.
 - **Intermedio:** practica un "no" amable a la semana: rechaza un compromiso, una junta o un favor que no sea necesario, sin dar explicaciones largas.
 - **Avanzado:** haz una auditoría de tu tiempo durante tres días: anota en bloques de media hora qué hiciste. Al final, marca qué fue necesario y qué no. Calcula cuántas horas a la semana se te van en lo innecesario y decide qué harías con la mitad de ellas.
+
+## Ideas clave
+
+- Pregúntate en cada momento: ¿esto es necesario?
+- Cada sí a lo innecesario es un no a lo importante.
+- Poda también los pensamientos innecesarios.
+- Lo necesario se define por tu papel con los demás, no por tu comodidad.
 
 ## Pregunta para el diario
 
