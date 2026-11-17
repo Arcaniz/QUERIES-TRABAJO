@@ -83,6 +83,10 @@ Recuerda a Alejandro el gramático, a quien Marco agradece en el Libro I por ens
 
 **Si acompañas a tus hijos:** Sofía es delegada del salón. En casa cuenta, con orgullo, que regañó a un compañero por portarse mal. Claudia le pregunta: "¿Y cómo crees que se sintió él?". Le explica que ser delegada es ayudar al grupo, no mandar sobre él. Es la primera lección de liderazgo de su hija, y la más importante.
 
+## Nota del autor
+
+Me tocó un ascenso con más responsabilidades, más presión y el mismo sueldo. La primera tentación fue la queja; la segunda, más peligrosa, fue descargar esa presión en las personas que ahora dependían de mí. Este capítulo me obligó a separar dos cosas. Lo que no dependía de mí: la decisión de la empresa sobre el sueldo. Lo que sí: preparar con datos la conversación para pedir lo justo, organizar mejor mi tiempo y, sobre todo, no convertir mi frustración en el mal día de mi equipo. Descubrí que se puede reclamar lo que a uno le corresponde sin volverse el jefe que uno no quería tener.
+
 ## Lo que este capítulo no dice
 
 **"No busques el poder ni el éxito."** No. Marco gobernó con energía y aceptó su responsabilidad. El problema no es tener poder, sino dejar que el poder te tenga.

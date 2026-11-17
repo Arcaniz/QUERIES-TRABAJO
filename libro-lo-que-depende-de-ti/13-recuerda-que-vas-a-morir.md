@@ -78,6 +78,10 @@ Un historiador romano tardío, Amiano Marcelino, cuenta una anécdota sobre Sóc
 
 **Si acompañas a tus hijos:** muere la abuela de Sofía. Es la primera muerte cercana para la niña. Claudia no le dice que la abuela "se fue de viaje" ni que "está dormida". Le explica, con palabras sencillas, que la abuela murió, que es natural y triste, y que pueden recordarla. Juntas hacen una lista de las cosas que aprendieron de ella: como un pequeño Libro I. Sofía aprende que la muerte se puede nombrar, llorar y convertir en gratitud.
 
+## Nota del autor
+
+Cuando murió mi papá, los problemas del trabajo cambiaron de tamaño de un día para otro. El reporte urgente, la junta tensa, el correo que antes me habría quitado el sueño, todo se volvió pequeño. No escribo esto para decir que el duelo tenga un lado bueno; no lo tiene. Lo escribo porque me dejó una pregunta que sigo usando: ¿esto va a importar dentro de un año? Casi siempre la respuesta es no. Y cuando la respuesta es sí, casi siempre se trata de una persona, no de una tarea.
+
 ## Lo que este capítulo no dice
 
 **"Vive cada día como si fuera el último."** No en el sentido de "gasta todo, haz locuras". Marco propone vivir cada día con la seriedad y el cuidado de quien sabe que el tiempo es limitado, no con la desesperación de quien cree que se acaba mañana.

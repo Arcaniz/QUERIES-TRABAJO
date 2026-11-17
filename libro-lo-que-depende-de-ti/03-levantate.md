@@ -75,6 +75,10 @@ La meditación le ofrece una respuesta que no depende de las ganas: aprender es 
 
 **Si acompañas a tus hijos:** Sofía no quiere levantarse para ir a la escuela. Claudia podría gritar, rogar o sobornar. Prueba otra cosa: en la noche, le pregunta a su hija qué le toca hacer mañana que solo ella puede hacer (ayudar a su amiga con la exposición, cuidar la planta del salón). Le está enseñando, sin nombrarlo, que levantarse tiene un para qué.
 
+## Nota del autor
+
+Durante una temporada estudié y trabajé al mismo tiempo. Había noches en que llegaba a casa tan agotado que no distinguía si lo que sentía era flojera o cansancio de verdad. Con el tiempo aprendí a hacerme la pregunta de este capítulo: ¿esto se cura empezando o se cura parando? Algunas noches la respuesta era abrir el cuaderno veinte minutos aunque no tuviera ganas. Otras era cerrar todo, cenar y dormir. Las dos cosas eran parte de mi función. Lo que no me sirvió nunca fue quedarme a medias: ni estudiar ni descansar, solo sentirme culpable frente a la pantalla.
+
 ## Lo que este capítulo no dice
 
 **"Madrugar te hace mejor persona."** No. Marco habla de levantarse a cumplir tu función, no de una hora específica. Hay personas cuyo trabajo empieza de noche. Lo importante es no huir de lo que te toca.
