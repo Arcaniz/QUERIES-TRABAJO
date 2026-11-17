@@ -37,7 +37,7 @@ pandoc 0*.md 1*.md -o <archivo>.docx --toc --toc-depth=1
 ## Reglas que no se deben romper
 
 - **Prólogo y notas del autor:** voz real del autor. No inventar detalles de su vida. Sobre su padre, solo esto: desde que enfermó, los problemas diarios pesaron menos; cuando murió, se le quitó de los hombros el peso de todo lo que creía importante.
-- **Cuestionario:** las respuestas son idénticas en ambas idiomas (Parte 1: 1-b 2-d 3-a 4-d 5-d 6-c 7-c 8-b 9-a 10-d 11-d 12-a 13-a 14-c 15-c 16-c 17-c 18-d 19-d 20-a 21-b 22-a 23-d 24-c 25-b 26-b 27-c 28-b 29-b 30-a; Parte 2: 31-b 32-a 33-d 34-c 35-c 36-a 37-d 38-b 39-b 40-a; Parte 4: 41-c 42-a 43-d 44-b 45-c 46-b 47-d 48-a 49-b 50-c).
+- **Cuestionario:** las respuestas son idénticas en ambos idiomas (Parte 1: 1-b 2-d 3-a 4-d 5-d 6-c 7-c 8-b 9-a 10-d 11-d 12-a 13-a 14-c 15-c 16-c 17-c 18-d 19-d 20-a 21-b 22-a 23-d 24-c 25-b 26-b 27-c 28-b 29-b 30-a; Parte 2: 31-b 32-a 33-d 34-c 35-c 36-a 37-d 38-b 39-b 40-a; Parte 4: 41-c 42-a 43-d 44-b 45-c 46-b 47-d 48-a 49-b 50-c).
 - **Coherencia entre ediciones:** cualquier cambio de contenido se aplica en las dos.
 - **Honestidad:** en KDP se debe declarar el uso de IA; no "ocultar" la IA, sino mejorar la calidad.
 
