@@ -52,9 +52,6 @@ Within Your Power brings those notes into your week: the text left on read, the 
 
 No tough-guy Stoicism. No empty self-help. Just a practical, honest guide for adults who know life won't get simpler, and want to live it better anyway.
 
-[Small, bottom left]
-Francisco Javier Ballesteros met Marcus Aurelius in a university philosophy class and rediscovered him years later: during a promotion with more responsibility than pay, a season of working while studying, and the loss of his father.
-
 Leave the bottom right corner completely empty (2 x 1.2 inches) for the barcode. No other text.
 ```
 
@@ -79,9 +76,6 @@ Lo que depende de ti lleva esas notas a tu semana: el mensaje en visto, el jefe 
 • Ejercicios en tres niveles, una rutina de 30 días y un cuestionario final
 
 Sin estoicismo de "hombres duros". Sin autoayuda vacía. Una guía práctica y honesta para adultos que saben que la vida no se va a simplificar y quieren vivirla mejor de todos modos.
-
-[Pequeño, abajo a la izquierda]
-Francisco Javier Ballesteros conoció a Marco Aurelio en una clase de filosofía de la facultad y lo redescubrió años después: en un ascenso con más responsabilidad que sueldo, en una temporada de estudiar y trabajar al mismo tiempo, y en la pérdida de su padre.
 
 Deja la esquina inferior derecha completamente vacía (2 x 1.2 pulgadas) para el código de barras. Ningún otro texto.
 ```

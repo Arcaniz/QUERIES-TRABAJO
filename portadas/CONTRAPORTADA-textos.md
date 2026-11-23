@@ -17,7 +17,6 @@ Inside, you'll find:
 
 No tough-guy Stoicism. No empty self-help. Just a practical, honest guide for adults who know life won't get simpler, and want to live it better anyway.
 
-**Francisco Javier Ballesteros** met Marcus Aurelius in a university philosophy class and rediscovered him years later: during a promotion with more responsibility than pay, a season of working while studying, and the loss of his father.
 
 ---
 
@@ -38,4 +37,3 @@ En este libro encontrarás:
 
 Sin estoicismo de "hombres duros". Sin autoayuda vacía. Una guía práctica y honesta para adultos que saben que la vida no se va a simplificar y quieren vivirla mejor de todos modos.
 
-**Francisco Javier Ballesteros** conoció a Marco Aurelio en una clase de filosofía de la facultad y lo redescubrió años después: en un ascenso con más responsabilidad que sueldo, en una temporada de estudiar y trabajar al mismo tiempo, y en la pérdida de su padre.
