@@ -27,4 +27,10 @@ Este libro tiene fines de divulgación y reflexión personal. No sustituye la at
 
 ::: {custom-style="Block Text"}
 *A mi papá, que sin decirlo me enseñó qué es lo importante.*
+
+&nbsp;
+
+*A mi familia más cercana y a mis amigos, que ahora son familia, que me han ayudado en cada momento, alegre o difícil.*
+
+*A mis hijas y a mi esposa, que me han enseñado otra manera de ver la vida.*
 :::

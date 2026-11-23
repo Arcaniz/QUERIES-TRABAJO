@@ -37,4 +37,10 @@ Originally written in Spanish as *Lo que depende de ti*. English edition adapted
 
 ::: {custom-style="Block Text"}
 *For my father, who taught me, without ever saying it, what really matters.*
+
+&nbsp;
+
+*For my closest family, and for my friends, who are family now, who have helped me through every moment, happy or hard.*
+
+*For my daughters and my wife, who have taught me another way of seeing life.*
 :::
