@@ -2,9 +2,9 @@
 
 ## Lo que un emperador me enseñó sin saberlo
 
-Conocí a Marco Aurelio en un salón de la facultad, en una clase de filosofía que, para ser honesto, al principio me parecía lejana a todo lo que yo necesitaba. Leímos algunos fragmentos de las *Meditaciones* y me llamó la atención algo que no esperaba: aquel hombre, que gobernaba el imperio más grande de su tiempo, no escribía sobre su poder, sino sobre sus dudas. Se regañaba, se daba ánimos, se recordaba lo que era importante. Parecía alguien tratando de no perder la cabeza.
+Llegué a Marco Aurelio leyendo sobre filosofía. Esas lecturas me fueron llevando hasta él y hasta sus *Meditaciones*, y ahí me encontré con algo que no esperaba: aquel hombre, que gobernaba el imperio más grande de su tiempo, no escribía sobre su poder, sino sobre sus dudas. Se regañaba, se daba ánimos, se recordaba lo que era importante. Parecía alguien tratando de no perder la cabeza.
 
-Entonces lo leí como se lee un texto para un examen. Años después lo volví a leer como se lee una carta que llega justo cuando la necesitas. Este libro nace de esa segunda lectura y de tres momentos de mi vida en los que esas notas antiguas me sirvieron más que cualquier consejo moderno.
+Al principio lo leí como a un autor más entre muchos. Años después lo volví a leer como se lee una carta que llega justo cuando la necesitas. Este libro nace de esa segunda lectura y de tres momentos de mi vida en los que esas notas antiguas me sirvieron más que cualquier consejo moderno.
 
 ### Más responsabilidad, el mismo sueldo
 

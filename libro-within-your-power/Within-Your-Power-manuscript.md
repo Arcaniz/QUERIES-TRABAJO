@@ -48,9 +48,9 @@ Originally written in Spanish as *Lo que depende de ti*. English edition adapted
 
 ## What an Emperor Taught Me Without Knowing It
 
-I met Marcus Aurelius in a university classroom, in a philosophy course that, to be honest, felt far removed from anything I needed at the time. We read a few passages from the *Meditations*, and something caught me off guard: this man, who ruled the largest empire of his age, didn't write about his power. He wrote about his doubts. He scolded himself, encouraged himself, reminded himself of what mattered. He sounded like someone trying hard not to lose his head.
+I came to Marcus Aurelius through reading about philosophy. One book led me to the next until I reached him and his *Meditations*, and there something caught me off guard: this man, who ruled the largest empire of his age, didn't write about his power. He wrote about his doubts. He scolded himself, encouraged himself, reminded himself of what mattered. He sounded like someone trying hard not to lose his head.
 
-Back then I read him the way you read a text for an exam. Years later I read him again, the way you read a letter that arrives exactly when you need it. This book was born from that second reading, and from three moments in my life when those ancient notes helped me more than any modern advice.
+At first I read him as one more author among many. Years later I read him again, the way you read a letter that arrives exactly when you need it. This book was born from that second reading, and from three moments in my life when those ancient notes helped me more than any modern advice.
 
 ### More Responsibility, Same Paycheck
 
@@ -3031,7 +3031,7 @@ If this book has whetted your appetite, here are a few doors to keep going. Choo
 A final caution: you don't need to read them all. Marcus Aurelius told himself to set aside his thirst for books and devote himself to living. Read one, practice what you read, and then, if you like, read another.
 # About the Author
 
-**Francisco Javier Ballesteros** first encountered Marcus Aurelius in a university philosophy class and rediscovered him years later, in the middle of a promotion that brought more responsibility than pay, a season of working and studying at the same time, and the loss of his father. [Optional: add your profession or field and where you live.]
+**Francisco Javier Ballesteros** came to Marcus Aurelius through his reading in philosophy and rediscovered him years later, in the middle of a promotion that brought more responsibility than pay, a season of working and studying at the same time, and the loss of his father. [Optional: add your profession or field and where you live.]
 
 *Within Your Power* is his first book. He wrote it for people who, like him, look to ancient philosophy not for a theory but for a calmer way to face Tuesday afternoon.
 

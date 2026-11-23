@@ -38,9 +38,9 @@ Este libro tiene fines de divulgación y reflexión personal. No sustituye la at
 
 ## Lo que un emperador me enseñó sin saberlo
 
-Conocí a Marco Aurelio en un salón de la facultad, en una clase de filosofía que, para ser honesto, al principio me parecía lejana a todo lo que yo necesitaba. Leímos algunos fragmentos de las *Meditaciones* y me llamó la atención algo que no esperaba: aquel hombre, que gobernaba el imperio más grande de su tiempo, no escribía sobre su poder, sino sobre sus dudas. Se regañaba, se daba ánimos, se recordaba lo que era importante. Parecía alguien tratando de no perder la cabeza.
+Llegué a Marco Aurelio leyendo sobre filosofía. Esas lecturas me fueron llevando hasta él y hasta sus *Meditaciones*, y ahí me encontré con algo que no esperaba: aquel hombre, que gobernaba el imperio más grande de su tiempo, no escribía sobre su poder, sino sobre sus dudas. Se regañaba, se daba ánimos, se recordaba lo que era importante. Parecía alguien tratando de no perder la cabeza.
 
-Entonces lo leí como se lee un texto para un examen. Años después lo volví a leer como se lee una carta que llega justo cuando la necesitas. Este libro nace de esa segunda lectura y de tres momentos de mi vida en los que esas notas antiguas me sirvieron más que cualquier consejo moderno.
+Al principio lo leí como a un autor más entre muchos. Años después lo volví a leer como se lee una carta que llega justo cuando la necesitas. Este libro nace de esa segunda lectura y de tres momentos de mi vida en los que esas notas antiguas me sirvieron más que cualquier consejo moderno.
 
 ### Más responsabilidad, el mismo sueldo
 
@@ -3028,7 +3028,7 @@ Si este libro te abrió el apetito, estas son algunas puertas para seguir. Busca
 Una advertencia final: no hace falta leerlos todos. Marco Aurelio se escribió a sí mismo que dejara de lado la sed de libros y se dedicara a vivir. Lee uno, practica lo que leas y después, si quieres, lee otro.
 # Sobre el autor
 
-**Francisco Javier Ballesteros** conoció a Marco Aurelio en las clases de filosofía de la facultad y lo redescubrió años después, en medio de un ascenso con más responsabilidades que sueldo, una temporada de estudiar y trabajar al mismo tiempo y la pérdida de su padre. [Opcional: agrega tu profesión o área de trabajo y dónde vives.]
+**Francisco Javier Ballesteros** llegó a Marco Aurelio a través de sus lecturas de filosofía y lo redescubrió años después, en medio de un ascenso con más responsabilidades que sueldo, una temporada de estudiar y trabajar al mismo tiempo y la pérdida de su padre. [Opcional: agrega tu profesión o área de trabajo y dónde vives.]
 
 *Lo que depende de ti* es su primer libro. Lo escribió para quienes, como él, buscan en la filosofía antigua no una teoría, sino una forma más serena de enfrentar el martes por la tarde.
 

@@ -2,9 +2,9 @@
 
 ## What an Emperor Taught Me Without Knowing It
 
-I met Marcus Aurelius in a university classroom, in a philosophy course that, to be honest, felt far removed from anything I needed at the time. We read a few passages from the *Meditations*, and something caught me off guard: this man, who ruled the largest empire of his age, didn't write about his power. He wrote about his doubts. He scolded himself, encouraged himself, reminded himself of what mattered. He sounded like someone trying hard not to lose his head.
+I came to Marcus Aurelius through reading about philosophy. One book led me to the next until I reached him and his *Meditations*, and there something caught me off guard: this man, who ruled the largest empire of his age, didn't write about his power. He wrote about his doubts. He scolded himself, encouraged himself, reminded himself of what mattered. He sounded like someone trying hard not to lose his head.
 
-Back then I read him the way you read a text for an exam. Years later I read him again, the way you read a letter that arrives exactly when you need it. This book was born from that second reading, and from three moments in my life when those ancient notes helped me more than any modern advice.
+At first I read him as one more author among many. Years later I read him again, the way you read a letter that arrives exactly when you need it. This book was born from that second reading, and from three moments in my life when those ancient notes helped me more than any modern advice.
 
 ### More Responsibility, Same Paycheck
 
